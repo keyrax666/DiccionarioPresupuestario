@@ -3,11 +3,13 @@
     "id": "presupuesto-publico",
     "termino": "Presupuesto público",
     "categoria": "Conceptos presupuestarios",
-    "definicion": "Plan financiero anual de ingresos y gastos autorizado al Estado.",
-    "ejemplo": "En un hospital público: consultar o documentar «presupuesto público» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Ejecución",
+    "definicion": "Instrumento mediante el cual el Estado estima ingresos y autoriza gastos para un ejercicio fiscal.",
+    "ejemplo": "Un hospital programa recursos para personal, servicios, medicamentos y equipamiento.",
+    "fuente": "Ley Orgánica del Presupuesto y su reglamento.",
     "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Es simultáneamente un plan financiero, una autorización legal y una herramienta de gestión. En una unidad ejecutora permite vincular recursos con servicios que deben prestarse a la población.",
+    "advertencia": "No equivale a dinero disponible en una cuenta bancaria."
   },
   {
     "id": "presupuesto-general",
@@ -23,21 +25,25 @@
     "id": "ejercicio-fiscal",
     "termino": "Ejercicio fiscal",
     "categoria": "Conceptos presupuestarios",
-    "definicion": "Período anual para planificar y registrar el presupuesto.",
-    "ejemplo": "En un hospital público: consultar o documentar «ejercicio fiscal» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Ejecución",
+    "definicion": "Período al que corresponden la autorización y la ejecución del presupuesto.",
+    "ejemplo": "Comparar la ejecución de enero a diciembre de un mismo año.",
+    "fuente": "Ley Orgánica del Presupuesto.",
     "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "En Guatemala el presupuesto se organiza por ejercicios fiscales anuales. La programación, ejecución y cierre deben interpretarse según las reglas y fechas oficiales del período correspondiente.",
+    "advertencia": "No confundir ejercicio fiscal con plazo contractual."
   },
   {
     "id": "presupuesto-aprobado",
     "termino": "Presupuesto aprobado",
     "categoria": "Conceptos presupuestarios",
-    "definicion": "Monto autorizado al iniciar el ejercicio fiscal.",
-    "ejemplo": "En un hospital público: consultar o documentar «presupuesto aprobado» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Ejecución",
+    "definicion": "Monto autorizado originalmente para un período fiscal.",
+    "ejemplo": "Un renglón inicia con Q100,000 aprobados.",
+    "fuente": "Ley Orgánica del Presupuesto.",
     "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Es el punto de partida de las asignaciones presupuestarias. A lo largo del ejercicio puede cambiar por modificaciones formalmente autorizadas, por lo que no necesariamente coincide con el presupuesto vigente.",
+    "advertencia": "No usarlo como sinónimo de saldo disponible."
   },
   {
     "id": "presupuesto-inicial",
@@ -53,11 +59,13 @@
     "id": "presupuesto-vigente",
     "termino": "Presupuesto vigente",
     "categoria": "Conceptos presupuestarios",
-    "definicion": "Presupuesto inicial ajustado por modificaciones autorizadas.",
-    "ejemplo": "En un hospital público: consultar o documentar «presupuesto vigente» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Ejecución",
+    "definicion": "Presupuesto aprobado más o menos las modificaciones autorizadas.",
+    "ejemplo": "Q100,000 aprobados más Q20,000 de ampliación dan Q120,000 vigentes.",
+    "fuente": "Manual de clasificaciones presupuestarias.",
     "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Refleja el monto actualizado de los créditos presupuestarios. Para analizar ejecución debe utilizarse el mismo corte de fecha y estructura que el reporte consultado.",
+    "advertencia": "Vigente no significa disponible para gastar sin otros controles."
   },
   {
     "id": "presupuesto-ejecutado",
@@ -83,21 +91,25 @@
     "id": "asignacion-presupuestaria",
     "termino": "Asignación presupuestaria",
     "categoria": "Conceptos presupuestarios",
-    "definicion": "Monto de recursos asignado a una partida.",
-    "ejemplo": "En un hospital público: consultar o documentar «asignación presupuestaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Ejecución",
+    "definicion": "Crédito autorizado para una finalidad y clasificación determinadas.",
+    "ejemplo": "Crédito asignado para materiales y suministros.",
+    "fuente": "Normativa presupuestaria.",
     "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "La asignación se identifica mediante la estructura presupuestaria y los clasificadores aplicables. Su existencia es condición relevante para la gestión del gasto, pero no sustituye autorizaciones ni requisitos de contratación.",
+    "advertencia": "Una asignación no es una autorización automática de compra."
   },
   {
     "id": "disponibilidad-presupuestaria",
     "termino": "Disponibilidad presupuestaria",
     "categoria": "Conceptos presupuestarios",
-    "definicion": "Crédito utilizable para respaldar una operación de gasto.",
-    "ejemplo": "En un hospital público: consultar o documentar «disponibilidad presupuestaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Ejecución",
+    "definicion": "Comprobación de crédito según el momento y la estructura aplicables.",
+    "ejemplo": "Revisar partida y saldo antes de iniciar una adquisición.",
+    "fuente": "Normativa presupuestaria y controles internos.",
     "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Antes de tramitar un gasto se revisa la existencia de crédito suficiente y otros requisitos de la operación. El reporte consultado debe interpretarse según etapa presupuestaria y corte.",
+    "advertencia": "Disponibilidad no sustituye proceso de contratación."
   },
   {
     "id": "saldo-disponible",
@@ -193,11 +205,13 @@
     "id": "cierre-fiscal",
     "termino": "Cierre fiscal",
     "categoria": "Conceptos presupuestarios",
-    "definicion": "Proceso de cierre de registros al terminar un ejercicio fiscal.",
-    "ejemplo": "En un hospital público: consultar o documentar «cierre fiscal» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Ejecución",
+    "definicion": "Conjunto de operaciones y verificaciones al finalizar el ejercicio.",
+    "ejemplo": "Revisión de operaciones pendientes al cierre anual.",
+    "fuente": "Disposiciones de cierre vigentes.",
     "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Implica revisar registros, obligaciones, saldos y documentación conforme al calendario y las instrucciones oficiales. Los plazos y tratamientos específicos pueden cambiar cada año.",
+    "advertencia": "No asumir que todos los trámites siguen abiertos hasta el último día."
   },
   {
     "id": "programacion-presupuestaria",
@@ -313,11 +327,13 @@
     "id": "partida-presupuestaria",
     "termino": "Partida presupuestaria",
     "categoria": "Estructura programática",
-    "definicion": "Identificación de un gasto mediante clasificadores presupuestarios.",
-    "ejemplo": "En un hospital público: consultar o documentar «partida presupuestaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Clasificación",
+    "definicion": "Combinación de códigos que identifica una asignación específica.",
+    "ejemplo": "Partida de materiales médicos asociada a una fuente y actividad.",
+    "fuente": "Manual de clasificaciones presupuestarias.",
     "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Integra los clasificadores pertinentes para registrar, consultar y controlar gasto. Para interpretarla correctamente deben leerse todos sus componentes, no solo el renglón.",
+    "advertencia": "Dos partidas con el mismo renglón pueden ser distintas."
   },
   {
     "id": "programa",
@@ -343,21 +359,25 @@
     "id": "proyecto",
     "termino": "Proyecto",
     "categoria": "Estructura programática",
-    "definicion": "Intervención de inversión definida en la estructura programática.",
-    "ejemplo": "En un hospital público: consultar o documentar «proyecto» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Clasificación",
+    "definicion": "Conjunto de intervenciones de inversión orientadas a un objetivo específico.",
+    "ejemplo": "Ampliación de infraestructura hospitalaria.",
+    "fuente": "Normativa de inversión pública.",
     "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Suele contar con productos, costos y horizonte de ejecución definidos. En presupuesto se distingue de actividades operativas recurrentes.",
+    "advertencia": "No todo gasto de equipo constituye por sí solo un proyecto."
   },
   {
     "id": "actividad-presupuestaria",
     "termino": "Actividad presupuestaria",
     "categoria": "Estructura programática",
-    "definicion": "Categoría que agrupa operaciones de producción institucional.",
-    "ejemplo": "En un hospital público: consultar o documentar «actividad presupuestaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Clasificación",
+    "definicion": "Categoría que identifica operaciones continuas de producción institucional.",
+    "ejemplo": "Actividad vinculada a atención hospitalaria.",
+    "fuente": "Manual de clasificaciones presupuestarias.",
     "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Una actividad contribuye al funcionamiento o entrega de bienes y servicios. Su código forma parte de la estructura programática que se utiliza en los registros.",
+    "advertencia": "No equivale a una tarea individual del trabajador."
   },
   {
     "id": "obra",
@@ -383,11 +403,13 @@
     "id": "unidad-ejecutora",
     "termino": "Unidad ejecutora",
     "categoria": "Estructura programática",
-    "definicion": "Unidad autorizada a gestionar ejecución de su presupuesto.",
-    "ejemplo": "En un hospital público: consultar o documentar «unidad ejecutora» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Clasificación",
+    "definicion": "Dependencia autorizada para ejecutar recursos dentro de una estructura institucional.",
+    "ejemplo": "Un hospital gestiona su presupuesto dentro de la estructura del MSPAS.",
+    "fuente": "Normativa institucional y presupuestaria.",
     "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "La unidad ejecutora administra operaciones presupuestarias de acuerdo con sus atribuciones, estructura, controles y procedimientos aplicables. No debe confundirse con la institución completa.",
+    "advertencia": "Su alcance y competencias dependen de la organización vigente."
   },
   {
     "id": "unidad-administrativa",
@@ -603,51 +625,61 @@
     "id": "renglon-presupuestario",
     "termino": "Renglón presupuestario",
     "categoria": "Renglones y clasificadores",
-    "definicion": "Código específico que identifica la naturaleza del gasto.",
-    "ejemplo": "En un hospital público: consultar o documentar «renglón presupuestario» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Clasificación",
+    "definicion": "Código que clasifica el objeto o naturaleza del gasto.",
+    "ejemplo": "Identificar si una compra corresponde a materiales, servicios o equipo.",
+    "fuente": "Manual de clasificaciones presupuestarias.",
     "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Es una herramienta central para identificar qué se adquiere o remunera. La clasificación correcta depende de la descripción oficial del bien, servicio u obligación y no solamente del nombre comercial.",
+    "advertencia": "Verificar el clasificador vigente antes de asignar código."
   },
   {
     "id": "grupo-000",
     "termino": "Grupo 000",
     "categoria": "Renglones y clasificadores",
-    "definicion": "Agrupación de servicios personales.",
-    "ejemplo": "En un hospital público: consultar o documentar «grupo 000» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Clasificación",
+    "definicion": "Agrupación de gastos de servicios personales.",
+    "ejemplo": "Planificación de remuneraciones.",
+    "fuente": "Manual de clasificaciones presupuestarias.",
     "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Comprende categorías relacionadas con remuneraciones y otras obligaciones del personal según el clasificador oficial. Su aplicación requiere revisar renglones específicos.",
+    "advertencia": "No sustituye la clasificación por renglón."
   },
   {
     "id": "grupo-100",
     "termino": "Grupo 100",
     "categoria": "Renglones y clasificadores",
     "definicion": "Agrupación de servicios no personales.",
-    "ejemplo": "En un hospital público: consultar o documentar «grupo 100» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Clasificación",
+    "ejemplo": "Servicios contratados para operación hospitalaria.",
+    "fuente": "Manual de clasificaciones presupuestarias.",
     "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Incluye servicios adquiridos por la institución que no corresponden a remuneraciones de personal. El renglón concreto depende de la naturaleza del servicio.",
+    "advertencia": "No clasificar por costumbre sin revisar descripción oficial."
   },
   {
     "id": "grupo-200",
     "termino": "Grupo 200",
     "categoria": "Renglones y clasificadores",
     "definicion": "Agrupación de materiales y suministros.",
-    "ejemplo": "En un hospital público: consultar o documentar «grupo 200» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Clasificación",
+    "ejemplo": "Compra de guantes y materiales de uso clínico.",
+    "fuente": "Manual de clasificaciones presupuestarias.",
     "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Abarca bienes consumibles y suministros según el clasificador. En hospitales requiere especial cuidado al distinguir insumos, medicamentos, reactivos y materiales por su clasificación vigente.",
+    "advertencia": "No todos los bienes físicos pertenecen al grupo 200."
   },
   {
     "id": "grupo-300",
     "termino": "Grupo 300",
     "categoria": "Renglones y clasificadores",
     "definicion": "Agrupación de propiedad, planta, equipo e intangibles.",
-    "ejemplo": "En un hospital público: consultar o documentar «grupo 300» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Clasificación",
+    "ejemplo": "Adquisición de determinado equipo hospitalario.",
+    "fuente": "Manual de clasificaciones presupuestarias.",
     "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Incluye categorías de adquisición de activos conforme a las descripciones oficiales. La clasificación puede requerir diferenciar bienes duraderos de suministros consumibles.",
+    "advertencia": "No confundir compra de equipo con compra de repuestos."
   },
   {
     "id": "grupo-400",
@@ -813,11 +845,13 @@
     "id": "fuente-de-financiamiento",
     "termino": "Fuente de financiamiento",
     "categoria": "Renglones y clasificadores",
-    "definicion": "Identificador del origen de recursos que financian gastos.",
-    "ejemplo": "En un hospital público: consultar o documentar «fuente de financiamiento» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Clasificación",
+    "definicion": "Identificador del origen de los recursos presupuestarios.",
+    "ejemplo": "Revisar la fuente asociada a una partida antes de gestionar gasto.",
+    "fuente": "Manual de clasificaciones presupuestarias.",
     "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "La fuente permite reconocer de dónde provienen los fondos y puede condicionar su uso. Dos créditos para el mismo objeto del gasto pueden requerir controles distintos si pertenecen a fuentes diferentes.",
+    "advertencia": "No trasladar recursos entre fuentes sin respaldo normativo."
   },
   {
     "id": "organismo-financiador",
@@ -903,41 +937,49 @@
     "id": "precompromiso",
     "termino": "Precompromiso",
     "categoria": "Etapas de ejecución",
-    "definicion": "Registro previo a un compromiso según procedimiento del sistema.",
-    "ejemplo": "En un hospital público: consultar o documentar «precompromiso» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Ejecución",
+    "definicion": "Registro preliminar o reserva utilizada en determinados procesos.",
+    "ejemplo": "Reserva preliminar asociada a una gestión de compra.",
+    "fuente": "Manuales operativos vigentes.",
     "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Su uso y efectos exactos dependen del sistema, el procedimiento y la operación. Debe estudiarse junto con compromiso y disponibilidad para evitar interpretaciones erróneas.",
+    "advertencia": "No afirmar que aplica idénticamente a todos los procesos."
   },
   {
     "id": "compromiso",
     "termino": "Compromiso",
     "categoria": "Etapas de ejecución",
-    "definicion": "Etapa que reserva crédito al formalizar una obligación de gasto.",
-    "ejemplo": "En un hospital público: consultar o documentar «compromiso» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Ejecución",
+    "definicion": "Etapa que registra una obligación asumida conforme al procedimiento aplicable.",
+    "ejemplo": "Se registra el compromiso correspondiente a una adquisición autorizada.",
+    "fuente": "Ley Orgánica del Presupuesto y manuales SICOIN.",
     "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Representa una fase de la ejecución distinta del reconocimiento de la obligación de pago. La documentación y el momento preciso dependen del tipo de operación y reglas del sistema.",
+    "advertencia": "Comprometido no significa recibido ni pagado."
   },
   {
     "id": "devengado",
     "termino": "Devengado",
     "categoria": "Etapas de ejecución",
-    "definicion": "Etapa que reconoce obligación de pago cuando se cumplen requisitos.",
-    "ejemplo": "En un hospital público: consultar o documentar «devengado» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Ejecución",
+    "definicion": "Etapa que reconoce una obligación de pago debidamente sustentada.",
+    "ejemplo": "Tras recibir conforme suministros y completar requisitos se registra el devengado.",
+    "fuente": "Ley Orgánica del Presupuesto y manuales SICOIN.",
     "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "En adquisiciones suele relacionarse con el cumplimiento de condiciones y la recepción conforme, cuando corresponde. Permite distinguir obligaciones reconocidas de compromisos aún no devengados y de pagos realizados.",
+    "advertencia": "Devengado no significa que el proveedor ya cobró."
   },
   {
     "id": "pagado",
     "termino": "Pagado",
     "categoria": "Etapas de ejecución",
-    "definicion": "Etapa en la que se cancela una obligación devengada.",
-    "ejemplo": "En un hospital público: consultar o documentar «pagado» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Ejecución",
+    "definicion": "Etapa que refleja el pago de una obligación reconocida.",
+    "ejemplo": "Tesorería efectúa el pago de una obligación válida.",
+    "fuente": "Ley Orgánica del Presupuesto y manuales SICOIN.",
     "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "El pago es distinto del compromiso y del devengado. Analizar estas tres etapas permite detectar obligaciones pendientes y explicar diferencias entre ejecución y desembolsos.",
+    "advertencia": "No confundir pago con recepción de bienes."
   },
   {
     "id": "compromiso-y-devengado",
@@ -1203,31 +1245,37 @@
     "id": "modificacion-presupuestaria",
     "termino": "Modificación presupuestaria",
     "categoria": "Modificaciones y cuotas",
-    "definicion": "Cambio autorizado en créditos de gasto durante el ejercicio.",
-    "ejemplo": "En un hospital público: consultar o documentar «modificación presupuestaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Ejecución",
+    "definicion": "Cambio formalmente autorizado a las asignaciones del presupuesto.",
+    "ejemplo": "Ajustar créditos entre partidas cuando el procedimiento lo permite.",
+    "fuente": "Ley Orgánica del Presupuesto y reglamento.",
     "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Puede redistribuir o variar créditos dentro de los límites y competencias establecidos. Requiere justificación, trámite y aprobación conforme a la normativa aplicable.",
+    "advertencia": "No ejecutar una modificación antes de su aprobación."
   },
   {
     "id": "transferencia-presupuestaria",
     "termino": "Transferencia presupuestaria",
     "categoria": "Modificaciones y cuotas",
-    "definicion": "Reasignación de créditos entre partidas según competencia.",
-    "ejemplo": "En un hospital público: consultar o documentar «transferencia presupuestaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Ejecución",
+    "definicion": "Movimiento de créditos entre asignaciones sujeto a autorización.",
+    "ejemplo": "Reforzar una partida con recursos de otra autorizada.",
+    "fuente": "Normativa anual y presupuestaria.",
     "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Se utiliza para adecuar la distribución de recursos a necesidades reales. Las restricciones varían según la naturaleza de las partidas, la fuente y la competencia de aprobación.",
+    "advertencia": "No asumir que todas las partidas pueden transferirse libremente."
   },
   {
     "id": "ampliacion-presupuestaria",
     "termino": "Ampliación presupuestaria",
     "categoria": "Modificaciones y cuotas",
-    "definicion": "Aumento autorizado de créditos.",
-    "ejemplo": "En un hospital público: consultar o documentar «ampliación presupuestaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Ejecución",
+    "definicion": "Incremento autorizado del monto presupuestario.",
+    "ejemplo": "Aumento de créditos para cubrir necesidades extraordinarias.",
+    "fuente": "Ley Orgánica del Presupuesto.",
     "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Puede obedecer a fuentes y condiciones previstas legalmente. Su tratamiento debe distinguirse de una simple redistribución interna.",
+    "advertencia": "No confundir ampliación con transferencia."
   },
   {
     "id": "disminucion-presupuestaria",
@@ -1503,31 +1551,37 @@
     "id": "poa",
     "termino": "POA",
     "categoria": "Planificación y resultados",
-    "definicion": "Plan Operativo Anual que organiza actividades y metas de un ejercicio.",
-    "ejemplo": "En un hospital público: consultar o documentar «poa» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Planificación",
+    "definicion": "Plan Operativo Anual de la institución.",
+    "ejemplo": "Programar metas de atención y recursos asociados.",
+    "fuente": "Lineamientos SEGEPLAN y MINFIN.",
     "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Organiza acciones, metas y recursos esperados para un año. Su articulación con presupuesto ayuda a conectar lo planificado con la ejecución efectiva.",
+    "advertencia": "No confundir metas físicas con montos financieros."
   },
   {
     "id": "pom",
     "termino": "POM",
     "categoria": "Planificación y resultados",
-    "definicion": "Plan Operativo Multianual que programa objetivos y metas de varios años.",
-    "ejemplo": "En un hospital público: consultar o documentar «pom» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Planificación",
+    "definicion": "Plan Operativo Multianual.",
+    "ejemplo": "Proyectar necesidades de servicios para próximos ejercicios.",
+    "fuente": "Lineamientos SEGEPLAN.",
     "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Presenta la planificación para varios años y facilita la continuidad entre objetivos estratégicos y planes anuales. Su horizonte y formato responden a lineamientos vigentes.",
+    "advertencia": "No reemplaza el POA anual."
   },
   {
     "id": "pei",
     "termino": "PEI",
     "categoria": "Planificación y resultados",
-    "definicion": "Plan Estratégico Institucional que orienta prioridades de mediano plazo.",
-    "ejemplo": "En un hospital público: consultar o documentar «pei» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Planificación",
+    "definicion": "Plan Estratégico Institucional.",
+    "ejemplo": "Vincular objetivos de salud con planes operativos.",
+    "fuente": "Lineamientos SEGEPLAN.",
     "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Define orientación estratégica, objetivos y resultados institucionales a un horizonte determinado. Es una referencia para el POM y el POA.",
+    "advertencia": "No es una partida presupuestaria."
   },
   {
     "id": "gestion-por-resultados",
@@ -1543,21 +1597,25 @@
     "id": "producto",
     "termino": "Producto",
     "categoria": "Planificación y resultados",
-    "definicion": "Bien o servicio entregado a la población por la institución.",
-    "ejemplo": "En un hospital público: consultar o documentar «producto» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Planificación",
+    "definicion": "Bien o servicio entregado por una institución a una población objetivo.",
+    "ejemplo": "Atenciones de salud proporcionadas.",
+    "fuente": "Guía de Gestión por Resultados MINFIN-SEGEPLAN.",
     "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "En gestión por resultados permite expresar qué produce la entidad con sus recursos. Debe distinguirse del resultado, que representa el cambio esperado en la población.",
+    "advertencia": "Producto no equivale automáticamente a resultado sanitario."
   },
   {
     "id": "subproducto",
     "termino": "Subproducto",
     "categoria": "Planificación y resultados",
-    "definicion": "Entrega específica que permite operar y costear un producto.",
-    "ejemplo": "En un hospital público: consultar o documentar «subproducto» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Planificación",
+    "definicion": "Entrega específica que contribuye a un producto.",
+    "ejemplo": "Consultas de control prenatal dentro de una línea de atención.",
+    "fuente": "Guía de Gestión por Resultados MINFIN-SEGEPLAN.",
     "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Desagrega la producción para programar y dar seguimiento a servicios concretos. Su relación con el producto ayuda a ordenar metas físicas.",
+    "advertencia": "No confundir subproducto con insumo."
   },
   {
     "id": "insumo",
@@ -1623,11 +1681,13 @@
     "id": "meta-fisica",
     "termino": "Meta física",
     "categoria": "Planificación y resultados",
-    "definicion": "Cantidad de productos o servicios prevista o realizada.",
-    "ejemplo": "En un hospital público: consultar o documentar «meta física» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Planificación",
+    "definicion": "Cantidad prevista o realizada de producción institucional.",
+    "ejemplo": "Programar 2,000 atenciones y reportar 1,700 realizadas.",
+    "fuente": "Guía de Gestión por Resultados MINFIN-SEGEPLAN.",
     "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Permite comparar lo programado con lo ejecutado en unidades de medida específicas. Debe analizarse junto con gasto para comprender eficiencia y avance.",
+    "advertencia": "No confundir meta física con asignación monetaria."
   },
   {
     "id": "meta-financiera",
@@ -1643,11 +1703,13 @@
     "id": "indicador",
     "termino": "Indicador",
     "categoria": "Planificación y resultados",
-    "definicion": "Medida definida para monitorear avances o resultados.",
-    "ejemplo": "En un hospital público: consultar o documentar «indicador» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Planificación",
+    "definicion": "Medida que permite observar avances o resultados.",
+    "ejemplo": "Porcentaje de cumplimiento de una meta de atención.",
+    "fuente": "Guía de Gestión por Resultados MINFIN-SEGEPLAN.",
     "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Debe tener definición, fórmula, unidad de medida, fuente y periodicidad cuando corresponda. Un buen indicador facilita seguimiento consistente.",
+    "advertencia": "No usar cifras sin definir su denominador."
   },
   {
     "id": "linea-base",
@@ -1803,31 +1865,37 @@
     "id": "sicoin",
     "termino": "SICOIN",
     "categoria": "Sistemas y documentos",
-    "definicion": "Sistema de Contabilidad Integrada usado para registros financieros.",
-    "ejemplo": "En un hospital público: consultar o documentar «sicoin» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Control",
+    "definicion": "Sistema de Contabilidad Integrada de la administración financiera pública.",
+    "ejemplo": "Consultar ejecución por partida y período.",
+    "fuente": "Documentación oficial MINFIN.",
     "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Permite registrar y consultar información presupuestaria y contable según perfiles y procesos autorizados. Los accesos y pantallas pueden cambiar; las instrucciones operativas deben provenir de manuales vigentes.",
+    "advertencia": "No compartir credenciales ni capturas con datos sensibles."
   },
   {
     "id": "siges",
     "termino": "SIGES",
     "categoria": "Sistemas y documentos",
-    "definicion": "Sistema Informático de Gestión usado en procesos de gestión pública.",
-    "ejemplo": "En un hospital público: consultar o documentar «siges» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Control",
+    "definicion": "Sistema de Gestión utilizado en procesos administrativos y financieros.",
+    "ejemplo": "Seguimiento administrativo de una adquisición.",
+    "fuente": "Documentación oficial MINFIN.",
     "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Se relaciona con la gestión de expedientes y operaciones que alimentan procesos financieros según su configuración. La integración con otros sistemas depende del trámite.",
+    "advertencia": "No tratarlo como sustituto de SICOIN."
   },
   {
     "id": "guatecompras",
     "termino": "GUATECOMPRAS",
     "categoria": "Sistemas y documentos",
-    "definicion": "Sistema de información pública de adquisiciones y contrataciones.",
-    "ejemplo": "En un hospital público: consultar o documentar «guatecompras» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Control",
+    "definicion": "Sistema de información de contrataciones y adquisiciones del Estado.",
+    "ejemplo": "Buscar información pública de un concurso.",
+    "fuente": "Ley de Contrataciones del Estado y normativa del sistema.",
     "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Facilita publicidad y consulta de procedimientos de compra pública. Los requisitos de publicación y modalidad deben verificarse en la normativa de contrataciones.",
+    "advertencia": "Publicación no equivale a aprobación de todas las etapas."
   },
   {
     "id": "guatenominas",
@@ -1843,11 +1911,13 @@
     "id": "cur",
     "termino": "CUR",
     "categoria": "Sistemas y documentos",
-    "definicion": "Comprobante Único de Registro de una operación financiera.",
-    "ejemplo": "En un hospital público: consultar o documentar «cur» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Control",
+    "definicion": "Comprobante Único de Registro utilizado para documentar operaciones financieras.",
+    "ejemplo": "Consultar un CUR de gasto y su estado.",
+    "fuente": "Manuales SICOIN.",
     "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "El CUR identifica y respalda registros dentro del sistema correspondiente. Su interpretación exige revisar tipo, estado, datos de imputación y documentos relacionados.",
+    "advertencia": "La existencia de un CUR no demuestra por sí sola pago realizado."
   },
   {
     "id": "cur-de-compromiso",
@@ -1963,11 +2033,13 @@
     "id": "requisicion",
     "termino": "Requisición",
     "categoria": "Sistemas y documentos",
-    "definicion": "Solicitud interna de bienes o servicios requeridos.",
-    "ejemplo": "En un hospital público: consultar o documentar «requisición» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Control",
+    "definicion": "Solicitud interna de bienes o servicios.",
+    "ejemplo": "Servicio hospitalario solicita materiales a través del formato aplicable.",
+    "fuente": "Procedimientos institucionales autorizados.",
     "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Inicia o respalda la identificación de una necesidad. Su contenido y autorizaciones varían según el procedimiento institucional y modalidad de adquisición.",
+    "advertencia": "La requisición no es una orden de compra."
   },
   {
     "id": "solicitud-de-compra",
@@ -1983,11 +2055,13 @@
     "id": "orden-de-compra",
     "termino": "Orden de compra",
     "categoria": "Sistemas y documentos",
-    "definicion": "Documento que formaliza una adquisición según procedimiento.",
-    "ejemplo": "En un hospital público: consultar o documentar «orden de compra» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Control",
+    "definicion": "Documento que formaliza una adquisición conforme al proceso aplicable.",
+    "ejemplo": "Se emite una orden para suministros adjudicados.",
+    "fuente": "Ley de Contrataciones y procedimientos aplicables.",
     "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Debe interpretarse junto con el expediente y las condiciones pactadas. No demuestra por sí sola que los bienes hayan sido recibidos.",
+    "advertencia": "No confundir emisión con recepción conforme."
   },
   {
     "id": "factura",
@@ -2103,11 +2177,13 @@
     "id": "pac",
     "termino": "PAC",
     "categoria": "Compras y contratación",
-    "definicion": "Plan Anual de Compras que organiza adquisiciones previstas.",
-    "ejemplo": "En un hospital público: consultar o documentar «pac» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Compras",
+    "definicion": "Plan Anual de Compras de la entidad.",
+    "ejemplo": "Programar compras de suministros para el año.",
+    "fuente": "Normativa de contrataciones públicas.",
     "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Organiza adquisiciones previstas y sirve como herramienta de programación y transparencia conforme a reglas aplicables. Su actualización debe seguir las disposiciones vigentes.",
+    "advertencia": "No equivale a adjudicación ni contrato."
   },
   {
     "id": "nog",
@@ -2243,11 +2319,13 @@
     "id": "recepcion-conforme",
     "termino": "Recepción conforme",
     "categoria": "Compras y contratación",
-    "definicion": "Verificación de entrega satisfactoria según especificaciones.",
-    "ejemplo": "En un hospital público: consultar o documentar «recepción conforme» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Compras",
+    "definicion": "Constancia de que los bienes o servicios cumplen condiciones exigidas.",
+    "ejemplo": "Bodega documenta la recepción de materiales solicitados.",
+    "fuente": "Procedimientos de recepción y control.",
     "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Es un punto de control fundamental antes del reconocimiento de obligaciones cuando el procedimiento lo requiere. Debe existir evidencia de cantidades, calidad y demás condiciones pertinentes.",
+    "advertencia": "No firmar conformidad sin verificación real."
   },
   {
     "id": "especificacion-tecnica",
@@ -3103,11 +3181,13 @@
     "id": "control-interno",
     "termino": "Control interno",
     "categoria": "Normativa y control",
-    "definicion": "Procesos y medidas para gestionar riesgos y salvaguardar recursos.",
-    "ejemplo": "En un hospital público: consultar o documentar «control interno» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
-    "fuente": "Control",
+    "definicion": "Políticas y actividades orientadas a prevenir errores y gestionar riesgos.",
+    "ejemplo": "Separar quien solicita, autoriza y registra cuando corresponda.",
+    "fuente": "Normas de Control Interno Gubernamental.",
     "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
-    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
+    "explicacion": "Incluye segregación de funciones, autorizaciones, evidencia documental, supervisión y seguimiento. En presupuesto fortalece la trazabilidad de las operaciones.",
+    "advertencia": "No equivale exclusivamente a auditoría posterior."
   },
   {
     "id": "auditoria-interna",
