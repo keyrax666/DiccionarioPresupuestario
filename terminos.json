@@ -1010,20 +1010,32 @@
     "id": "devengado",
     "termino": "Devengado",
     "categoria": "Etapas de ejecución",
-    "definicion": "Etapa que reconoce una obligación de pago debidamente sustentada.",
+    "definicion": "Etapa de la ejecución del gasto público en la que se reconoce una obligación de pago, inmediata o diferida, al cumplirse las condiciones legales y administrativas correspondientes. Es distinta del compromiso y del pago efectivo.",
     "ejemplo": "Tras recibir conforme suministros y completar requisitos se registra el devengado.",
-    "fuente": "Ley Orgánica del Presupuesto y manuales SICOIN.",
-    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
-    "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
-    "explicacion": "En adquisiciones suele relacionarse con el cumplimiento de condiciones y la recepción conforme, cuando corresponde. Permite distinguir obligaciones reconocidas de compromisos aún no devengados y de pagos realizados.",
-    "advertencia": "Devengado no significa que el proveedor ya cobró.",
-    "finalidad": "Reconocer la obligación de pago cuando se cumplen las condiciones correspondientes.",
-    "cuando": "Es una etapa clave para medir ejecución del gasto y obligaciones reconocidas.",
-    "procedimiento": "Verificar el cumplimiento de la prestación y documentos de respaldo; revisar autorizaciones y registro; comprobar estado y monto del devengado.",
-    "documentos": "Recepción conforme cuando aplique, factura, contrato, expediente y CUR.",
-    "diferencias": "No devengar únicamente porque exista una orden de compra.",
-    "caso": "Un lote de suministros recibido conforme puede dar lugar al reconocimiento de la obligación conforme al proceso aplicable.",
-    "nivel": "ficha técnica desarrollada"
+    "fuente": "Decreto 101-97, Ley Orgánica del Presupuesto, arts. 16, 29 Bis y 30; Acuerdo Gubernativo 540-2013 (Reglamento); normas de cierre 2025, Acuerdo Ministerial 784-2025, como referencia operativa histórica (no presume vigencia para 2026).",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/downloads/leyes_presupuesto/leyes_reglamentos/decreto101-97.pdf",
+    "revision": "Revisión documental de referencias indicadas; verificar reformas, normas y manuales operativos vigentes antes de actuar.",
+    "explicacion": "El devengado refleja el reconocimiento de una obligación asociada con una operación que reúne los requisitos para ser registrada. En una adquisición de bienes o servicios, la documentación de recepción o conformidad es fundamental cuando corresponde. El devengado afecta la ejecución presupuestaria y tiene efectos contables conforme al procedimiento y tipo de operación. La Ley Orgánica del Presupuesto distingue expresamente compromiso, devengado y pago como etapas que deben registrarse.",
+    "advertencia": "No es correcto afirmar como regla general que el devengado se trabaja exclusivamente en oficinas del MINGOB, que solo puede modificarlo un usuario de gerencia y un analista máximo de MINFIN, ni que únicamente se ejecuta al finalizar el cuatrimestre. Las responsabilidades, permisos y aprobaciones concretas dependen de la institución, el sistema, la modalidad y la normativa vigente. Una operación ya aprobada no debe alterarse informalmente; las correcciones requieren el procedimiento autorizado.",
+    "finalidad": "Permitir la medición de obligaciones reconocidas, el seguimiento de la ejecución financiera, el control de expedientes y la conciliación entre registros presupuestarios, contables y de tesorería.",
+    "cuando": "Cuando la operación satisface las condiciones que habilitan el reconocimiento de la obligación. No existe una regla general que limite el devengado al cierre de cada cuatrimestre: puede registrarse durante el ejercicio conforme a la operación, las cuotas, las normas y los controles aplicables. El cierre es un proceso de revisión y regularización de registros, no la definición del devengado.",
+    "procedimiento": "1. Identificar el tipo de operación y la unidad responsable. 2. Verificar crédito, cuota y condiciones aplicables. 3. Revisar expediente, prestación y documentos de respaldo. 4. Confirmar que la etapa de compromiso se registró cuando proceda o que corresponda un registro simultáneo autorizado. 5. Generar o gestionar el CUR correspondiente mediante el sistema y módulo habilitados. 6. Validar y aprobar según los roles y perfiles institucionales vigentes. 7. Consultar el estado definitivo del registro y conciliar montos, partidas y expediente. Esta es una secuencia conceptual; no sustituye un instructivo de pantalla ni las autorizaciones propias de cada entidad.",
+    "documentos": "Según el caso: contrato u orden, constancias de entrega y recepción conforme, factura o documento equivalente, solicitud y autorizaciones, expediente de adquisición, CUR de compromiso y/o devengado, reportes de SICOIN/SIGES, y demás respaldos específicos del procedimiento.",
+    "diferencias": "Compromiso: reserva o registra la obligación asumida conforme al proceso. Devengado: reconoce la obligación de pago cuando se cumplen las condiciones. Pagado: refleja el desembolso o pago efectuado. Cuota de devengado: instrumento de programación y autorización de ejecución; no es el importe efectivamente devengado. Presupuesto vigente: crédito actualizado; no equivale al gasto devengado.",
+    "caso": "Ejemplo didáctico: un hospital tramita la adquisición de reactivos por Q18,000. Tras la entrega y recepción conforme, y una vez satisfechos los demás requisitos, la operación puede dar lugar al registro del devengado por el importe reconocido. Si el pago se realiza después, el devengado y el pagado mostrarán importes diferentes durante ese intervalo. El expediente debe permitir reconstruir quién solicitó, revisó, registró y aprobó cada etapa.",
+    "nivel": "ficha técnica con fundamento normativo",
+    "fuentes_detalladas": [
+      {
+        "titulo": "Ley Orgánica del Presupuesto y Reglamento — MINFIN",
+        "detalle": "Art. 16: registro de compromiso, devengado y pago; arts. 29 Bis y 30: responsables y programación de ejecución.",
+        "url": "https://www.minfin.gob.gt/wp-content/uploads/downloads/leyes_presupuesto/leyes_reglamentos/decreto101-97.pdf"
+      },
+      {
+        "titulo": "Normas de cierre del ejercicio 2025 — MINFIN",
+        "detalle": "Referencia de procedimientos de cierre y tipos de CUR; corresponde a 2025, no constituye por sí sola la norma aplicable en 2026.",
+        "url": "https://sicoindes.minfin.gob.gt/sicoinweb/downloads/262525042534_Normas%20de%20Cierre%202025.pdf"
+      }
+    ]
   },
   {
     "id": "pagado",
