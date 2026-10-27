@@ -1,0 +1,3302 @@
+[
+  {
+    "id": "presupuesto-publico",
+    "termino": "Presupuesto público",
+    "categoria": "Conceptos presupuestarios",
+    "definicion": "Plan financiero anual de ingresos y gastos autorizado al Estado.",
+    "ejemplo": "En un hospital público: consultar o documentar «presupuesto público» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "presupuesto-general",
+    "termino": "Presupuesto general",
+    "categoria": "Conceptos presupuestarios",
+    "definicion": "Instrumento que reúne los presupuestos del sector público conforme a su ámbito legal.",
+    "ejemplo": "En un hospital público: consultar o documentar «presupuesto general» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "ejercicio-fiscal",
+    "termino": "Ejercicio fiscal",
+    "categoria": "Conceptos presupuestarios",
+    "definicion": "Período anual para planificar y registrar el presupuesto.",
+    "ejemplo": "En un hospital público: consultar o documentar «ejercicio fiscal» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "presupuesto-aprobado",
+    "termino": "Presupuesto aprobado",
+    "categoria": "Conceptos presupuestarios",
+    "definicion": "Monto autorizado al iniciar el ejercicio fiscal.",
+    "ejemplo": "En un hospital público: consultar o documentar «presupuesto aprobado» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "presupuesto-inicial",
+    "termino": "Presupuesto inicial",
+    "categoria": "Conceptos presupuestarios",
+    "definicion": "Asignaciones registradas al comenzar el ejercicio.",
+    "ejemplo": "En un hospital público: consultar o documentar «presupuesto inicial» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "presupuesto-vigente",
+    "termino": "Presupuesto vigente",
+    "categoria": "Conceptos presupuestarios",
+    "definicion": "Presupuesto inicial ajustado por modificaciones autorizadas.",
+    "ejemplo": "En un hospital público: consultar o documentar «presupuesto vigente» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "presupuesto-ejecutado",
+    "termino": "Presupuesto ejecutado",
+    "categoria": "Conceptos presupuestarios",
+    "definicion": "Monto registrado en una etapa específica del gasto, que debe identificarse.",
+    "ejemplo": "En un hospital público: consultar o documentar «presupuesto ejecutado» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "credito-presupuestario",
+    "termino": "Crédito presupuestario",
+    "categoria": "Conceptos presupuestarios",
+    "definicion": "Autorización de gasto asignada a una estructura determinada.",
+    "ejemplo": "En un hospital público: consultar o documentar «crédito presupuestario» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "asignacion-presupuestaria",
+    "termino": "Asignación presupuestaria",
+    "categoria": "Conceptos presupuestarios",
+    "definicion": "Monto de recursos asignado a una partida.",
+    "ejemplo": "En un hospital público: consultar o documentar «asignación presupuestaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "disponibilidad-presupuestaria",
+    "termino": "Disponibilidad presupuestaria",
+    "categoria": "Conceptos presupuestarios",
+    "definicion": "Crédito utilizable para respaldar una operación de gasto.",
+    "ejemplo": "En un hospital público: consultar o documentar «disponibilidad presupuestaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "saldo-disponible",
+    "termino": "Saldo disponible",
+    "categoria": "Conceptos presupuestarios",
+    "definicion": "Monto restante conforme a la etapa y restricciones del registro.",
+    "ejemplo": "En un hospital público: consultar o documentar «saldo disponible» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "insuficiencia-presupuestaria",
+    "termino": "Insuficiencia presupuestaria",
+    "categoria": "Conceptos presupuestarios",
+    "definicion": "Situación en que el saldo no cubre el gasto previsto.",
+    "ejemplo": "En un hospital público: consultar o documentar «insuficiencia presupuestaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "techo-presupuestario",
+    "termino": "Techo presupuestario",
+    "categoria": "Conceptos presupuestarios",
+    "definicion": "Límite de recursos comunicado para formular asignaciones.",
+    "ejemplo": "En un hospital público: consultar o documentar «techo presupuestario» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "anteproyecto-de-presupuesto",
+    "termino": "Anteproyecto de presupuesto",
+    "categoria": "Conceptos presupuestarios",
+    "definicion": "Propuesta institucional previa a la aprobación del presupuesto.",
+    "ejemplo": "En un hospital público: consultar o documentar «anteproyecto de presupuesto» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "formulacion-presupuestaria",
+    "termino": "Formulación presupuestaria",
+    "categoria": "Conceptos presupuestarios",
+    "definicion": "Preparación de las previsiones de ingresos, gastos y metas.",
+    "ejemplo": "En un hospital público: consultar o documentar «formulación presupuestaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "aprobacion-presupuestaria",
+    "termino": "Aprobación presupuestaria",
+    "categoria": "Conceptos presupuestarios",
+    "definicion": "Autorización del presupuesto por la instancia competente.",
+    "ejemplo": "En un hospital público: consultar o documentar «aprobación presupuestaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "ejecucion-presupuestaria",
+    "termino": "Ejecución presupuestaria",
+    "categoria": "Conceptos presupuestarios",
+    "definicion": "Registro de la utilización de créditos presupuestarios.",
+    "ejemplo": "En un hospital público: consultar o documentar «ejecución presupuestaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "evaluacion-presupuestaria",
+    "termino": "Evaluación presupuestaria",
+    "categoria": "Conceptos presupuestarios",
+    "definicion": "Análisis del desempeño de recursos y metas.",
+    "ejemplo": "En un hospital público: consultar o documentar «evaluación presupuestaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "liquidacion-presupuestaria",
+    "termino": "Liquidación presupuestaria",
+    "categoria": "Conceptos presupuestarios",
+    "definicion": "Determinación de resultados y cierre conforme al ejercicio.",
+    "ejemplo": "En un hospital público: consultar o documentar «liquidación presupuestaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "cierre-fiscal",
+    "termino": "Cierre fiscal",
+    "categoria": "Conceptos presupuestarios",
+    "definicion": "Proceso de cierre de registros al terminar un ejercicio fiscal.",
+    "ejemplo": "En un hospital público: consultar o documentar «cierre fiscal» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "programacion-presupuestaria",
+    "termino": "Programación presupuestaria",
+    "categoria": "Conceptos presupuestarios",
+    "definicion": "Distribución planificada de recursos y metas.",
+    "ejemplo": "En un hospital público: consultar o documentar «programación presupuestaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "presupuesto-por-resultados",
+    "termino": "Presupuesto por resultados",
+    "categoria": "Conceptos presupuestarios",
+    "definicion": "Enfoque que vincula recursos con bienes, servicios y resultados.",
+    "ejemplo": "En un hospital público: consultar o documentar «presupuesto por resultados» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "presupuesto-multianual",
+    "termino": "Presupuesto multianual",
+    "categoria": "Conceptos presupuestarios",
+    "definicion": "Estimación de recursos para varios ejercicios.",
+    "ejemplo": "En un hospital público: consultar o documentar «presupuesto multianual» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "presupuesto-institucional",
+    "termino": "Presupuesto institucional",
+    "categoria": "Conceptos presupuestarios",
+    "definicion": "Presupuesto correspondiente a una entidad.",
+    "ejemplo": "En un hospital público: consultar o documentar «presupuesto institucional» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "presupuesto-por-unidad-ejecutora",
+    "termino": "Presupuesto por unidad ejecutora",
+    "categoria": "Conceptos presupuestarios",
+    "definicion": "Asignaciones identificadas por unidad responsable.",
+    "ejemplo": "En un hospital público: consultar o documentar «presupuesto por unidad ejecutora» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "deficit-presupuestario",
+    "termino": "Déficit presupuestario",
+    "categoria": "Conceptos presupuestarios",
+    "definicion": "Diferencia negativa entre recursos y gastos según metodología aplicada.",
+    "ejemplo": "En un hospital público: consultar o documentar «déficit presupuestario» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "superavit-presupuestario",
+    "termino": "Superávit presupuestario",
+    "categoria": "Conceptos presupuestarios",
+    "definicion": "Excedente de recursos frente a gastos según metodología aplicada.",
+    "ejemplo": "En un hospital público: consultar o documentar «superávit presupuestario» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "austeridad-del-gasto",
+    "termino": "Austeridad del gasto",
+    "categoria": "Conceptos presupuestarios",
+    "definicion": "Medidas para contener o priorizar el uso de recursos públicos.",
+    "ejemplo": "En un hospital público: consultar o documentar «austeridad del gasto» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "prioridad-de-gasto",
+    "termino": "Prioridad de gasto",
+    "categoria": "Conceptos presupuestarios",
+    "definicion": "Orden de atención de necesidades según objetivos y restricciones.",
+    "ejemplo": "En un hospital público: consultar o documentar «prioridad de gasto» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "disciplina-fiscal",
+    "termino": "Disciplina fiscal",
+    "categoria": "Conceptos presupuestarios",
+    "definicion": "Administración del gasto conforme a límites, metas y normativa.",
+    "ejemplo": "En un hospital público: consultar o documentar «disciplina fiscal» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "estructura-presupuestaria",
+    "termino": "Estructura presupuestaria",
+    "categoria": "Estructura programática",
+    "definicion": "Combinación de códigos que identifica una asignación presupuestaria.",
+    "ejemplo": "En un hospital público: consultar o documentar «estructura presupuestaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "partida-presupuestaria",
+    "termino": "Partida presupuestaria",
+    "categoria": "Estructura programática",
+    "definicion": "Identificación de un gasto mediante clasificadores presupuestarios.",
+    "ejemplo": "En un hospital público: consultar o documentar «partida presupuestaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "programa",
+    "termino": "Programa",
+    "categoria": "Estructura programática",
+    "definicion": "Categoría que agrupa acciones destinadas a objetivos institucionales.",
+    "ejemplo": "En un hospital público: consultar o documentar «programa» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "subprograma",
+    "termino": "Subprograma",
+    "categoria": "Estructura programática",
+    "definicion": "Desagregación de un programa cuando la estructura lo requiere.",
+    "ejemplo": "En un hospital público: consultar o documentar «subprograma» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "proyecto",
+    "termino": "Proyecto",
+    "categoria": "Estructura programática",
+    "definicion": "Intervención de inversión definida en la estructura programática.",
+    "ejemplo": "En un hospital público: consultar o documentar «proyecto» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "actividad-presupuestaria",
+    "termino": "Actividad presupuestaria",
+    "categoria": "Estructura programática",
+    "definicion": "Categoría que agrupa operaciones de producción institucional.",
+    "ejemplo": "En un hospital público: consultar o documentar «actividad presupuestaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "obra",
+    "termino": "Obra",
+    "categoria": "Estructura programática",
+    "definicion": "Componente físico de un proyecto de inversión.",
+    "ejemplo": "En un hospital público: consultar o documentar «obra» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "entidad",
+    "termino": "Entidad",
+    "categoria": "Estructura programática",
+    "definicion": "Organismo o institución identificada por clasificación institucional.",
+    "ejemplo": "En un hospital público: consultar o documentar «entidad» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "unidad-ejecutora",
+    "termino": "Unidad ejecutora",
+    "categoria": "Estructura programática",
+    "definicion": "Unidad autorizada a gestionar ejecución de su presupuesto.",
+    "ejemplo": "En un hospital público: consultar o documentar «unidad ejecutora» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "unidad-administrativa",
+    "termino": "Unidad administrativa",
+    "categoria": "Estructura programática",
+    "definicion": "Dependencia que realiza tareas de gestión y control.",
+    "ejemplo": "En un hospital público: consultar o documentar «unidad administrativa» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "codigo-institucional",
+    "termino": "Código institucional",
+    "categoria": "Estructura programática",
+    "definicion": "Identificador numérico de una entidad o unidad.",
+    "ejemplo": "En un hospital público: consultar o documentar «código institucional» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "codigo-programatico",
+    "termino": "Código programático",
+    "categoria": "Estructura programática",
+    "definicion": "Identificador asignado a una categoría de programa o actividad.",
+    "ejemplo": "En un hospital público: consultar o documentar «código programático» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "ubicacion-geografica",
+    "termino": "Ubicación geográfica",
+    "categoria": "Estructura programática",
+    "definicion": "Clasificador que identifica territorio asociado a operaciones.",
+    "ejemplo": "En un hospital público: consultar o documentar «ubicación geográfica» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "finalidad-del-gasto",
+    "termino": "Finalidad del gasto",
+    "categoria": "Estructura programática",
+    "definicion": "Clasificación funcional del propósito del gasto.",
+    "ejemplo": "En un hospital público: consultar o documentar «finalidad del gasto» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "funcion-del-gasto",
+    "termino": "Función del gasto",
+    "categoria": "Estructura programática",
+    "definicion": "Subdivisión funcional del uso de recursos públicos.",
+    "ejemplo": "En un hospital público: consultar o documentar «función del gasto» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "division-funcional",
+    "termino": "División funcional",
+    "categoria": "Estructura programática",
+    "definicion": "Detalle dentro de la clasificación funcional.",
+    "ejemplo": "En un hospital público: consultar o documentar «división funcional» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "tipo-de-gasto",
+    "termino": "Tipo de gasto",
+    "categoria": "Estructura programática",
+    "definicion": "Clasificación que distingue la naturaleza y destino económico del gasto.",
+    "ejemplo": "En un hospital público: consultar o documentar «tipo de gasto» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "objeto-del-gasto",
+    "termino": "Objeto del gasto",
+    "categoria": "Estructura programática",
+    "definicion": "Clasificación que ordena egresos según bienes, servicios u obligaciones.",
+    "ejemplo": "En un hospital público: consultar o documentar «objeto del gasto» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "clasificador-presupuestario",
+    "termino": "Clasificador presupuestario",
+    "categoria": "Estructura programática",
+    "definicion": "Conjunto de códigos para ordenar transacciones públicas.",
+    "ejemplo": "En un hospital público: consultar o documentar «clasificador presupuestario» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "clasificacion-economica-del-gasto",
+    "termino": "Clasificación económica del gasto",
+    "categoria": "Estructura programática",
+    "definicion": "Agrupación económica de operaciones de gasto.",
+    "ejemplo": "En un hospital público: consultar o documentar «clasificación económica del gasto» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "clasificacion-institucional",
+    "termino": "Clasificación institucional",
+    "categoria": "Estructura programática",
+    "definicion": "Ordenamiento de entidades del sector público.",
+    "ejemplo": "En un hospital público: consultar o documentar «clasificación institucional» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "clasificacion-geografica",
+    "termino": "Clasificación geográfica",
+    "categoria": "Estructura programática",
+    "definicion": "Identificación territorial de los registros.",
+    "ejemplo": "En un hospital público: consultar o documentar «clasificación geográfica» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "actividad-central",
+    "termino": "Actividad central",
+    "categoria": "Estructura programática",
+    "definicion": "Actividad que apoya la conducción o administración institucional.",
+    "ejemplo": "En un hospital público: consultar o documentar «actividad central» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "actividad-comun",
+    "termino": "Actividad común",
+    "categoria": "Estructura programática",
+    "definicion": "Actividad de apoyo compartida entre programas cuando corresponde.",
+    "ejemplo": "En un hospital público: consultar o documentar «actividad común» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "actividad-especifica",
+    "termino": "Actividad específica",
+    "categoria": "Estructura programática",
+    "definicion": "Actividad vinculada a la producción del programa.",
+    "ejemplo": "En un hospital público: consultar o documentar «actividad específica» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "codigo-de-actividad",
+    "termino": "Código de actividad",
+    "categoria": "Estructura programática",
+    "definicion": "Identificador asignado a una actividad presupuestaria.",
+    "ejemplo": "En un hospital público: consultar o documentar «código de actividad» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "estructura-de-imputacion",
+    "termino": "Estructura de imputación",
+    "categoria": "Estructura programática",
+    "definicion": "Datos que permiten registrar gasto en partida correcta.",
+    "ejemplo": "En un hospital público: consultar o documentar «estructura de imputación» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "desagregacion-programatica",
+    "termino": "Desagregación programática",
+    "categoria": "Estructura programática",
+    "definicion": "Detalle de un programa en categorías inferiores.",
+    "ejemplo": "En un hospital público: consultar o documentar «desagregación programática» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "programacion-de-obras",
+    "termino": "Programación de obras",
+    "categoria": "Estructura programática",
+    "definicion": "Definición de actividades y metas de obra durante un período.",
+    "ejemplo": "En un hospital público: consultar o documentar «programación de obras» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "centro-de-costo",
+    "termino": "Centro de costo",
+    "categoria": "Estructura programática",
+    "definicion": "Unidad de referencia que permite agrupar o analizar costos.",
+    "ejemplo": "En un hospital público: consultar o documentar «centro de costo» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "renglon-presupuestario",
+    "termino": "Renglón presupuestario",
+    "categoria": "Renglones y clasificadores",
+    "definicion": "Código específico que identifica la naturaleza del gasto.",
+    "ejemplo": "En un hospital público: consultar o documentar «renglón presupuestario» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "grupo-000",
+    "termino": "Grupo 000",
+    "categoria": "Renglones y clasificadores",
+    "definicion": "Agrupación de servicios personales.",
+    "ejemplo": "En un hospital público: consultar o documentar «grupo 000» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "grupo-100",
+    "termino": "Grupo 100",
+    "categoria": "Renglones y clasificadores",
+    "definicion": "Agrupación de servicios no personales.",
+    "ejemplo": "En un hospital público: consultar o documentar «grupo 100» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "grupo-200",
+    "termino": "Grupo 200",
+    "categoria": "Renglones y clasificadores",
+    "definicion": "Agrupación de materiales y suministros.",
+    "ejemplo": "En un hospital público: consultar o documentar «grupo 200» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "grupo-300",
+    "termino": "Grupo 300",
+    "categoria": "Renglones y clasificadores",
+    "definicion": "Agrupación de propiedad, planta, equipo e intangibles.",
+    "ejemplo": "En un hospital público: consultar o documentar «grupo 300» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "grupo-400",
+    "termino": "Grupo 400",
+    "categoria": "Renglones y clasificadores",
+    "definicion": "Agrupación de transferencias corrientes.",
+    "ejemplo": "En un hospital público: consultar o documentar «grupo 400» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "grupo-500",
+    "termino": "Grupo 500",
+    "categoria": "Renglones y clasificadores",
+    "definicion": "Agrupación de transferencias de capital.",
+    "ejemplo": "En un hospital público: consultar o documentar «grupo 500» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "grupo-600",
+    "termino": "Grupo 600",
+    "categoria": "Renglones y clasificadores",
+    "definicion": "Agrupación de activos financieros.",
+    "ejemplo": "En un hospital público: consultar o documentar «grupo 600» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "grupo-700",
+    "termino": "Grupo 700",
+    "categoria": "Renglones y clasificadores",
+    "definicion": "Agrupación de servicios de la deuda pública y amortización de otros pasivos.",
+    "ejemplo": "En un hospital público: consultar o documentar «grupo 700» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "grupo-800",
+    "termino": "Grupo 800",
+    "categoria": "Renglones y clasificadores",
+    "definicion": "Agrupación de otros gastos.",
+    "ejemplo": "En un hospital público: consultar o documentar «grupo 800» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "grupo-900",
+    "termino": "Grupo 900",
+    "categoria": "Renglones y clasificadores",
+    "definicion": "Agrupación de asignaciones globales.",
+    "ejemplo": "En un hospital público: consultar o documentar «grupo 900» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "renglon-011",
+    "termino": "Renglón 011",
+    "categoria": "Renglones y clasificadores",
+    "definicion": "Código de personal permanente.",
+    "ejemplo": "En un hospital público: consultar o documentar «renglón 011» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "renglon-021",
+    "termino": "Renglón 021",
+    "categoria": "Renglones y clasificadores",
+    "definicion": "Código de personal supernumerario.",
+    "ejemplo": "En un hospital público: consultar o documentar «renglón 021» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "renglon-022",
+    "termino": "Renglón 022",
+    "categoria": "Renglones y clasificadores",
+    "definicion": "Código de personal por contrato.",
+    "ejemplo": "En un hospital público: consultar o documentar «renglón 022» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "renglon-029",
+    "termino": "Renglón 029",
+    "categoria": "Renglones y clasificadores",
+    "definicion": "Código de otras remuneraciones de personal temporal.",
+    "ejemplo": "En un hospital público: consultar o documentar «renglón 029» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "servicios-personales",
+    "termino": "Servicios personales",
+    "categoria": "Renglones y clasificadores",
+    "definicion": "Gastos de remuneraciones y conceptos relacionados con personal.",
+    "ejemplo": "En un hospital público: consultar o documentar «servicios personales» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "servicios-no-personales",
+    "termino": "Servicios no personales",
+    "categoria": "Renglones y clasificadores",
+    "definicion": "Pagos por servicios distintos de remuneración de personal.",
+    "ejemplo": "En un hospital público: consultar o documentar «servicios no personales» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "materiales-y-suministros",
+    "termino": "Materiales y suministros",
+    "categoria": "Renglones y clasificadores",
+    "definicion": "Bienes consumibles o de uso corriente según clasificador.",
+    "ejemplo": "En un hospital público: consultar o documentar «materiales y suministros» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "propiedad-planta-y-equipo",
+    "termino": "Propiedad planta y equipo",
+    "categoria": "Renglones y clasificadores",
+    "definicion": "Bienes de capital registrados en categorías de inversión.",
+    "ejemplo": "En un hospital público: consultar o documentar «propiedad planta y equipo» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "transferencias-corrientes",
+    "termino": "Transferencias corrientes",
+    "categoria": "Renglones y clasificadores",
+    "definicion": "Aportes que no constituyen contraprestación directa de bienes o servicios.",
+    "ejemplo": "En un hospital público: consultar o documentar «transferencias corrientes» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "transferencias-de-capital",
+    "termino": "Transferencias de capital",
+    "categoria": "Renglones y clasificadores",
+    "definicion": "Aportes destinados a formación o adquisición de capital.",
+    "ejemplo": "En un hospital público: consultar o documentar «transferencias de capital» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "fuente-de-financiamiento",
+    "termino": "Fuente de financiamiento",
+    "categoria": "Renglones y clasificadores",
+    "definicion": "Identificador del origen de recursos que financian gastos.",
+    "ejemplo": "En un hospital público: consultar o documentar «fuente de financiamiento» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "organismo-financiador",
+    "termino": "Organismo financiador",
+    "categoria": "Renglones y clasificadores",
+    "definicion": "Identificador del organismo que aporta financiamiento cuando aplica.",
+    "ejemplo": "En un hospital público: consultar o documentar «organismo financiador» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "correlativo-de-fuente",
+    "termino": "Correlativo de fuente",
+    "categoria": "Renglones y clasificadores",
+    "definicion": "Código que detalla una fuente u organismo según estructura.",
+    "ejemplo": "En un hospital público: consultar o documentar «correlativo de fuente» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "recursos-ordinarios",
+    "termino": "Recursos ordinarios",
+    "categoria": "Renglones y clasificadores",
+    "definicion": "Recursos clasificados como fuente ordinaria según normativa.",
+    "ejemplo": "En un hospital público: consultar o documentar «recursos ordinarios» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "ingresos-propios",
+    "termino": "Ingresos propios",
+    "categoria": "Renglones y clasificadores",
+    "definicion": "Recursos generados por la institución conforme a autorización legal.",
+    "ejemplo": "En un hospital público: consultar o documentar «ingresos propios» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "financiamiento-externo",
+    "termino": "Financiamiento externo",
+    "categoria": "Renglones y clasificadores",
+    "definicion": "Recursos originados en fuentes externas autorizadas.",
+    "ejemplo": "En un hospital público: consultar o documentar «financiamiento externo» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "donacion",
+    "termino": "Donación",
+    "categoria": "Renglones y clasificadores",
+    "definicion": "Aporte sin contraprestación según condiciones y reglas aplicables.",
+    "ejemplo": "En un hospital público: consultar o documentar «donación» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "prestamo",
+    "termino": "Préstamo",
+    "categoria": "Renglones y clasificadores",
+    "definicion": "Financiamiento recibido con obligación de pago.",
+    "ejemplo": "En un hospital público: consultar o documentar «préstamo» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "subgrupo-de-gasto",
+    "termino": "Subgrupo de gasto",
+    "categoria": "Renglones y clasificadores",
+    "definicion": "Agrupación intermedia de renglones relacionados.",
+    "ejemplo": "En un hospital público: consultar o documentar «subgrupo de gasto» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Clasificación",
+    "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "precompromiso",
+    "termino": "Precompromiso",
+    "categoria": "Etapas de ejecución",
+    "definicion": "Registro previo a un compromiso según procedimiento del sistema.",
+    "ejemplo": "En un hospital público: consultar o documentar «precompromiso» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "compromiso",
+    "termino": "Compromiso",
+    "categoria": "Etapas de ejecución",
+    "definicion": "Etapa que reserva crédito al formalizar una obligación de gasto.",
+    "ejemplo": "En un hospital público: consultar o documentar «compromiso» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "devengado",
+    "termino": "Devengado",
+    "categoria": "Etapas de ejecución",
+    "definicion": "Etapa que reconoce obligación de pago cuando se cumplen requisitos.",
+    "ejemplo": "En un hospital público: consultar o documentar «devengado» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "pagado",
+    "termino": "Pagado",
+    "categoria": "Etapas de ejecución",
+    "definicion": "Etapa en la que se cancela una obligación devengada.",
+    "ejemplo": "En un hospital público: consultar o documentar «pagado» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "compromiso-y-devengado",
+    "termino": "Compromiso y devengado",
+    "categoria": "Etapas de ejecución",
+    "definicion": "Registro conjunto de etapas cuando el procedimiento lo permite.",
+    "ejemplo": "En un hospital público: consultar o documentar «compromiso y devengado» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "compromiso-vigente",
+    "termino": "Compromiso vigente",
+    "categoria": "Etapas de ejecución",
+    "definicion": "Compromisos registrados que continúan afectando el crédito.",
+    "ejemplo": "En un hospital público: consultar o documentar «compromiso vigente» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "devengado-acumulado",
+    "termino": "Devengado acumulado",
+    "categoria": "Etapas de ejecución",
+    "definicion": "Suma de operaciones devengadas en un período.",
+    "ejemplo": "En un hospital público: consultar o documentar «devengado acumulado» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "pagado-acumulado",
+    "termino": "Pagado acumulado",
+    "categoria": "Etapas de ejecución",
+    "definicion": "Suma de pagos registrados en un período.",
+    "ejemplo": "En un hospital público: consultar o documentar «pagado acumulado» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "saldo-por-comprometer",
+    "termino": "Saldo por comprometer",
+    "categoria": "Etapas de ejecución",
+    "definicion": "Crédito que resta para nuevos compromisos, según el reporte.",
+    "ejemplo": "En un hospital público: consultar o documentar «saldo por comprometer» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "saldo-por-devengar",
+    "termino": "Saldo por devengar",
+    "categoria": "Etapas de ejecución",
+    "definicion": "Compromisos pendientes de devengar conforme al registro.",
+    "ejemplo": "En un hospital público: consultar o documentar «saldo por devengar» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "saldo-por-pagar",
+    "termino": "Saldo por pagar",
+    "categoria": "Etapas de ejecución",
+    "definicion": "Obligaciones devengadas pendientes de pago.",
+    "ejemplo": "En un hospital público: consultar o documentar «saldo por pagar» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "ejecucion-financiera",
+    "termino": "Ejecución financiera",
+    "categoria": "Etapas de ejecución",
+    "definicion": "Avance monetario del gasto según etapa seleccionada.",
+    "ejemplo": "En un hospital público: consultar o documentar «ejecución financiera» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "porcentaje-de-ejecucion",
+    "termino": "Porcentaje de ejecución",
+    "categoria": "Etapas de ejecución",
+    "definicion": "Monto ejecutado dividido entre presupuesto de referencia.",
+    "ejemplo": "En un hospital público: consultar o documentar «porcentaje de ejecución» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "registro-presupuestario",
+    "termino": "Registro presupuestario",
+    "categoria": "Etapas de ejecución",
+    "definicion": "Anotación formal de una operación en sistema autorizado.",
+    "ejemplo": "En un hospital público: consultar o documentar «registro presupuestario» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "afectacion-presupuestaria",
+    "termino": "Afectación presupuestaria",
+    "categoria": "Etapas de ejecución",
+    "definicion": "Cambio de saldo asociado a un registro de gasto.",
+    "ejemplo": "En un hospital público: consultar o documentar «afectación presupuestaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "reversion",
+    "termino": "Reversión",
+    "categoria": "Etapas de ejecución",
+    "definicion": "Operación que revierte un registro conforme a controles autorizados.",
+    "ejemplo": "En un hospital público: consultar o documentar «reversión» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "anulacion",
+    "termino": "Anulación",
+    "categoria": "Etapas de ejecución",
+    "definicion": "Cancelación de una operación registrada conforme al procedimiento.",
+    "ejemplo": "En un hospital público: consultar o documentar «anulación» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "regularizacion",
+    "termino": "Regularización",
+    "categoria": "Etapas de ejecución",
+    "definicion": "Registro que normaliza operaciones realizadas bajo mecanismo permitido.",
+    "ejemplo": "En un hospital público: consultar o documentar «regularización» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "reprogramacion",
+    "termino": "Reprogramación",
+    "categoria": "Etapas de ejecución",
+    "definicion": "Ajuste autorizado del calendario o distribución de ejecución.",
+    "ejemplo": "En un hospital público: consultar o documentar «reprogramación» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "gasto-devengado",
+    "termino": "Gasto devengado",
+    "categoria": "Etapas de ejecución",
+    "definicion": "Obligación reconocida y registrada en la etapa devengado.",
+    "ejemplo": "En un hospital público: consultar o documentar «gasto devengado» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "gasto-pagado",
+    "termino": "Gasto pagado",
+    "categoria": "Etapas de ejecución",
+    "definicion": "Salida monetaria que cancela una obligación.",
+    "ejemplo": "En un hospital público: consultar o documentar «gasto pagado» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "documento-de-respaldo",
+    "termino": "Documento de respaldo",
+    "categoria": "Etapas de ejecución",
+    "definicion": "Evidencia documental que sustenta una transacción.",
+    "ejemplo": "En un hospital público: consultar o documentar «documento de respaldo» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "solicitud-de-gasto",
+    "termino": "Solicitud de gasto",
+    "categoria": "Etapas de ejecución",
+    "definicion": "Requerimiento que origina un trámite de utilización de recursos.",
+    "ejemplo": "En un hospital público: consultar o documentar «solicitud de gasto» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "tramite-de-pago",
+    "termino": "Trámite de pago",
+    "categoria": "Etapas de ejecución",
+    "definicion": "Conjunto de pasos para cancelar obligación documentada.",
+    "ejemplo": "En un hospital público: consultar o documentar «trámite de pago» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "expediente-de-gasto",
+    "termino": "Expediente de gasto",
+    "categoria": "Etapas de ejecución",
+    "definicion": "Conjunto de documentos que fundamentan un gasto.",
+    "ejemplo": "En un hospital público: consultar o documentar «expediente de gasto» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "fecha-de-registro",
+    "termino": "Fecha de registro",
+    "categoria": "Etapas de ejecución",
+    "definicion": "Día en que una operación queda incorporada al sistema.",
+    "ejemplo": "En un hospital público: consultar o documentar «fecha de registro» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "fecha-de-aprobacion",
+    "termino": "Fecha de aprobación",
+    "categoria": "Etapas de ejecución",
+    "definicion": "Día en que autoridad competente autoriza una operación.",
+    "ejemplo": "En un hospital público: consultar o documentar «fecha de aprobación» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "beneficiario-de-pago",
+    "termino": "Beneficiario de pago",
+    "categoria": "Etapas de ejecución",
+    "definicion": "Persona o entidad a favor de quien se realiza el pago.",
+    "ejemplo": "En un hospital público: consultar o documentar «beneficiario de pago» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "orden-de-pago",
+    "termino": "Orden de pago",
+    "categoria": "Etapas de ejecución",
+    "definicion": "Instrucción formal para tramitar una erogación.",
+    "ejemplo": "En un hospital público: consultar o documentar «orden de pago» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "conciliacion-de-saldos",
+    "termino": "Conciliación de saldos",
+    "categoria": "Etapas de ejecución",
+    "definicion": "Comparación de montos de registros para localizar diferencias.",
+    "ejemplo": "En un hospital público: consultar o documentar «conciliación de saldos» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "modificacion-presupuestaria",
+    "termino": "Modificación presupuestaria",
+    "categoria": "Modificaciones y cuotas",
+    "definicion": "Cambio autorizado en créditos de gasto durante el ejercicio.",
+    "ejemplo": "En un hospital público: consultar o documentar «modificación presupuestaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "transferencia-presupuestaria",
+    "termino": "Transferencia presupuestaria",
+    "categoria": "Modificaciones y cuotas",
+    "definicion": "Reasignación de créditos entre partidas según competencia.",
+    "ejemplo": "En un hospital público: consultar o documentar «transferencia presupuestaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "ampliacion-presupuestaria",
+    "termino": "Ampliación presupuestaria",
+    "categoria": "Modificaciones y cuotas",
+    "definicion": "Aumento autorizado de créditos.",
+    "ejemplo": "En un hospital público: consultar o documentar «ampliación presupuestaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "disminucion-presupuestaria",
+    "termino": "Disminución presupuestaria",
+    "categoria": "Modificaciones y cuotas",
+    "definicion": "Reducción autorizada de créditos.",
+    "ejemplo": "En un hospital público: consultar o documentar «disminución presupuestaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "traslado-presupuestario",
+    "termino": "Traslado presupuestario",
+    "categoria": "Modificaciones y cuotas",
+    "definicion": "Movimiento de asignaciones entre estructuras conforme a norma.",
+    "ejemplo": "En un hospital público: consultar o documentar «traslado presupuestario» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "debito-presupuestario",
+    "termino": "Débito presupuestario",
+    "categoria": "Modificaciones y cuotas",
+    "definicion": "Reducción de un crédito dentro de una modificación.",
+    "ejemplo": "En un hospital público: consultar o documentar «débito presupuestario» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "credito-de-modificacion",
+    "termino": "Crédito de modificación",
+    "categoria": "Modificaciones y cuotas",
+    "definicion": "Incremento de una partida originado por modificación.",
+    "ejemplo": "En un hospital público: consultar o documentar «crédito de modificación» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "justificacion-presupuestaria",
+    "termino": "Justificación presupuestaria",
+    "categoria": "Modificaciones y cuotas",
+    "definicion": "Explicación técnica del motivo para solicitar un cambio.",
+    "ejemplo": "En un hospital público: consultar o documentar «justificación presupuestaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "dictamen-tecnico",
+    "termino": "Dictamen técnico",
+    "categoria": "Modificaciones y cuotas",
+    "definicion": "Opinión fundada emitida por instancia competente.",
+    "ejemplo": "En un hospital público: consultar o documentar «dictamen técnico» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "solicitud-de-modificacion",
+    "termino": "Solicitud de modificación",
+    "categoria": "Modificaciones y cuotas",
+    "definicion": "Documento que inicia una gestión de ajuste presupuestario.",
+    "ejemplo": "En un hospital público: consultar o documentar «solicitud de modificación» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "aprobacion-de-modificacion",
+    "termino": "Aprobación de modificación",
+    "categoria": "Modificaciones y cuotas",
+    "definicion": "Acto de autorización por instancia con competencia.",
+    "ejemplo": "En un hospital público: consultar o documentar «aprobación de modificación» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "modificacion-interna",
+    "termino": "Modificación interna",
+    "categoria": "Modificaciones y cuotas",
+    "definicion": "Ajuste dentro del ámbito permitido a la institución.",
+    "ejemplo": "En un hospital público: consultar o documentar «modificación interna» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "modificacion-externa",
+    "termino": "Modificación externa",
+    "categoria": "Modificaciones y cuotas",
+    "definicion": "Ajuste que requiere autorización de instancia externa.",
+    "ejemplo": "En un hospital público: consultar o documentar «modificación externa» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "readecuacion-presupuestaria",
+    "termino": "Readecuación presupuestaria",
+    "categoria": "Modificaciones y cuotas",
+    "definicion": "Ajuste de distribución de recursos conforme a reglas.",
+    "ejemplo": "En un hospital público: consultar o documentar «readecuación presupuestaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "disponibilidad-financiera",
+    "termino": "Disponibilidad financiera",
+    "categoria": "Modificaciones y cuotas",
+    "definicion": "Capacidad o programación de recursos para efectuar desembolsos.",
+    "ejemplo": "En un hospital público: consultar o documentar «disponibilidad financiera» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "programacion-financiera",
+    "termino": "Programación financiera",
+    "categoria": "Modificaciones y cuotas",
+    "definicion": "Planificación temporal de necesidades de caja y ejecución.",
+    "ejemplo": "En un hospital público: consultar o documentar «programación financiera» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "cuota-financiera",
+    "termino": "Cuota financiera",
+    "categoria": "Modificaciones y cuotas",
+    "definicion": "Límite financiero autorizado para ciertas etapas y períodos.",
+    "ejemplo": "En un hospital público: consultar o documentar «cuota financiera» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "cuota-de-compromiso",
+    "termino": "Cuota de compromiso",
+    "categoria": "Modificaciones y cuotas",
+    "definicion": "Límite autorizado para registrar compromisos cuando aplica.",
+    "ejemplo": "En un hospital público: consultar o documentar «cuota de compromiso» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "cuota-de-devengado",
+    "termino": "Cuota de devengado",
+    "categoria": "Modificaciones y cuotas",
+    "definicion": "Límite autorizado para reconocer devengados cuando aplica.",
+    "ejemplo": "En un hospital público: consultar o documentar «cuota de devengado» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "solicitud-de-cuota",
+    "termino": "Solicitud de cuota",
+    "categoria": "Modificaciones y cuotas",
+    "definicion": "Petición formal de disponibilidad de programación financiera.",
+    "ejemplo": "En un hospital público: consultar o documentar «solicitud de cuota» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "ampliacion-de-cuota",
+    "termino": "Ampliación de cuota",
+    "categoria": "Modificaciones y cuotas",
+    "definicion": "Incremento autorizado de límite financiero del período.",
+    "ejemplo": "En un hospital público: consultar o documentar «ampliación de cuota» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "reprogramacion-de-cuota",
+    "termino": "Reprogramación de cuota",
+    "categoria": "Modificaciones y cuotas",
+    "definicion": "Cambio autorizado en distribución temporal de cuotas.",
+    "ejemplo": "En un hospital público: consultar o documentar «reprogramación de cuota» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "programacion-trimestral",
+    "termino": "Programación trimestral",
+    "categoria": "Modificaciones y cuotas",
+    "definicion": "Distribución por trimestres de la ejecución prevista.",
+    "ejemplo": "En un hospital público: consultar o documentar «programación trimestral» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "programacion-mensual",
+    "termino": "Programación mensual",
+    "categoria": "Modificaciones y cuotas",
+    "definicion": "Distribución por meses de operaciones y metas previstas.",
+    "ejemplo": "En un hospital público: consultar o documentar «programación mensual» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "flujo-de-caja",
+    "termino": "Flujo de caja",
+    "categoria": "Modificaciones y cuotas",
+    "definicion": "Proyección de entradas y salidas monetarias.",
+    "ejemplo": "En un hospital público: consultar o documentar «flujo de caja» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "calendario-financiero",
+    "termino": "Calendario financiero",
+    "categoria": "Modificaciones y cuotas",
+    "definicion": "Secuencia temporal de ingresos y egresos esperados.",
+    "ejemplo": "En un hospital público: consultar o documentar «calendario financiero» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "restriccion-presupuestaria",
+    "termino": "Restricción presupuestaria",
+    "categoria": "Modificaciones y cuotas",
+    "definicion": "Límite normativo o financiero al uso de recursos.",
+    "ejemplo": "En un hospital público: consultar o documentar «restricción presupuestaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "espacio-presupuestario",
+    "termino": "Espacio presupuestario",
+    "categoria": "Modificaciones y cuotas",
+    "definicion": "Margen de crédito disponible para determinada operación.",
+    "ejemplo": "En un hospital público: consultar o documentar «espacio presupuestario» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "movimiento-presupuestario",
+    "termino": "Movimiento presupuestario",
+    "categoria": "Modificaciones y cuotas",
+    "definicion": "Variación de asignación o ejecución reflejada en registros.",
+    "ejemplo": "En un hospital público: consultar o documentar «movimiento presupuestario» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "historial-de-modificaciones",
+    "termino": "Historial de modificaciones",
+    "categoria": "Modificaciones y cuotas",
+    "definicion": "Registro cronológico de ajustes de créditos.",
+    "ejemplo": "En un hospital público: consultar o documentar «historial de modificaciones» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "poa",
+    "termino": "POA",
+    "categoria": "Planificación y resultados",
+    "definicion": "Plan Operativo Anual que organiza actividades y metas de un ejercicio.",
+    "ejemplo": "En un hospital público: consultar o documentar «poa» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Planificación",
+    "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "pom",
+    "termino": "POM",
+    "categoria": "Planificación y resultados",
+    "definicion": "Plan Operativo Multianual que programa objetivos y metas de varios años.",
+    "ejemplo": "En un hospital público: consultar o documentar «pom» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Planificación",
+    "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "pei",
+    "termino": "PEI",
+    "categoria": "Planificación y resultados",
+    "definicion": "Plan Estratégico Institucional que orienta prioridades de mediano plazo.",
+    "ejemplo": "En un hospital público: consultar o documentar «pei» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Planificación",
+    "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "gestion-por-resultados",
+    "termino": "Gestión por resultados",
+    "categoria": "Planificación y resultados",
+    "definicion": "Enfoque que prioriza cambios medibles en la población.",
+    "ejemplo": "En un hospital público: consultar o documentar «gestión por resultados» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Planificación",
+    "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "producto",
+    "termino": "Producto",
+    "categoria": "Planificación y resultados",
+    "definicion": "Bien o servicio entregado a la población por la institución.",
+    "ejemplo": "En un hospital público: consultar o documentar «producto» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Planificación",
+    "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "subproducto",
+    "termino": "Subproducto",
+    "categoria": "Planificación y resultados",
+    "definicion": "Entrega específica que permite operar y costear un producto.",
+    "ejemplo": "En un hospital público: consultar o documentar «subproducto» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Planificación",
+    "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "insumo",
+    "termino": "Insumo",
+    "categoria": "Planificación y resultados",
+    "definicion": "Recurso utilizado para generar un producto o subproducto.",
+    "ejemplo": "En un hospital público: consultar o documentar «insumo» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Planificación",
+    "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "resultado-institucional",
+    "termino": "Resultado institucional",
+    "categoria": "Planificación y resultados",
+    "definicion": "Cambio esperado al que contribuye la acción institucional.",
+    "ejemplo": "En un hospital público: consultar o documentar «resultado institucional» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Planificación",
+    "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "resultado-estrategico",
+    "termino": "Resultado estratégico",
+    "categoria": "Planificación y resultados",
+    "definicion": "Cambio prioritario definido en la planificación estratégica.",
+    "ejemplo": "En un hospital público: consultar o documentar «resultado estratégico» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Planificación",
+    "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "resultado-inmediato",
+    "termino": "Resultado inmediato",
+    "categoria": "Planificación y resultados",
+    "definicion": "Efecto cercano esperado tras una intervención.",
+    "ejemplo": "En un hospital público: consultar o documentar «resultado inmediato» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Planificación",
+    "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "resultado-intermedio",
+    "termino": "Resultado intermedio",
+    "categoria": "Planificación y resultados",
+    "definicion": "Cambio que vincula resultados inmediatos y finales.",
+    "ejemplo": "En un hospital público: consultar o documentar «resultado intermedio» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Planificación",
+    "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "resultado-final",
+    "termino": "Resultado final",
+    "categoria": "Planificación y resultados",
+    "definicion": "Cambio de mayor alcance que se busca en la población.",
+    "ejemplo": "En un hospital público: consultar o documentar «resultado final» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Planificación",
+    "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "meta-fisica",
+    "termino": "Meta física",
+    "categoria": "Planificación y resultados",
+    "definicion": "Cantidad de productos o servicios prevista o realizada.",
+    "ejemplo": "En un hospital público: consultar o documentar «meta física» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Planificación",
+    "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "meta-financiera",
+    "termino": "Meta financiera",
+    "categoria": "Planificación y resultados",
+    "definicion": "Monto monetario asociado a una programación o meta.",
+    "ejemplo": "En un hospital público: consultar o documentar «meta financiera» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Planificación",
+    "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "indicador",
+    "termino": "Indicador",
+    "categoria": "Planificación y resultados",
+    "definicion": "Medida definida para monitorear avances o resultados.",
+    "ejemplo": "En un hospital público: consultar o documentar «indicador» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Planificación",
+    "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "linea-base",
+    "termino": "Línea base",
+    "categoria": "Planificación y resultados",
+    "definicion": "Valor inicial de un indicador usado para medir cambios.",
+    "ejemplo": "En un hospital público: consultar o documentar «línea base» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Planificación",
+    "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "poblacion-objetivo",
+    "termino": "Población objetivo",
+    "categoria": "Planificación y resultados",
+    "definicion": "Personas a quienes se dirige una intervención.",
+    "ejemplo": "En un hospital público: consultar o documentar «población objetivo» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Planificación",
+    "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "poblacion-beneficiaria",
+    "termino": "Población beneficiaria",
+    "categoria": "Planificación y resultados",
+    "definicion": "Personas que reciben efectivamente bienes o servicios.",
+    "ejemplo": "En un hospital público: consultar o documentar «población beneficiaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Planificación",
+    "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "cobertura",
+    "termino": "Cobertura",
+    "categoria": "Planificación y resultados",
+    "definicion": "Proporción de población o territorio atendido.",
+    "ejemplo": "En un hospital público: consultar o documentar «cobertura» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Planificación",
+    "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "brecha-de-atencion",
+    "termino": "Brecha de atención",
+    "categoria": "Planificación y resultados",
+    "definicion": "Diferencia entre necesidad estimada y servicio disponible.",
+    "ejemplo": "En un hospital público: consultar o documentar «brecha de atención» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Planificación",
+    "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "cadena-de-resultados",
+    "termino": "Cadena de resultados",
+    "categoria": "Planificación y resultados",
+    "definicion": "Relación entre insumos, productos y efectos esperados.",
+    "ejemplo": "En un hospital público: consultar o documentar «cadena de resultados» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Planificación",
+    "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "cadena-de-produccion",
+    "termino": "Cadena de producción",
+    "categoria": "Planificación y resultados",
+    "definicion": "Secuencia de recursos y procesos que generan servicios.",
+    "ejemplo": "En un hospital público: consultar o documentar «cadena de producción» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Planificación",
+    "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "ficha-de-indicador",
+    "termino": "Ficha de indicador",
+    "categoria": "Planificación y resultados",
+    "definicion": "Documento que define cálculo, fuente y periodicidad de medida.",
+    "ejemplo": "En un hospital público: consultar o documentar «ficha de indicador» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Planificación",
+    "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "medio-de-verificacion",
+    "termino": "Medio de verificación",
+    "categoria": "Planificación y resultados",
+    "definicion": "Fuente de evidencia que respalda un indicador o meta.",
+    "ejemplo": "En un hospital público: consultar o documentar «medio de verificación» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Planificación",
+    "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "unidad-de-medida",
+    "termino": "Unidad de medida",
+    "categoria": "Planificación y resultados",
+    "definicion": "Magnitud utilizada para cuantificar una meta.",
+    "ejemplo": "En un hospital público: consultar o documentar «unidad de medida» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Planificación",
+    "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "meta-programada",
+    "termino": "Meta programada",
+    "categoria": "Planificación y resultados",
+    "definicion": "Volumen previsto de servicios para un período.",
+    "ejemplo": "En un hospital público: consultar o documentar «meta programada» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Planificación",
+    "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "meta-ejecutada",
+    "termino": "Meta ejecutada",
+    "categoria": "Planificación y resultados",
+    "definicion": "Volumen efectivamente realizado en un período.",
+    "ejemplo": "En un hospital público: consultar o documentar «meta ejecutada» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Planificación",
+    "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "costo-unitario",
+    "termino": "Costo unitario",
+    "categoria": "Planificación y resultados",
+    "definicion": "Costo estimado o calculado por unidad de servicio.",
+    "ejemplo": "En un hospital público: consultar o documentar «costo unitario» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Planificación",
+    "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "eficiencia",
+    "termino": "Eficiencia",
+    "categoria": "Planificación y resultados",
+    "definicion": "Relación entre recursos utilizados y bienes o servicios producidos.",
+    "ejemplo": "En un hospital público: consultar o documentar «eficiencia» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Planificación",
+    "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "eficacia",
+    "termino": "Eficacia",
+    "categoria": "Planificación y resultados",
+    "definicion": "Grado en que se alcanzan los resultados o metas fijados.",
+    "ejemplo": "En un hospital público: consultar o documentar «eficacia» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Planificación",
+    "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "sicoin",
+    "termino": "SICOIN",
+    "categoria": "Sistemas y documentos",
+    "definicion": "Sistema de Contabilidad Integrada usado para registros financieros.",
+    "ejemplo": "En un hospital público: consultar o documentar «sicoin» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "siges",
+    "termino": "SIGES",
+    "categoria": "Sistemas y documentos",
+    "definicion": "Sistema Informático de Gestión usado en procesos de gestión pública.",
+    "ejemplo": "En un hospital público: consultar o documentar «siges» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "guatecompras",
+    "termino": "GUATECOMPRAS",
+    "categoria": "Sistemas y documentos",
+    "definicion": "Sistema de información pública de adquisiciones y contrataciones.",
+    "ejemplo": "En un hospital público: consultar o documentar «guatecompras» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "guatenominas",
+    "termino": "GUATENÓMINAS",
+    "categoria": "Sistemas y documentos",
+    "definicion": "Herramienta relacionada con gestión de nómina pública.",
+    "ejemplo": "En un hospital público: consultar o documentar «guatenóminas» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "cur",
+    "termino": "CUR",
+    "categoria": "Sistemas y documentos",
+    "definicion": "Comprobante Único de Registro de una operación financiera.",
+    "ejemplo": "En un hospital público: consultar o documentar «cur» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "cur-de-compromiso",
+    "termino": "CUR de compromiso",
+    "categoria": "Sistemas y documentos",
+    "definicion": "Registro documentado de etapa de compromiso.",
+    "ejemplo": "En un hospital público: consultar o documentar «cur de compromiso» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "cur-de-devengado",
+    "termino": "CUR de devengado",
+    "categoria": "Sistemas y documentos",
+    "definicion": "Registro documentado de etapa de devengado.",
+    "ejemplo": "En un hospital público: consultar o documentar «cur de devengado» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "cur-de-regularizacion",
+    "termino": "CUR de regularización",
+    "categoria": "Sistemas y documentos",
+    "definicion": "Registro para regularizar operaciones bajo reglas autorizadas.",
+    "ejemplo": "En un hospital público: consultar o documentar «cur de regularización» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "numero-de-cur",
+    "termino": "Número de CUR",
+    "categoria": "Sistemas y documentos",
+    "definicion": "Identificador de un comprobante en el sistema.",
+    "ejemplo": "En un hospital público: consultar o documentar «número de cur» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "estado-del-cur",
+    "termino": "Estado del CUR",
+    "categoria": "Sistemas y documentos",
+    "definicion": "Situación operativa del comprobante en su flujo de aprobación.",
+    "ejemplo": "En un hospital público: consultar o documentar «estado del cur» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "reporte-de-ejecucion",
+    "termino": "Reporte de ejecución",
+    "categoria": "Sistemas y documentos",
+    "definicion": "Consulta o informe de montos presupuestarios por filtros.",
+    "ejemplo": "En un hospital público: consultar o documentar «reporte de ejecución» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "reporte-por-renglon",
+    "termino": "Reporte por renglón",
+    "categoria": "Sistemas y documentos",
+    "definicion": "Informe de asignaciones y ejecución agrupadas por renglón.",
+    "ejemplo": "En un hospital público: consultar o documentar «reporte por renglón» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "reporte-por-fuente",
+    "termino": "Reporte por fuente",
+    "categoria": "Sistemas y documentos",
+    "definicion": "Informe de recursos y gasto agrupados por financiamiento.",
+    "ejemplo": "En un hospital público: consultar o documentar «reporte por fuente» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "reporte-consolidado",
+    "termino": "Reporte consolidado",
+    "categoria": "Sistemas y documentos",
+    "definicion": "Información agregada de varias partidas o unidades.",
+    "ejemplo": "En un hospital público: consultar o documentar «reporte consolidado» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "documento-de-soporte",
+    "termino": "Documento de soporte",
+    "categoria": "Sistemas y documentos",
+    "definicion": "Archivo o comprobante que fundamenta un registro.",
+    "ejemplo": "En un hospital público: consultar o documentar «documento de soporte» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "numero-de-expediente",
+    "termino": "Número de expediente",
+    "categoria": "Sistemas y documentos",
+    "definicion": "Identificador que permite seguir un trámite.",
+    "ejemplo": "En un hospital público: consultar o documentar «número de expediente» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "requisicion",
+    "termino": "Requisición",
+    "categoria": "Sistemas y documentos",
+    "definicion": "Solicitud interna de bienes o servicios requeridos.",
+    "ejemplo": "En un hospital público: consultar o documentar «requisición» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "solicitud-de-compra",
+    "termino": "Solicitud de compra",
+    "categoria": "Sistemas y documentos",
+    "definicion": "Petición formal para adquirir bienes o servicios.",
+    "ejemplo": "En un hospital público: consultar o documentar «solicitud de compra» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "orden-de-compra",
+    "termino": "Orden de compra",
+    "categoria": "Sistemas y documentos",
+    "definicion": "Documento que formaliza una adquisición según procedimiento.",
+    "ejemplo": "En un hospital público: consultar o documentar «orden de compra» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "factura",
+    "termino": "Factura",
+    "categoria": "Sistemas y documentos",
+    "definicion": "Documento fiscal que respalda una transacción.",
+    "ejemplo": "En un hospital público: consultar o documentar «factura» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "recibo",
+    "termino": "Recibo",
+    "categoria": "Sistemas y documentos",
+    "definicion": "Constancia de recepción de pago o entrega conforme al contexto.",
+    "ejemplo": "En un hospital público: consultar o documentar «recibo» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "acta-administrativa",
+    "termino": "Acta administrativa",
+    "categoria": "Sistemas y documentos",
+    "definicion": "Documento formal que deja constancia de hechos o decisiones.",
+    "ejemplo": "En un hospital público: consultar o documentar «acta administrativa» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "acta-de-recepcion",
+    "termino": "Acta de recepción",
+    "categoria": "Sistemas y documentos",
+    "definicion": "Documento que acredita entrega y recepción de bienes cuando aplica.",
+    "ejemplo": "En un hospital público: consultar o documentar «acta de recepción» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "constancia-de-ingreso-a-almacen",
+    "termino": "Constancia de ingreso a almacén",
+    "categoria": "Sistemas y documentos",
+    "definicion": "Documento que respalda entrada de existencias.",
+    "ejemplo": "En un hospital público: consultar o documentar «constancia de ingreso a almacén» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "dictamen",
+    "termino": "Dictamen",
+    "categoria": "Sistemas y documentos",
+    "definicion": "Opinión técnica o jurídica emitida por dependencia competente.",
+    "ejemplo": "En un hospital público: consultar o documentar «dictamen» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "oficio",
+    "termino": "Oficio",
+    "categoria": "Sistemas y documentos",
+    "definicion": "Comunicación institucional escrita con identificación administrativa.",
+    "ejemplo": "En un hospital público: consultar o documentar «oficio» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "memorando",
+    "termino": "Memorando",
+    "categoria": "Sistemas y documentos",
+    "definicion": "Comunicación interna utilizada para instrucciones o coordinación.",
+    "ejemplo": "En un hospital público: consultar o documentar «memorando» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "certificacion",
+    "termino": "Certificación",
+    "categoria": "Sistemas y documentos",
+    "definicion": "Documento que da fe de información según competencia.",
+    "ejemplo": "En un hospital público: consultar o documentar «certificación» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "firma-de-autorizacion",
+    "termino": "Firma de autorización",
+    "categoria": "Sistemas y documentos",
+    "definicion": "Aprobación formal de persona facultada.",
+    "ejemplo": "En un hospital público: consultar o documentar «firma de autorización» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "archivo-documental",
+    "termino": "Archivo documental",
+    "categoria": "Sistemas y documentos",
+    "definicion": "Conjunto organizado de expedientes y comprobantes.",
+    "ejemplo": "En un hospital público: consultar o documentar «archivo documental» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "pac",
+    "termino": "PAC",
+    "categoria": "Compras y contratación",
+    "definicion": "Plan Anual de Compras que organiza adquisiciones previstas.",
+    "ejemplo": "En un hospital público: consultar o documentar «pac» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Compras",
+    "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "nog",
+    "termino": "NOG",
+    "categoria": "Compras y contratación",
+    "definicion": "Número de Operación GUATECOMPRAS que identifica procedimientos.",
+    "ejemplo": "En un hospital público: consultar o documentar «nog» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Compras",
+    "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "npg",
+    "termino": "NPG",
+    "categoria": "Compras y contratación",
+    "definicion": "Número de Publicación GUATECOMPRAS según el registro aplicable.",
+    "ejemplo": "En un hospital público: consultar o documentar «npg» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Compras",
+    "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "cotizacion",
+    "termino": "Cotización",
+    "categoria": "Compras y contratación",
+    "definicion": "Procedimiento competitivo de contratación según legislación aplicable.",
+    "ejemplo": "En un hospital público: consultar o documentar «cotización» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Compras",
+    "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "licitacion",
+    "termino": "Licitación",
+    "categoria": "Compras y contratación",
+    "definicion": "Procedimiento de contratación según modalidad y normativa.",
+    "ejemplo": "En un hospital público: consultar o documentar «licitación» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Compras",
+    "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "compra-de-baja-cuantia",
+    "termino": "Compra de baja cuantía",
+    "categoria": "Compras y contratación",
+    "definicion": "Modalidad prevista para adquisiciones dentro de umbral legal vigente.",
+    "ejemplo": "En un hospital público: consultar o documentar «compra de baja cuantía» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Compras",
+    "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "compra-directa",
+    "termino": "Compra directa",
+    "categoria": "Compras y contratación",
+    "definicion": "Modalidad de adquisición sujeta a límites y requisitos legales.",
+    "ejemplo": "En un hospital público: consultar o documentar «compra directa» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Compras",
+    "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "oferta",
+    "termino": "Oferta",
+    "categoria": "Compras y contratación",
+    "definicion": "Propuesta presentada por proveedor a la entidad.",
+    "ejemplo": "En un hospital público: consultar o documentar «oferta» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Compras",
+    "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "oferente",
+    "termino": "Oferente",
+    "categoria": "Compras y contratación",
+    "definicion": "Persona individual o jurídica que presenta una propuesta.",
+    "ejemplo": "En un hospital público: consultar o documentar «oferente» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Compras",
+    "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "proveedor",
+    "termino": "Proveedor",
+    "categoria": "Compras y contratación",
+    "definicion": "Persona o entidad que suministra bienes o servicios.",
+    "ejemplo": "En un hospital público: consultar o documentar «proveedor» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Compras",
+    "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "adjudicacion",
+    "termino": "Adjudicación",
+    "categoria": "Compras y contratación",
+    "definicion": "Selección formal de oferta conforme a procedimiento.",
+    "ejemplo": "En un hospital público: consultar o documentar «adjudicación» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Compras",
+    "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "contrato-administrativo",
+    "termino": "Contrato administrativo",
+    "categoria": "Compras y contratación",
+    "definicion": "Instrumento que establece obligaciones de una contratación pública.",
+    "ejemplo": "En un hospital público: consultar o documentar «contrato administrativo» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Compras",
+    "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "garantia-de-cumplimiento",
+    "termino": "Garantía de cumplimiento",
+    "categoria": "Compras y contratación",
+    "definicion": "Respaldo de ejecución de obligaciones contractuales.",
+    "ejemplo": "En un hospital público: consultar o documentar «garantía de cumplimiento» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Compras",
+    "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "garantia-de-calidad",
+    "termino": "Garantía de calidad",
+    "categoria": "Compras y contratación",
+    "definicion": "Respaldo de condiciones de calidad cuando corresponde.",
+    "ejemplo": "En un hospital público: consultar o documentar «garantía de calidad» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Compras",
+    "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "recepcion-conforme",
+    "termino": "Recepción conforme",
+    "categoria": "Compras y contratación",
+    "definicion": "Verificación de entrega satisfactoria según especificaciones.",
+    "ejemplo": "En un hospital público: consultar o documentar «recepción conforme» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Compras",
+    "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "especificacion-tecnica",
+    "termino": "Especificación técnica",
+    "categoria": "Compras y contratación",
+    "definicion": "Descripción de requisitos que debe cumplir un bien o servicio.",
+    "ejemplo": "En un hospital público: consultar o documentar «especificación técnica» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Compras",
+    "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "terminos-de-referencia",
+    "termino": "Términos de referencia",
+    "categoria": "Compras y contratación",
+    "definicion": "Documento que precisa alcance y condiciones de servicio.",
+    "ejemplo": "En un hospital público: consultar o documentar «términos de referencia» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Compras",
+    "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "bases-de-contratacion",
+    "termino": "Bases de contratación",
+    "categoria": "Compras y contratación",
+    "definicion": "Reglas y requisitos de un procedimiento de compra.",
+    "ejemplo": "En un hospital público: consultar o documentar «bases de contratación» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Compras",
+    "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "junta-de-calificacion",
+    "termino": "Junta de calificación",
+    "categoria": "Compras y contratación",
+    "definicion": "Órgano que evalúa ofertas en procesos que lo requieren.",
+    "ejemplo": "En un hospital público: consultar o documentar «junta de calificación» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Compras",
+    "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "dictamen-de-adjudicacion",
+    "termino": "Dictamen de adjudicación",
+    "categoria": "Compras y contratación",
+    "definicion": "Documento que fundamenta una decisión según procedimiento.",
+    "ejemplo": "En un hospital público: consultar o documentar «dictamen de adjudicación» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Compras",
+    "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "orden-de-pedido",
+    "termino": "Orden de pedido",
+    "categoria": "Compras y contratación",
+    "definicion": "Documento de requerimiento o entrega según sistema institucional.",
+    "ejemplo": "En un hospital público: consultar o documentar «orden de pedido» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Compras",
+    "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "precio-unitario",
+    "termino": "Precio unitario",
+    "categoria": "Compras y contratación",
+    "definicion": "Costo de una unidad de bien o servicio.",
+    "ejemplo": "En un hospital público: consultar o documentar «precio unitario» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Compras",
+    "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "monto-adjudicado",
+    "termino": "Monto adjudicado",
+    "categoria": "Compras y contratación",
+    "definicion": "Valor autorizado a favor del oferente seleccionado.",
+    "ejemplo": "En un hospital público: consultar o documentar «monto adjudicado» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Compras",
+    "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "modificacion-contractual",
+    "termino": "Modificación contractual",
+    "categoria": "Compras y contratación",
+    "definicion": "Cambio formal permitido a condiciones del contrato.",
+    "ejemplo": "En un hospital público: consultar o documentar «modificación contractual» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Compras",
+    "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "prorroga-contractual",
+    "termino": "Prórroga contractual",
+    "categoria": "Compras y contratación",
+    "definicion": "Extensión autorizada del plazo contractual cuando proceda.",
+    "ejemplo": "En un hospital público: consultar o documentar «prórroga contractual» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Compras",
+    "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "incumplimiento-contractual",
+    "termino": "Incumplimiento contractual",
+    "categoria": "Compras y contratación",
+    "definicion": "Falta de ejecución de obligaciones pactadas.",
+    "ejemplo": "En un hospital público: consultar o documentar «incumplimiento contractual» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Compras",
+    "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "sancion-administrativa",
+    "termino": "Sanción administrativa",
+    "categoria": "Compras y contratación",
+    "definicion": "Consecuencia formal prevista para una infracción.",
+    "ejemplo": "En un hospital público: consultar o documentar «sanción administrativa» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Compras",
+    "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "recepcion-parcial",
+    "termino": "Recepción parcial",
+    "categoria": "Compras y contratación",
+    "definicion": "Aceptación de parte de los bienes o servicios contratados.",
+    "ejemplo": "En un hospital público: consultar o documentar «recepción parcial» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Compras",
+    "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "entrega-programada",
+    "termino": "Entrega programada",
+    "categoria": "Compras y contratación",
+    "definicion": "Suministro previsto para fechas definidas.",
+    "ejemplo": "En un hospital público: consultar o documentar «entrega programada» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Compras",
+    "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "analisis-de-mercado",
+    "termino": "Análisis de mercado",
+    "categoria": "Compras y contratación",
+    "definicion": "Comparación de ofertas y precios para fundamentar decisiones.",
+    "ejemplo": "En un hospital público: consultar o documentar «análisis de mercado» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Compras",
+    "url": "https://formacion.minfin.gob.gt/difoteca/documentos-legales/",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "almacen",
+    "termino": "Almacén",
+    "categoria": "Almacén y hospital",
+    "definicion": "Área de recepción, custodia y despacho de materiales.",
+    "ejemplo": "En un hospital público: consultar o documentar «almacén» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "bodega",
+    "termino": "Bodega",
+    "categoria": "Almacén y hospital",
+    "definicion": "Espacio de resguardo físico de bienes e insumos.",
+    "ejemplo": "En un hospital público: consultar o documentar «bodega» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "inventario",
+    "termino": "Inventario",
+    "categoria": "Almacén y hospital",
+    "definicion": "Registro cuantificado de existencias o bienes institucionales.",
+    "ejemplo": "En un hospital público: consultar o documentar «inventario» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "existencias",
+    "termino": "Existencias",
+    "categoria": "Almacén y hospital",
+    "definicion": "Unidades disponibles de un insumo en almacén.",
+    "ejemplo": "En un hospital público: consultar o documentar «existencias» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "ingreso-de-almacen",
+    "termino": "Ingreso de almacén",
+    "categoria": "Almacén y hospital",
+    "definicion": "Registro de entrada de bienes a custodia.",
+    "ejemplo": "En un hospital público: consultar o documentar «ingreso de almacén» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "egreso-de-almacen",
+    "termino": "Egreso de almacén",
+    "categoria": "Almacén y hospital",
+    "definicion": "Registro de salida de bienes autorizada.",
+    "ejemplo": "En un hospital público: consultar o documentar «egreso de almacén» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "kardex",
+    "termino": "Kardex",
+    "categoria": "Almacén y hospital",
+    "definicion": "Control de movimientos y saldo de existencias por artículo.",
+    "ejemplo": "En un hospital público: consultar o documentar «kardex» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "tarjeta-de-control",
+    "termino": "Tarjeta de control",
+    "categoria": "Almacén y hospital",
+    "definicion": "Registro detallado de ingresos, salidas y saldos.",
+    "ejemplo": "En un hospital público: consultar o documentar «tarjeta de control» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "conciliacion-de-inventarios",
+    "termino": "Conciliación de inventarios",
+    "categoria": "Almacén y hospital",
+    "definicion": "Comparación entre existencias y registros para detectar diferencias.",
+    "ejemplo": "En un hospital público: consultar o documentar «conciliación de inventarios» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "conteo-fisico",
+    "termino": "Conteo físico",
+    "categoria": "Almacén y hospital",
+    "definicion": "Verificación material de cantidades almacenadas.",
+    "ejemplo": "En un hospital público: consultar o documentar «conteo físico» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "diferencia-de-inventario",
+    "termino": "Diferencia de inventario",
+    "categoria": "Almacén y hospital",
+    "definicion": "Discrepancia entre cantidad física y registrada.",
+    "ejemplo": "En un hospital público: consultar o documentar «diferencia de inventario» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "ajuste-de-inventario",
+    "termino": "Ajuste de inventario",
+    "categoria": "Almacén y hospital",
+    "definicion": "Corrección documentada y autorizada de existencias.",
+    "ejemplo": "En un hospital público: consultar o documentar «ajuste de inventario» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "requerimiento-interno",
+    "termino": "Requerimiento interno",
+    "categoria": "Almacén y hospital",
+    "definicion": "Solicitud emitida por servicio hospitalario para obtener insumos.",
+    "ejemplo": "En un hospital público: consultar o documentar «requerimiento interno» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "despacho-de-insumos",
+    "termino": "Despacho de insumos",
+    "categoria": "Almacén y hospital",
+    "definicion": "Entrega registrada de materiales a unidad solicitante.",
+    "ejemplo": "En un hospital público: consultar o documentar «despacho de insumos» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "consumo-promedio",
+    "termino": "Consumo promedio",
+    "categoria": "Almacén y hospital",
+    "definicion": "Cantidad media utilizada en un período definido.",
+    "ejemplo": "En un hospital público: consultar o documentar «consumo promedio» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "consumo-mensual",
+    "termino": "Consumo mensual",
+    "categoria": "Almacén y hospital",
+    "definicion": "Cantidad de unidades utilizadas durante el mes.",
+    "ejemplo": "En un hospital público: consultar o documentar «consumo mensual» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "stock-minimo",
+    "termino": "Stock mínimo",
+    "categoria": "Almacén y hospital",
+    "definicion": "Umbral inferior fijado para activar reabastecimiento.",
+    "ejemplo": "En un hospital público: consultar o documentar «stock mínimo» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "stock-maximo",
+    "termino": "Stock máximo",
+    "categoria": "Almacén y hospital",
+    "definicion": "Límite superior de existencias previsto para un insumo.",
+    "ejemplo": "En un hospital público: consultar o documentar «stock máximo» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "punto-de-reorden",
+    "termino": "Punto de reorden",
+    "categoria": "Almacén y hospital",
+    "definicion": "Nivel de existencias que motiva nueva compra.",
+    "ejemplo": "En un hospital público: consultar o documentar «punto de reorden» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "abastecimiento",
+    "termino": "Abastecimiento",
+    "categoria": "Almacén y hospital",
+    "definicion": "Proceso de provisión de bienes para continuidad del servicio.",
+    "ejemplo": "En un hospital público: consultar o documentar «abastecimiento» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "desabastecimiento",
+    "termino": "Desabastecimiento",
+    "categoria": "Almacén y hospital",
+    "definicion": "Ausencia de insumos necesarios para prestar servicios.",
+    "ejemplo": "En un hospital público: consultar o documentar «desabastecimiento» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "vencimiento",
+    "termino": "Vencimiento",
+    "categoria": "Almacén y hospital",
+    "definicion": "Fecha hasta la cual puede utilizarse un producto sujeto a caducidad.",
+    "ejemplo": "En un hospital público: consultar o documentar «vencimiento» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "lote",
+    "termino": "Lote",
+    "categoria": "Almacén y hospital",
+    "definicion": "Conjunto identificable de unidades fabricadas bajo condiciones comunes.",
+    "ejemplo": "En un hospital público: consultar o documentar «lote» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "trazabilidad",
+    "termino": "Trazabilidad",
+    "categoria": "Almacén y hospital",
+    "definicion": "Capacidad de seguir movimientos y origen de un insumo.",
+    "ejemplo": "En un hospital público: consultar o documentar «trazabilidad» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "cadena-de-frio",
+    "termino": "Cadena de frío",
+    "categoria": "Almacén y hospital",
+    "definicion": "Control de temperaturas requerido para insumos sensibles.",
+    "ejemplo": "En un hospital público: consultar o documentar «cadena de frío» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "reactivo",
+    "termino": "Reactivo",
+    "categoria": "Almacén y hospital",
+    "definicion": "Sustancia utilizada en procesos de laboratorio.",
+    "ejemplo": "En un hospital público: consultar o documentar «reactivo» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "material-medico-quirurgico",
+    "termino": "Material médico quirúrgico",
+    "categoria": "Almacén y hospital",
+    "definicion": "Suministros utilizados en atención y procedimientos clínicos.",
+    "ejemplo": "En un hospital público: consultar o documentar «material médico quirúrgico» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "medicamento",
+    "termino": "Medicamento",
+    "categoria": "Almacén y hospital",
+    "definicion": "Producto farmacéutico sujeto a controles sanitarios y de inventario.",
+    "ejemplo": "En un hospital público: consultar o documentar «medicamento» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "equipo-medico",
+    "termino": "Equipo médico",
+    "categoria": "Almacén y hospital",
+    "definicion": "Dispositivo o bien usado para diagnóstico o atención clínica.",
+    "ejemplo": "En un hospital público: consultar o documentar «equipo médico» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "mantenimiento-preventivo",
+    "termino": "Mantenimiento preventivo",
+    "categoria": "Almacén y hospital",
+    "definicion": "Acciones programadas para evitar fallas del equipo.",
+    "ejemplo": "En un hospital público: consultar o documentar «mantenimiento preventivo» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "contabilidad-gubernamental",
+    "termino": "Contabilidad gubernamental",
+    "categoria": "Contabilidad y tesorería",
+    "definicion": "Registro y presentación de hechos económicos del sector público.",
+    "ejemplo": "En un hospital público: consultar o documentar «contabilidad gubernamental» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "registro-contable",
+    "termino": "Registro contable",
+    "categoria": "Contabilidad y tesorería",
+    "definicion": "Anotación de una operación en cuentas contables.",
+    "ejemplo": "En un hospital público: consultar o documentar «registro contable» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "asiento-contable",
+    "termino": "Asiento contable",
+    "categoria": "Contabilidad y tesorería",
+    "definicion": "Registro de débitos y créditos de una transacción.",
+    "ejemplo": "En un hospital público: consultar o documentar «asiento contable» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "cuenta-contable",
+    "termino": "Cuenta contable",
+    "categoria": "Contabilidad y tesorería",
+    "definicion": "Código que clasifica hechos económicos y saldos.",
+    "ejemplo": "En un hospital público: consultar o documentar «cuenta contable» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "libro-mayor",
+    "termino": "Libro mayor",
+    "categoria": "Contabilidad y tesorería",
+    "definicion": "Agrupación de movimientos por cuenta contable.",
+    "ejemplo": "En un hospital público: consultar o documentar «libro mayor» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "balance-de-comprobacion",
+    "termino": "Balance de comprobación",
+    "categoria": "Contabilidad y tesorería",
+    "definicion": "Reporte de saldos y movimientos para control contable.",
+    "ejemplo": "En un hospital público: consultar o documentar «balance de comprobación» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "estado-financiero",
+    "termino": "Estado financiero",
+    "categoria": "Contabilidad y tesorería",
+    "definicion": "Informe de situación y resultados económicos.",
+    "ejemplo": "En un hospital público: consultar o documentar «estado financiero» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "patrimonio",
+    "termino": "Patrimonio",
+    "categoria": "Contabilidad y tesorería",
+    "definicion": "Diferencia entre activos y pasivos conforme a criterios contables.",
+    "ejemplo": "En un hospital público: consultar o documentar «patrimonio» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "activo",
+    "termino": "Activo",
+    "categoria": "Contabilidad y tesorería",
+    "definicion": "Recurso controlado con potencial de servicio o beneficio.",
+    "ejemplo": "En un hospital público: consultar o documentar «activo» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "pasivo",
+    "termino": "Pasivo",
+    "categoria": "Contabilidad y tesorería",
+    "definicion": "Obligación presente de la entidad.",
+    "ejemplo": "En un hospital público: consultar o documentar «pasivo» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "ingreso",
+    "termino": "Ingreso",
+    "categoria": "Contabilidad y tesorería",
+    "definicion": "Recurso reconocido según normas aplicables.",
+    "ejemplo": "En un hospital público: consultar o documentar «ingreso» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "gasto",
+    "termino": "Gasto",
+    "categoria": "Contabilidad y tesorería",
+    "definicion": "Consumo de recursos u obligación reconocida contablemente.",
+    "ejemplo": "En un hospital público: consultar o documentar «gasto» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "tesoreria",
+    "termino": "Tesorería",
+    "categoria": "Contabilidad y tesorería",
+    "definicion": "Función que administra pagos y flujo de fondos públicos.",
+    "ejemplo": "En un hospital público: consultar o documentar «tesorería» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "cuenta-bancaria",
+    "termino": "Cuenta bancaria",
+    "categoria": "Contabilidad y tesorería",
+    "definicion": "Cuenta autorizada para manejo de recursos.",
+    "ejemplo": "En un hospital público: consultar o documentar «cuenta bancaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "conciliacion-bancaria",
+    "termino": "Conciliación bancaria",
+    "categoria": "Contabilidad y tesorería",
+    "definicion": "Comparación de estado bancario con registros institucionales.",
+    "ejemplo": "En un hospital público: consultar o documentar «conciliación bancaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "cheque",
+    "termino": "Cheque",
+    "categoria": "Contabilidad y tesorería",
+    "definicion": "Instrumento de pago cuando se encuentre autorizado.",
+    "ejemplo": "En un hospital público: consultar o documentar «cheque» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "transferencia-bancaria",
+    "termino": "Transferencia bancaria",
+    "categoria": "Contabilidad y tesorería",
+    "definicion": "Movimiento de fondos entre cuentas.",
+    "ejemplo": "En un hospital público: consultar o documentar «transferencia bancaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "acreditacion",
+    "termino": "Acreditación",
+    "categoria": "Contabilidad y tesorería",
+    "definicion": "Abono de fondos a una cuenta.",
+    "ejemplo": "En un hospital público: consultar o documentar «acreditación» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "desembolso",
+    "termino": "Desembolso",
+    "categoria": "Contabilidad y tesorería",
+    "definicion": "Salida de recursos monetarios.",
+    "ejemplo": "En un hospital público: consultar o documentar «desembolso» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "comprobante-de-pago",
+    "termino": "Comprobante de pago",
+    "categoria": "Contabilidad y tesorería",
+    "definicion": "Soporte de cancelación de una obligación.",
+    "ejemplo": "En un hospital público: consultar o documentar «comprobante de pago» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "retencion",
+    "termino": "Retención",
+    "categoria": "Contabilidad y tesorería",
+    "definicion": "Importe deducido o retenido conforme obligación legal.",
+    "ejemplo": "En un hospital público: consultar o documentar «retención» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "iva",
+    "termino": "IVA",
+    "categoria": "Contabilidad y tesorería",
+    "definicion": "Impuesto al Valor Agregado, aplicable conforme a régimen.",
+    "ejemplo": "En un hospital público: consultar o documentar «iva» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "isr",
+    "termino": "ISR",
+    "categoria": "Contabilidad y tesorería",
+    "definicion": "Impuesto Sobre la Renta, aplicable conforme a régimen.",
+    "ejemplo": "En un hospital público: consultar o documentar «isr» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "conciliacion-contable",
+    "termino": "Conciliación contable",
+    "categoria": "Contabilidad y tesorería",
+    "definicion": "Comparación de registros y saldos para comprobar consistencia.",
+    "ejemplo": "En un hospital público: consultar o documentar «conciliación contable» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "fondo-rotativo",
+    "termino": "Fondo rotativo",
+    "categoria": "Contabilidad y tesorería",
+    "definicion": "Mecanismo autorizado para atender gastos determinados y liquidarlos.",
+    "ejemplo": "En un hospital público: consultar o documentar «fondo rotativo» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "reposicion-de-fondo",
+    "termino": "Reposición de fondo",
+    "categoria": "Contabilidad y tesorería",
+    "definicion": "Reintegro de recursos utilizados y liquidados conforme a regla.",
+    "ejemplo": "En un hospital público: consultar o documentar «reposición de fondo» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "liquidacion-de-fondo",
+    "termino": "Liquidación de fondo",
+    "categoria": "Contabilidad y tesorería",
+    "definicion": "Justificación documentada de operaciones realizadas con fondo.",
+    "ejemplo": "En un hospital público: consultar o documentar «liquidación de fondo» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "caja-fiscal",
+    "termino": "Caja fiscal",
+    "categoria": "Contabilidad y tesorería",
+    "definicion": "Registro y control de movimientos de fondos conforme al régimen.",
+    "ejemplo": "En un hospital público: consultar o documentar «caja fiscal» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "cuenta-por-pagar",
+    "termino": "Cuenta por pagar",
+    "categoria": "Contabilidad y tesorería",
+    "definicion": "Obligación pendiente de pago registrada.",
+    "ejemplo": "En un hospital público: consultar o documentar «cuenta por pagar» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "cierre-contable",
+    "termino": "Cierre contable",
+    "categoria": "Contabilidad y tesorería",
+    "definicion": "Procedimiento periódico de cierre y revisión de cuentas.",
+    "ejemplo": "En un hospital público: consultar o documentar «cierre contable» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Ejecución",
+    "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "minfin",
+    "termino": "MINFIN",
+    "categoria": "Normativa y control",
+    "definicion": "Ministerio de Finanzas Públicas.",
+    "ejemplo": "En un hospital público: consultar o documentar «minfin» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "mspas",
+    "termino": "MSPAS",
+    "categoria": "Normativa y control",
+    "definicion": "Ministerio de Salud Pública y Asistencia Social.",
+    "ejemplo": "En un hospital público: consultar o documentar «mspas» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "segeplan",
+    "termino": "SEGEPLAN",
+    "categoria": "Normativa y control",
+    "definicion": "Secretaría de Planificación y Programación de la Presidencia.",
+    "ejemplo": "En un hospital público: consultar o documentar «segeplan» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "cgc",
+    "termino": "CGC",
+    "categoria": "Normativa y control",
+    "definicion": "Contraloría General de Cuentas.",
+    "ejemplo": "En un hospital público: consultar o documentar «cgc» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "dtp",
+    "termino": "DTP",
+    "categoria": "Normativa y control",
+    "definicion": "Dirección Técnica del Presupuesto.",
+    "ejemplo": "En un hospital público: consultar o documentar «dtp» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "ley-organica-del-presupuesto",
+    "termino": "Ley Orgánica del Presupuesto",
+    "categoria": "Normativa y control",
+    "definicion": "Norma que regula aspectos fundamentales del régimen presupuestario.",
+    "ejemplo": "En un hospital público: consultar o documentar «ley orgánica del presupuesto» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "reglamento-de-la-ley-organica-del-presupuesto",
+    "termino": "Reglamento de la Ley Orgánica del Presupuesto",
+    "categoria": "Normativa y control",
+    "definicion": "Disposiciones reglamentarias de aplicación de la ley.",
+    "ejemplo": "En un hospital público: consultar o documentar «reglamento de la ley orgánica del presupuesto» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "ley-de-contrataciones-del-estado",
+    "termino": "Ley de Contrataciones del Estado",
+    "categoria": "Normativa y control",
+    "definicion": "Marco jurídico de contratación pública.",
+    "ejemplo": "En un hospital público: consultar o documentar «ley de contrataciones del estado» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "reglamento-de-contrataciones",
+    "termino": "Reglamento de Contrataciones",
+    "categoria": "Normativa y control",
+    "definicion": "Normas reglamentarias de contratación estatal.",
+    "ejemplo": "En un hospital público: consultar o documentar «reglamento de contrataciones» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "norma-de-control-interno",
+    "termino": "Norma de control interno",
+    "categoria": "Normativa y control",
+    "definicion": "Directriz para mejorar gestión y mitigar riesgos institucionales.",
+    "ejemplo": "En un hospital público: consultar o documentar «norma de control interno» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "control-interno",
+    "termino": "Control interno",
+    "categoria": "Normativa y control",
+    "definicion": "Procesos y medidas para gestionar riesgos y salvaguardar recursos.",
+    "ejemplo": "En un hospital público: consultar o documentar «control interno» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "auditoria-interna",
+    "termino": "Auditoría interna",
+    "categoria": "Normativa y control",
+    "definicion": "Revisión independiente de operaciones y controles en la entidad.",
+    "ejemplo": "En un hospital público: consultar o documentar «auditoría interna» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "auditoria-externa",
+    "termino": "Auditoría externa",
+    "categoria": "Normativa y control",
+    "definicion": "Evaluación practicada por organismo o profesional independiente.",
+    "ejemplo": "En un hospital público: consultar o documentar «auditoría externa» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "hallazgo-de-auditoria",
+    "termino": "Hallazgo de auditoría",
+    "categoria": "Normativa y control",
+    "definicion": "Situación identificada por revisión que requiere atención.",
+    "ejemplo": "En un hospital público: consultar o documentar «hallazgo de auditoría» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "recomendacion-de-auditoria",
+    "termino": "Recomendación de auditoría",
+    "categoria": "Normativa y control",
+    "definicion": "Acción correctiva sugerida ante una observación.",
+    "ejemplo": "En un hospital público: consultar o documentar «recomendación de auditoría» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "plan-de-accion-correctiva",
+    "termino": "Plan de acción correctiva",
+    "categoria": "Normativa y control",
+    "definicion": "Medidas y plazos para resolver deficiencias.",
+    "ejemplo": "En un hospital público: consultar o documentar «plan de acción correctiva» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "rendicion-de-cuentas",
+    "termino": "Rendición de cuentas",
+    "categoria": "Normativa y control",
+    "definicion": "Deber de explicar y respaldar uso de recursos públicos.",
+    "ejemplo": "En un hospital público: consultar o documentar «rendición de cuentas» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "transparencia-fiscal",
+    "termino": "Transparencia fiscal",
+    "categoria": "Normativa y control",
+    "definicion": "Acceso y claridad sobre información financiera pública.",
+    "ejemplo": "En un hospital público: consultar o documentar «transparencia fiscal» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "acceso-a-la-informacion-publica",
+    "termino": "Acceso a la información pública",
+    "categoria": "Normativa y control",
+    "definicion": "Derecho de solicitar información según marco legal.",
+    "ejemplo": "En un hospital público: consultar o documentar «acceso a la información pública» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "probidad",
+    "termino": "Probidad",
+    "categoria": "Normativa y control",
+    "definicion": "Deber de actuar con integridad en la función pública.",
+    "ejemplo": "En un hospital público: consultar o documentar «probidad» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "responsabilidad-administrativa",
+    "termino": "Responsabilidad administrativa",
+    "categoria": "Normativa y control",
+    "definicion": "Consecuencia por incumplimiento de deberes administrativos.",
+    "ejemplo": "En un hospital público: consultar o documentar «responsabilidad administrativa» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "segregacion-de-funciones",
+    "termino": "Segregación de funciones",
+    "categoria": "Normativa y control",
+    "definicion": "Distribución de tareas para reducir riesgo de irregularidades.",
+    "ejemplo": "En un hospital público: consultar o documentar «segregación de funciones» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "autorizacion-de-gasto",
+    "termino": "Autorización de gasto",
+    "categoria": "Normativa y control",
+    "definicion": "Aprobación por autoridad facultada de una operación.",
+    "ejemplo": "En un hospital público: consultar o documentar «autorización de gasto» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "fiscalizacion",
+    "termino": "Fiscalización",
+    "categoria": "Normativa y control",
+    "definicion": "Control y examen del uso de recursos públicos.",
+    "ejemplo": "En un hospital público: consultar o documentar «fiscalización» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "evidencia-documental",
+    "termino": "Evidencia documental",
+    "categoria": "Normativa y control",
+    "definicion": "Documentación verificable que respalda una acción.",
+    "ejemplo": "En un hospital público: consultar o documentar «evidencia documental» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "matriz-de-riesgos",
+    "termino": "Matriz de riesgos",
+    "categoria": "Normativa y control",
+    "definicion": "Herramienta para identificar, valorar y tratar riesgos.",
+    "ejemplo": "En un hospital público: consultar o documentar «matriz de riesgos» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "procedimiento-administrativo",
+    "termino": "Procedimiento administrativo",
+    "categoria": "Normativa y control",
+    "definicion": "Secuencia definida de actuaciones institucionales.",
+    "ejemplo": "En un hospital público: consultar o documentar «procedimiento administrativo» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "manual-de-procedimientos",
+    "termino": "Manual de procedimientos",
+    "categoria": "Normativa y control",
+    "definicion": "Documento que describe pasos, responsables y controles.",
+    "ejemplo": "En un hospital público: consultar o documentar «manual de procedimientos» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "conciliacion-presupuestaria",
+    "termino": "Conciliación presupuestaria",
+    "categoria": "Normativa y control",
+    "definicion": "Comparación y ajuste de cifras de presupuesto entre registros.",
+    "ejemplo": "En un hospital público: consultar o documentar «conciliación presupuestaria» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  },
+  {
+    "id": "seguimiento-de-observaciones",
+    "termino": "Seguimiento de observaciones",
+    "categoria": "Normativa y control",
+    "definicion": "Verificación de atención a hallazgos de revisión.",
+    "ejemplo": "En un hospital público: consultar o documentar «seguimiento de observaciones» durante la gestión de recursos, de acuerdo con los procedimientos aplicables.",
+    "fuente": "Control",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Síntesis didáctica; verificar aplicación específica en normativa vigente."
+  }
+]
