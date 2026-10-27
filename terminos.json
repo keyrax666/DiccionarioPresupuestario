@@ -9,7 +9,14 @@
     "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
     "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
     "explicacion": "Es simultáneamente un plan financiero, una autorización legal y una herramienta de gestión. En una unidad ejecutora permite vincular recursos con servicios que deben prestarse a la población.",
-    "advertencia": "No equivale a dinero disponible en una cuenta bancaria."
+    "advertencia": "No equivale a dinero disponible en una cuenta bancaria.",
+    "finalidad": "Planificar y autorizar el uso de recursos para cumplir funciones y prestar servicios públicos.",
+    "cuando": "Se consulta en formulación, aprobación, ejecución, seguimiento y cierre del ejercicio.",
+    "procedimiento": "Identificar objetivos y necesidades; revisar el techo y los clasificadores; vincular asignaciones con productos y metas; comparar ejecución y resultados.",
+    "documentos": "Anteproyecto, presupuesto aprobado, modificaciones autorizadas, reportes de ejecución y POA.",
+    "diferencias": "No es una cuenta bancaria ni demuestra por sí solo disponibilidad financiera.",
+    "caso": "Una partida hospitalaria puede estar aprobada, pero su ejecución todavía depende de crédito, controles y trámites aplicables.",
+    "nivel": "ficha técnica desarrollada"
   },
   {
     "id": "presupuesto-general",
@@ -65,7 +72,14 @@
     "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
     "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
     "explicacion": "Refleja el monto actualizado de los créditos presupuestarios. Para analizar ejecución debe utilizarse el mismo corte de fecha y estructura que el reporte consultado.",
-    "advertencia": "Vigente no significa disponible para gastar sin otros controles."
+    "advertencia": "Vigente no significa disponible para gastar sin otros controles.",
+    "finalidad": "Conocer el crédito actualizado después de las modificaciones aprobadas.",
+    "cuando": "Se utiliza para evaluar porcentajes de ejecución y comparar asignaciones al corte del reporte.",
+    "procedimiento": "Identificar presupuesto inicial; sumar ampliaciones y transferencias de entrada; restar reducciones y transferencias de salida; comprobar que las modificaciones estén aprobadas.",
+    "documentos": "Presupuesto inicial, resoluciones de modificación, reportes SICOIN y fecha de corte.",
+    "diferencias": "No confundir vigente con disponible por comprometer.",
+    "caso": "Q100,000 iniciales + Q25,000 de aumento - Q10,000 de reducción = Q115,000 vigentes.",
+    "nivel": "ficha técnica desarrollada"
   },
   {
     "id": "presupuesto-ejecutado",
@@ -631,7 +645,14 @@
     "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
     "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
     "explicacion": "Es una herramienta central para identificar qué se adquiere o remunera. La clasificación correcta depende de la descripción oficial del bien, servicio u obligación y no solamente del nombre comercial.",
-    "advertencia": "Verificar el clasificador vigente antes de asignar código."
+    "advertencia": "Verificar el clasificador vigente antes de asignar código.",
+    "finalidad": "Clasificar el gasto según su objeto y naturaleza económica.",
+    "cuando": "Se usa en formulación, solicitud, modificación, registro y análisis del gasto.",
+    "procedimiento": "Describir el bien o servicio; revisar el clasificador oficial del ejercicio; comparar la descripción y exclusiones de los renglones posibles; documentar la selección.",
+    "documentos": "Manual de Clasificaciones Presupuestarias vigente, requisición y especificación técnica.",
+    "diferencias": "No clasificar por el nombre comercial del producto ni por costumbre.",
+    "caso": "Un insumo consumible y un equipo duradero pueden requerir grupos de gasto distintos.",
+    "nivel": "ficha técnica desarrollada"
   },
   {
     "id": "grupo-000",
@@ -667,7 +688,14 @@
     "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
     "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
     "explicacion": "Abarca bienes consumibles y suministros según el clasificador. En hospitales requiere especial cuidado al distinguir insumos, medicamentos, reactivos y materiales por su clasificación vigente.",
-    "advertencia": "No todos los bienes físicos pertenecen al grupo 200."
+    "advertencia": "No todos los bienes físicos pertenecen al grupo 200.",
+    "finalidad": "Distinguir materiales y suministros en la clasificación del gasto.",
+    "cuando": "Se utiliza para planificar y registrar consumibles conforme al clasificador vigente.",
+    "procedimiento": "Identificar la naturaleza del bien; revisar descripción de grupo y renglón; confirmar que no corresponda a un activo u otro grupo.",
+    "documentos": "Clasificador presupuestario, especificaciones y requisición.",
+    "diferencias": "No todo bien físico pertenece al grupo 200.",
+    "caso": "Materiales de consumo hospitalario pueden clasificarse aquí según el renglón oficial.",
+    "nivel": "ficha técnica desarrollada"
   },
   {
     "id": "grupo-300",
@@ -679,7 +707,14 @@
     "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
     "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
     "explicacion": "Incluye categorías de adquisición de activos conforme a las descripciones oficiales. La clasificación puede requerir diferenciar bienes duraderos de suministros consumibles.",
-    "advertencia": "No confundir compra de equipo con compra de repuestos."
+    "advertencia": "No confundir compra de equipo con compra de repuestos.",
+    "finalidad": "Distinguir adquisiciones de activos y bienes duraderos.",
+    "cuando": "Se utiliza en compras de propiedad, planta, equipo e intangibles según clasificación vigente.",
+    "procedimiento": "Revisar características, vida útil y finalidad; comparar con renglones del clasificador; verificar controles patrimoniales.",
+    "documentos": "Clasificador, ficha técnica, documentos de compra y registro patrimonial cuando aplique.",
+    "diferencias": "No clasificar automáticamente como equipo cualquier accesorio o repuesto.",
+    "caso": "La compra de un equipo biomédico puede requerir un renglón distinto al de sus consumibles.",
+    "nivel": "ficha técnica desarrollada"
   },
   {
     "id": "grupo-400",
@@ -851,7 +886,14 @@
     "url": "https://www.minfin.gob.gt/wp-content/themes/minfin/transferencias/manual_clasi_ppto.pdf",
     "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
     "explicacion": "La fuente permite reconocer de dónde provienen los fondos y puede condicionar su uso. Dos créditos para el mismo objeto del gasto pueden requerir controles distintos si pertenecen a fuentes diferentes.",
-    "advertencia": "No trasladar recursos entre fuentes sin respaldo normativo."
+    "advertencia": "No trasladar recursos entre fuentes sin respaldo normativo.",
+    "finalidad": "Identificar el origen de recursos y las condiciones de utilización.",
+    "cuando": "Interviene en programación, modificación, ejecución y análisis de restricciones.",
+    "procedimiento": "Leer el código de fuente de la partida; revisar su procedencia y condiciones; verificar si la operación propuesta es compatible con esas reglas.",
+    "documentos": "Clasificador de fuentes, asignación, reportes y disposiciones de la fuente.",
+    "diferencias": "Tener crédito en una fuente no habilita automáticamente utilizarlo para cualquier gasto.",
+    "caso": "Dos partidas del mismo renglón pueden tener fuentes distintas y requisitos diferentes.",
+    "nivel": "ficha técnica desarrollada"
   },
   {
     "id": "organismo-financiador",
@@ -955,7 +997,14 @@
     "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
     "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
     "explicacion": "Representa una fase de la ejecución distinta del reconocimiento de la obligación de pago. La documentación y el momento preciso dependen del tipo de operación y reglas del sistema.",
-    "advertencia": "Comprometido no significa recibido ni pagado."
+    "advertencia": "Comprometido no significa recibido ni pagado.",
+    "finalidad": "Registrar la etapa de gasto correspondiente a una obligación asumida.",
+    "cuando": "Se emplea al tramitar operaciones que reúnen las condiciones de compromiso según su modalidad.",
+    "procedimiento": "Identificar el expediente; verificar autorización y crédito; revisar el registro y su estado en el sistema; conciliar con el respaldo documental.",
+    "documentos": "Expediente de adquisición, autorizaciones y comprobantes del sistema.",
+    "diferencias": "Comprometer no significa haber recibido el bien ni pagado al proveedor.",
+    "caso": "Una adquisición puede estar comprometida y aún pendiente de entrega.",
+    "nivel": "ficha técnica desarrollada"
   },
   {
     "id": "devengado",
@@ -967,7 +1016,14 @@
     "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
     "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
     "explicacion": "En adquisiciones suele relacionarse con el cumplimiento de condiciones y la recepción conforme, cuando corresponde. Permite distinguir obligaciones reconocidas de compromisos aún no devengados y de pagos realizados.",
-    "advertencia": "Devengado no significa que el proveedor ya cobró."
+    "advertencia": "Devengado no significa que el proveedor ya cobró.",
+    "finalidad": "Reconocer la obligación de pago cuando se cumplen las condiciones correspondientes.",
+    "cuando": "Es una etapa clave para medir ejecución del gasto y obligaciones reconocidas.",
+    "procedimiento": "Verificar el cumplimiento de la prestación y documentos de respaldo; revisar autorizaciones y registro; comprobar estado y monto del devengado.",
+    "documentos": "Recepción conforme cuando aplique, factura, contrato, expediente y CUR.",
+    "diferencias": "No devengar únicamente porque exista una orden de compra.",
+    "caso": "Un lote de suministros recibido conforme puede dar lugar al reconocimiento de la obligación conforme al proceso aplicable.",
+    "nivel": "ficha técnica desarrollada"
   },
   {
     "id": "pagado",
@@ -979,7 +1035,14 @@
     "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
     "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
     "explicacion": "El pago es distinto del compromiso y del devengado. Analizar estas tres etapas permite detectar obligaciones pendientes y explicar diferencias entre ejecución y desembolsos.",
-    "advertencia": "No confundir pago con recepción de bienes."
+    "advertencia": "No confundir pago con recepción de bienes.",
+    "finalidad": "Identificar obligaciones cuyo pago ya fue efectuado.",
+    "cuando": "Se usa para seguimiento de desembolsos y conciliación con obligaciones devengadas.",
+    "procedimiento": "Consultar el estado de pago en el sistema competente; identificar fecha, importe y beneficiario; contrastar con el expediente y reportes.",
+    "documentos": "Comprobante de pago, CUR, registros de tesorería y conciliaciones.",
+    "diferencias": "Devengado y pagado no son equivalentes.",
+    "caso": "Una factura puede estar devengada al cierre de mes y pagarse posteriormente.",
+    "nivel": "ficha técnica desarrollada"
   },
   {
     "id": "compromiso-y-devengado",
@@ -1251,7 +1314,14 @@
     "url": "https://www.minfin.gob.gt/wp-content/uploads/archivos/manuales/aspectos_basicos_del_presupuesto.pdf",
     "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
     "explicacion": "Puede redistribuir o variar créditos dentro de los límites y competencias establecidos. Requiere justificación, trámite y aprobación conforme a la normativa aplicable.",
-    "advertencia": "No ejecutar una modificación antes de su aprobación."
+    "advertencia": "No ejecutar una modificación antes de su aprobación.",
+    "finalidad": "Adecuar créditos a necesidades dentro de límites legales.",
+    "cuando": "Se tramita cuando se requiere aumentar, disminuir o redistribuir asignaciones autorizadas.",
+    "procedimiento": "Justificar necesidad; identificar partidas afectadas y restricciones; preparar solicitud; obtener autorizaciones; verificar registro y vigencia.",
+    "documentos": "Solicitud, justificación, dictamen cuando proceda, resolución y reporte actualizado.",
+    "diferencias": "No ejecutar como aprobada una modificación que sigue en trámite.",
+    "caso": "Reforzar suministros reduciendo otra asignación solo si las reglas lo permiten.",
+    "nivel": "ficha técnica desarrollada"
   },
   {
     "id": "transferencia-presupuestaria",
@@ -1557,7 +1627,14 @@
     "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
     "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
     "explicacion": "Organiza acciones, metas y recursos esperados para un año. Su articulación con presupuesto ayuda a conectar lo planificado con la ejecución efectiva.",
-    "advertencia": "No confundir metas físicas con montos financieros."
+    "advertencia": "No confundir metas físicas con montos financieros.",
+    "finalidad": "Relacionar actividades y metas anuales con los recursos institucionales.",
+    "cuando": "Se utiliza para programación y seguimiento anual.",
+    "procedimiento": "Revisar objetivos; definir productos y metas; asociar actividades y recursos; dar seguimiento a avances y variaciones.",
+    "documentos": "POA aprobado, matrices de planificación, metas y reportes.",
+    "diferencias": "No confundir meta física con gasto devengado.",
+    "caso": "Programar atenciones y estimar los insumos requeridos para prestarlas.",
+    "nivel": "ficha técnica desarrollada"
   },
   {
     "id": "pom",
@@ -1569,7 +1646,14 @@
     "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
     "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
     "explicacion": "Presenta la planificación para varios años y facilita la continuidad entre objetivos estratégicos y planes anuales. Su horizonte y formato responden a lineamientos vigentes.",
-    "advertencia": "No reemplaza el POA anual."
+    "advertencia": "No reemplaza el POA anual.",
+    "finalidad": "Ordenar la planificación institucional para varios ejercicios.",
+    "cuando": "Se utiliza para vincular el horizonte estratégico con planes anuales.",
+    "procedimiento": "Identificar objetivos de mediano plazo; proyectar productos y recursos; revisar consistencia con PEI y POA.",
+    "documentos": "POM institucional, PEI y lineamientos SEGEPLAN.",
+    "diferencias": "No es una autorización de gasto plurianual por sí mismo.",
+    "caso": "Prever necesidades futuras de equipamiento y personal en varios ejercicios.",
+    "nivel": "ficha técnica desarrollada"
   },
   {
     "id": "pei",
@@ -1581,7 +1665,14 @@
     "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
     "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
     "explicacion": "Define orientación estratégica, objetivos y resultados institucionales a un horizonte determinado. Es una referencia para el POM y el POA.",
-    "advertencia": "No es una partida presupuestaria."
+    "advertencia": "No es una partida presupuestaria.",
+    "finalidad": "Definir orientación estratégica y resultados institucionales.",
+    "cuando": "Sirve como referencia para la planificación multianual y anual.",
+    "procedimiento": "Identificar mandato y diagnóstico; formular objetivos; definir resultados e indicadores; alinear POM y POA.",
+    "documentos": "PEI, diagnóstico institucional, matrices e indicadores.",
+    "diferencias": "No es una partida presupuestaria ni sustituye la formulación anual.",
+    "caso": "Una meta estratégica de cobertura guía intervenciones y recursos posteriores.",
+    "nivel": "ficha técnica desarrollada"
   },
   {
     "id": "gestion-por-resultados",
@@ -1687,7 +1778,14 @@
     "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
     "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
     "explicacion": "Permite comparar lo programado con lo ejecutado en unidades de medida específicas. Debe analizarse junto con gasto para comprender eficiencia y avance.",
-    "advertencia": "No confundir meta física con asignación monetaria."
+    "advertencia": "No confundir meta física con asignación monetaria.",
+    "finalidad": "Medir unidades de bienes o servicios programados o entregados.",
+    "cuando": "Se usa para seguimiento de producción y comparación con ejecución financiera.",
+    "procedimiento": "Precisar producto, unidad de medida y período; comparar programado y ejecutado; explicar desviaciones.",
+    "documentos": "POA, reportes de producción, ficha de indicador y registros operativos.",
+    "diferencias": "Ejecutar todo el presupuesto no garantiza cumplir la meta física.",
+    "caso": "1,700 atenciones realizadas frente a 2,000 programadas representan 85 % de avance físico.",
+    "nivel": "ficha técnica desarrollada"
   },
   {
     "id": "meta-financiera",
@@ -1709,7 +1807,14 @@
     "url": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/03/Guia_GpR_MINFIN_SEGEPLAN.pdf",
     "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
     "explicacion": "Debe tener definición, fórmula, unidad de medida, fuente y periodicidad cuando corresponda. Un buen indicador facilita seguimiento consistente.",
-    "advertencia": "No usar cifras sin definir su denominador."
+    "advertencia": "No usar cifras sin definir su denominador.",
+    "finalidad": "Medir avances con una fórmula y una fuente definidas.",
+    "cuando": "Se utiliza para monitoreo, evaluación y toma de decisiones.",
+    "procedimiento": "Definir qué mide; fijar numerador, denominador, unidad y periodicidad; validar fuentes; interpretar el resultado.",
+    "documentos": "Ficha técnica del indicador, línea base y registros de seguimiento.",
+    "diferencias": "Un porcentaje sin denominador o período no es interpretable.",
+    "caso": "Porcentaje de consultas realizadas respecto de las programadas.",
+    "nivel": "ficha técnica desarrollada"
   },
   {
     "id": "linea-base",
@@ -1871,7 +1976,14 @@
     "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
     "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
     "explicacion": "Permite registrar y consultar información presupuestaria y contable según perfiles y procesos autorizados. Los accesos y pantallas pueden cambiar; las instrucciones operativas deben provenir de manuales vigentes.",
-    "advertencia": "No compartir credenciales ni capturas con datos sensibles."
+    "advertencia": "No compartir credenciales ni capturas con datos sensibles.",
+    "finalidad": "Consultar y registrar información financiera conforme a perfiles autorizados.",
+    "cuando": "Se utiliza para ejecución, reportes, consultas y controles según la operación.",
+    "procedimiento": "Definir la consulta; verificar ejercicio y unidad ejecutora; aplicar filtros de estructura y etapa; contrastar resultados con documentos.",
+    "documentos": "Manuales oficiales del sistema, perfiles de acceso y reportes.",
+    "diferencias": "Las pantallas, permisos y rutas pueden variar; no divulgar usuarios ni claves.",
+    "caso": "Un analista consulta ejecución por renglón y fecha de corte para explicar saldos.",
+    "nivel": "ficha técnica desarrollada"
   },
   {
     "id": "siges",
@@ -1883,7 +1995,14 @@
     "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
     "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
     "explicacion": "Se relaciona con la gestión de expedientes y operaciones que alimentan procesos financieros según su configuración. La integración con otros sistemas depende del trámite.",
-    "advertencia": "No tratarlo como sustituto de SICOIN."
+    "advertencia": "No tratarlo como sustituto de SICOIN.",
+    "finalidad": "Gestionar expedientes y operaciones administrativas según los módulos habilitados.",
+    "cuando": "Interviene en determinados procesos de gestión relacionados con adquisiciones y finanzas.",
+    "procedimiento": "Identificar el procedimiento; verificar expediente y requisitos; seguir el manual vigente y el rol autorizado; revisar integración y estado de los registros.",
+    "documentos": "Manual SIGES vigente, expediente y documentos del proceso.",
+    "diferencias": "No sustituye a SICOIN ni todos los trámites siguen idéntica secuencia.",
+    "caso": "Un expediente puede tener pasos de gestión en SIGES y registros financieros en SICOIN.",
+    "nivel": "ficha técnica desarrollada"
   },
   {
     "id": "guatecompras",
@@ -1917,7 +2036,14 @@
     "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
     "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
     "explicacion": "El CUR identifica y respalda registros dentro del sistema correspondiente. Su interpretación exige revisar tipo, estado, datos de imputación y documentos relacionados.",
-    "advertencia": "La existencia de un CUR no demuestra por sí sola pago realizado."
+    "advertencia": "La existencia de un CUR no demuestra por sí sola pago realizado.",
+    "finalidad": "Identificar un registro financiero y su trazabilidad.",
+    "cuando": "Se consulta para dar seguimiento a etapas, montos y estados de operaciones.",
+    "procedimiento": "Localizar el CUR; leer su tipo, fecha, estado, estructura presupuestaria y monto; vincularlo con documentos de respaldo.",
+    "documentos": "CUR, expediente, reportes SICOIN y comprobantes relacionados.",
+    "diferencias": "Un CUR existente no prueba por sí solo que se realizó el pago.",
+    "caso": "Al investigar una diferencia se revisan el CUR, su estado y el expediente.",
+    "nivel": "ficha técnica desarrollada"
   },
   {
     "id": "cur-de-compromiso",
@@ -3187,7 +3313,14 @@
     "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
     "revision": "Ficha educativa ampliada; contraste la aplicación específica con normativa vigente.",
     "explicacion": "Incluye segregación de funciones, autorizaciones, evidencia documental, supervisión y seguimiento. En presupuesto fortalece la trazabilidad de las operaciones.",
-    "advertencia": "No equivale exclusivamente a auditoría posterior."
+    "advertencia": "No equivale exclusivamente a auditoría posterior.",
+    "finalidad": "Reducir riesgos y mejorar trazabilidad de operaciones.",
+    "cuando": "Se aplica durante solicitud, autorización, registro, custodia y supervisión.",
+    "procedimiento": "Identificar riesgos; establecer responsables y evidencias; separar funciones cuando proceda; revisar excepciones y corregir hallazgos.",
+    "documentos": "Procedimientos, autorizaciones, bitácoras, matrices de riesgo y normas de control.",
+    "diferencias": "El control interno no se limita a auditoría posterior.",
+    "caso": "Quien recibe materiales documenta cantidades y otro responsable verifica registros según la organización.",
+    "nivel": "ficha técnica desarrollada"
   },
   {
     "id": "auditoria-interna",
