@@ -5116,5 +5116,137 @@
     "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
     "revision": "Entrada de índice en desarrollo; no constituye una definición normativa validada.",
     "estado": "en_preparacion"
+  },
+  {
+    "id": "indice-clasificador-geografico",
+    "termino": "Clasificador geográfico",
+    "categoria": "Clasificadores y gestión",
+    "definicion": "Término incluido en el índice temático para su posterior desarrollo y validación documental.",
+    "ejemplo": "Caso práctico hospitalario pendiente de revisión.",
+    "fuente": "Pendiente de validación documental",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Ficha en preparación; no constituye instrucción operativa.",
+    "estado": "en_preparacion"
+  },
+  {
+    "id": "indice-clasificador-institucional",
+    "termino": "Clasificador institucional",
+    "categoria": "Clasificadores y gestión",
+    "definicion": "Término incluido en el índice temático para su posterior desarrollo y validación documental.",
+    "ejemplo": "Caso práctico hospitalario pendiente de revisión.",
+    "fuente": "Pendiente de validación documental",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Ficha en preparación; no constituye instrucción operativa.",
+    "estado": "en_preparacion"
+  },
+  {
+    "id": "indice-clasificador-por-finalidad-y-funcion",
+    "termino": "Clasificador por finalidad y función",
+    "categoria": "Clasificadores y gestión",
+    "definicion": "Término incluido en el índice temático para su posterior desarrollo y validación documental.",
+    "ejemplo": "Caso práctico hospitalario pendiente de revisión.",
+    "fuente": "Pendiente de validación documental",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Ficha en preparación; no constituye instrucción operativa.",
+    "estado": "en_preparacion"
+  },
+  {
+    "id": "indice-clasificador-por-tipo-de-gasto",
+    "termino": "Clasificador por tipo de gasto",
+    "categoria": "Clasificadores y gestión",
+    "definicion": "Término incluido en el índice temático para su posterior desarrollo y validación documental.",
+    "ejemplo": "Caso práctico hospitalario pendiente de revisión.",
+    "fuente": "Pendiente de validación documental",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Ficha en preparación; no constituye instrucción operativa.",
+    "estado": "en_preparacion"
+  },
+  {
+    "id": "indice-clasificador-de-recursos-por-rubros",
+    "termino": "Clasificador de recursos por rubros",
+    "categoria": "Clasificadores y gestión",
+    "definicion": "Término incluido en el índice temático para su posterior desarrollo y validación documental.",
+    "ejemplo": "Caso práctico hospitalario pendiente de revisión.",
+    "fuente": "Pendiente de validación documental",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Ficha en preparación; no constituye instrucción operativa.",
+    "estado": "en_preparacion"
+  },
+  {
+    "id": "indice-clasificador-de-fuentes-de-financiamiento",
+    "termino": "Clasificador de fuentes de financiamiento",
+    "categoria": "Clasificadores y gestión",
+    "definicion": "Término incluido en el índice temático para su posterior desarrollo y validación documental.",
+    "ejemplo": "Caso práctico hospitalario pendiente de revisión.",
+    "fuente": "Pendiente de validación documental",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Ficha en preparación; no constituye instrucción operativa.",
+    "estado": "en_preparacion"
+  },
+  {
+    "id": "indice-categoria-equivalente",
+    "termino": "Categoría equivalente",
+    "categoria": "Clasificadores y gestión",
+    "definicion": "Término incluido en el índice temático para su posterior desarrollo y validación documental.",
+    "ejemplo": "Caso práctico hospitalario pendiente de revisión.",
+    "fuente": "Pendiente de validación documental",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Ficha en preparación; no constituye instrucción operativa.",
+    "estado": "en_preparacion"
+  },
+  {
+    "id": "indice-registro-de-beneficiarios",
+    "termino": "Registro de beneficiarios",
+    "categoria": "Clasificadores y gestión",
+    "definicion": "Término incluido en el índice temático para su posterior desarrollo y validación documental.",
+    "ejemplo": "Caso práctico hospitalario pendiente de revisión.",
+    "fuente": "Pendiente de validación documental",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Ficha en preparación; no constituye instrucción operativa.",
+    "estado": "en_preparacion"
+  },
+  {
+    "id": "indice-programacion-de-desembolsos",
+    "termino": "Programación de desembolsos",
+    "categoria": "Clasificadores y gestión",
+    "definicion": "Término incluido en el índice temático para su posterior desarrollo y validación documental.",
+    "ejemplo": "Caso práctico hospitalario pendiente de revisión.",
+    "fuente": "Pendiente de validación documental",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Ficha en preparación; no constituye instrucción operativa.",
+    "estado": "en_preparacion"
+  },
+  {
+    "id": "indice-reintegro-de-fondos",
+    "termino": "Reintegro de fondos",
+    "categoria": "Clasificadores y gestión",
+    "definicion": "Término incluido en el índice temático para su posterior desarrollo y validación documental.",
+    "ejemplo": "Caso práctico hospitalario pendiente de revisión.",
+    "fuente": "Pendiente de validación documental",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Ficha en preparación; no constituye instrucción operativa.",
+    "estado": "en_preparacion"
+  },
+  {
+    "id": "indice-regularizacion-presupuestaria",
+    "termino": "Regularización presupuestaria",
+    "categoria": "Clasificadores y gestión",
+    "definicion": "Término incluido en el índice temático para su posterior desarrollo y validación documental.",
+    "ejemplo": "Caso práctico hospitalario pendiente de revisión.",
+    "fuente": "Pendiente de validación documental",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Ficha en preparación; no constituye instrucción operativa.",
+    "estado": "en_preparacion"
+  },
+  {
+    "id": "indice-informe-de-liquidacion",
+    "termino": "Informe de liquidación",
+    "categoria": "Clasificadores y gestión",
+    "definicion": "Término incluido en el índice temático para su posterior desarrollo y validación documental.",
+    "ejemplo": "Caso práctico hospitalario pendiente de revisión.",
+    "fuente": "Pendiente de validación documental",
+    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
+    "revision": "Ficha en preparación; no constituye instrucción operativa.",
+    "estado": "en_preparacion"
   }
 ]
