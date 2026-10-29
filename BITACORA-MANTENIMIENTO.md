@@ -2,6 +2,23 @@
 
 Este archivo documenta cambios comprobables y trabajos pendientes del Centro de Conocimiento Presupuestario. No reemplaza el historial de commits ni certifica la vigencia de las normas. Cada entrada debe indicar **fecha, cambio, fuente, prueba y limitación**.
 
+## 2026-10-29 — Seguimiento IUSI y distinción entre iniciativa y ley
+
+**Cambios en GitHub:**
+- `observatorio-normativo.html`: incorporadas dos fichas de seguimiento legislativo con estados diferenciados, fechas, advertencias y enlaces a expedientes institucionales.
+- `sw.js`: versión de caché `v15` para que el observatorio actualizado se renueve en visitas con el sitio instalado o guardado sin conexión.
+
+**Fuentes oficiales consultadas (29/10/2026):**
+- Congreso, Decreto 18-2026, ficha con publicación 28/08/2026, vigencia general indicada 27/10/2026, excepciones para IUSI 26/11/2026 e ISR/timbres fiscales 01/01/2027: https://www.congreso.gob.gt/detalle_pdf/decretos/13709
+- Congreso, expediente de iniciativa 6861, conocida por el Pleno 13/10/2026, propuesta de reforma de artículos 77 y 78 del Decreto 101-97: https://www.congreso.gob.gt/detalle_pdf/iniciativas/6500
+- Congreso, noticia de 16/10/2026 sobre remisión a la Comisión de Deportes: https://www.congreso.gob.gt/noticias_congreso/17275/2026/4
+- MSPAS, vigilancia sanitaria de productos y formularios (seguimiento de fuentes del 28/10): https://medicamentos.mspas.gob.gt/index.php/alertas/alerta-de-retiro-o-desvios-de-productos-del-mercado y https://medicamentos.mspas.gob.gt/index.php/formularios/farmacovigilancia
+- CGC, biblioteca institucional de control interno y otras materias: https://www.contraloria.gob.gt/index.php/biblioteca/
+
+**Comprobaciones y límites:** los resultados indexados del Congreso identifican claramente números, fechas, excepciones y estado de la iniciativa. Se verificaron en el contenido editado las dos fichas, el texto de advertencia, ocho tarjetas y la actualización de la fecha editorial; se comprobó la sustitución de `v14` por `v15` y la presencia del observatorio en el listado de recursos precargados. La herramienta de apertura directa devolvió 502 en páginas del Congreso y la consulta pública de GitHub Pages no respondió desde los entornos disponibles; **no se descargó ni auditó el articulado íntegro de los decretos, no se completó prueba visual ni se certifica el despliegue público**. La fuente es el registro institucional indexado, no una interpretación completa de la ley.
+
+**Próximo trabajo:** comprobar despliegue; estudiar el texto íntegro del Decreto 18-2026 y su aplicación por fechas antes de crear procedimientos municipales; contrastar el estado posterior de la iniciativa 6861; auditar enlaces de fichas del diccionario y ampliar contenido técnico verificable.
+
 ## 2026-10-28 — Observatorio normativo y vigilancia sectorial
 
 **Publicado en el repositorio:**
