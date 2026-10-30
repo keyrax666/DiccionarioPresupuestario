@@ -6,7 +6,7 @@ Este archivo documenta cambios comprobables y trabajos pendientes del Centro de 
 
 **Cambios guardados en GitHub:**
 - `fichas-ampliadas.js`: ampliadas cuatro fichas (control interno, PEI, POM y POA) con comprobaciones operativas y fuentes institucionales más precisas. La ficha de control interno ya no remite equivocadamente al catálogo genérico de manuales del MINFIN, sino a la sección pertinente de la CGC. PEI/POM/POA enlazan directamente al documento de SEGEPLAN 2027–2031.
-- `observatorio-normativo.html`: incorporada sección educativa con tres recursos técnicos: lineamientos SEGEPLAN 2027–2031, normas de control interno CGC y catálogo de manuales internos CGC 2026, con advertencias sobre su ámbito de aplicación.
+- `observatorio-normativo.html`: incorporada sección educativa con cuatro recursos técnicos: lineamientos SEGEPLAN 2027–2031, normas de control interno CGC, catálogo de manuales internos CGC 2026 y biblioteca DIFODA de capacitación en adquisiciones, con advertencias sobre su ámbito de aplicación.
 - `sw.js`: caché `v16` para distribuir cambios en visitas posteriores.
 
 **Fuentes oficiales consultadas (30/10/2026):**
@@ -14,9 +14,10 @@ Este archivo documenta cambios comprobables y trabajos pendientes del Centro de 
 - CGC, Normas Generales y Técnicas de Control Interno Gubernamental y Acuerdo A-039-2023: https://www.contraloria.gob.gt/index.php/normas-generales-de-control-interno/ y https://www.contraloria.gob.gt/index.php/acuerdos-internos-2023-2026/
 - CGC, catálogo de manuales de procedimientos con referencias A-39-2026, A-013-2026 y otros documentos institucionales: https://www.contraloria.gob.gt/index.php/06-manuales-de-procedimientos/
 - MINFIN, catálogo de manuales (se verificó que incluye Manual de Clasificaciones Presupuestarias 7.ª edición, guías SIGES y manuales contables; quedan pendientes enlaces PDF específicos): https://www.minfin.gob.gt/legislacion-y-normas/manuales
+- DIFODA/MINFIN, DIFOTECA, biblioteca oficial de recursos de adquisiciones; índice consultado con 45 recursos y 9 videotutoriales de operaciones de GUATECOMPRAS: https://formacion.minfin.gob.gt/difoteca/
 - Congreso, ficha del Decreto 18-2026 con vigencia escalonada: https://www.congreso.gob.gt/detalle_pdf/decretos/13709
 
-**Comprobaciones y límites:** se comprobó el contenido íntegro del PDF de SEGEPLAN a través de su texto extraído (32 páginas) y los apartados citados; el portal de la CGC mostró el índice de normas y acuerdos, y el buscador institucional indexó el catálogo de manuales, pero la apertura directa del catálogo devolvió 403. El PDF extenso del Acuerdo A-039-2023 excedió el límite de lectura de la herramienta; por ello no se verificó íntegramente su texto ni posibles reformas posteriores. Las fichas usan estas fuentes como orientación, no como certificación de vigencia. Los archivos editados conservan 19 fichas ampliadas y el observatorio 11 tarjetas. Falta confirmar visualmente el despliegue público y probar el flujo de usuario en navegador.
+**Comprobaciones y límites:** se comprobó el contenido íntegro del PDF de SEGEPLAN a través de su texto extraído (32 páginas) y los apartados citados; el portal de la CGC mostró el índice de normas y acuerdos, y el buscador institucional indexó el catálogo de manuales, pero la apertura directa del catálogo devolvió 403. El PDF extenso del Acuerdo A-039-2023 excedió el límite de lectura de la herramienta; por ello no se verificó íntegramente su texto ni posibles reformas posteriores. Las fichas usan estas fuentes como orientación, no como certificación de vigencia. Los archivos editados conservan 19 fichas ampliadas y el observatorio 12 tarjetas. Falta confirmar visualmente el despliegue público y probar el flujo de usuario en navegador.
 
 **Próximo trabajo:** verificar publicación y enlaces PDF concretos, revisar la clasificación presupuestaria vigente con anexos posteriores, y profundizar fichas de compras y SIGES sin generalizar procesos de una entidad a otra.
 
