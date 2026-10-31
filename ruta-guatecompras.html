@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#102f42">
+<meta name="description" content="Ruta educativa gratuita de GUATECOMPRAS con nueve recursos oficiales de DIFODA/MINFIN, ordenados por aprendizaje y operación.">
+<title>Ruta de aprendizaje GUATECOMPRAS · Academia de Administración Pública</title>
+<style>
+:root{--navy:#102f42;--teal:#087b75;--ink:#172c3d;--muted:#536b78;--line:#d7e5e7;--paper:#f4f7f8}
+*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.65 system-ui,"Segoe UI",sans-serif}
+a{color:#076c66}a:focus-visible,button:focus-visible{outline:3px solid #14a993;outline-offset:3px}
+header{background:var(--navy);color:white;padding:17px max(20px,calc((100vw - 1150px)/2));display:flex;justify-content:space-between;gap:14px;align-items:center;flex-wrap:wrap}
+header a{color:#b9f0e4}main{max-width:1150px;margin:auto;padding:38px 22px 70px}
+.eyebrow{font-size:12px;font-weight:800;letter-spacing:.12em;color:var(--teal);text-transform:uppercase}
+h1{font-size:clamp(31px,4.7vw,51px);line-height:1.13;letter-spacing:-.045em;margin:10px 0 16px}
+.lede{max-width:800px;font-size:17px;color:var(--muted)}.notice{background:#e7f4f0;border-left:5px solid var(--teal);border-radius:7px;padding:18px 22px;margin:26px 0}
+.notice strong{display:block;margin-bottom:5px}.notice p{margin:0}
+.tools{display:flex;flex-wrap:wrap;gap:9px;margin:30px 0 18px}
+.tools button{font:inherit;cursor:pointer;border:1px solid #9bcac0;background:white;color:#075b56;border-radius:99px;padding:9px 17px;font-weight:700}
+.tools button[aria-pressed=true]{background:#087b75;color:white;border-color:#087b75}
+.count{font-size:13px;color:var(--muted);margin-bottom:14px}
+.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.card{background:white;border:1px solid var(--line);border-radius:15px;padding:22px;display:flex;flex-direction:column;min-height:265px;box-shadow:0 9px 28px #17364709}
+.card[hidden]{display:none}.top{display:flex;align-items:center;justify-content:space-between;gap:10px}.number{font-weight:850;font-size:13px;color:var(--teal)}
+.tag{font-size:11px;font-weight:800;color:#0b635b;background:#e3f5ee;border-radius:99px;padding:3px 9px}
+.card h3{font-size:18px;line-height:1.3;margin:14px 0 8px}.card p{font-size:14px;color:var(--muted);margin:0 0 18px;flex:1}
+.card a{display:inline-block;align-self:flex-start;font-weight:800;text-decoration:none;border-bottom:2px solid currentColor}
+.extra{background:white;border:1px solid var(--line);border-radius:14px;padding:22px;margin-top:30px}.extra h2{margin:0 0 9px;font-size:21px}.extra p{margin:0 0 10px}
+footer{text-align:center;padding:24px;color:var(--muted);font-size:13px;border-top:1px solid var(--line)}
+@media(max-width:900px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:600px){main{padding:27px 15px 48px}.grid{grid-template-columns:1fr}.card{min-height:0}.tools button{padding:8px 12px;font-size:14px}}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+</style>
+</head>
+<body>
+<header><strong>✦ Academia de Administración Pública · Guatemala</strong><a href="./#biblioteca-siaf">← Volver al centro de conocimiento</a></header>
+<main>
+<div class="eyebrow">Compras y contrataciones · Biblioteca guiada</div>
+<h1>Aprende GUATECOMPRAS<br>con recursos oficiales</h1>
+<p class="lede">Nueve materiales educativos de la Dirección de Formación y Desarrollo Profesional en Adquisiciones del Estado (DIFODA/MINFIN), organizados desde la consulta pública hasta operaciones especializadas. Selecciona un tema y abre la ficha oficial de capacitación.</p>
+<div class="notice" role="note"><strong>Importante: material formativo, no autorización para operar.</strong><p>Las páginas de los recursos se revisaron el 31 de octubre de 2026. No se ha auditado íntegramente el contenido audiovisual ni se certifica que sus pantallas, montos, perfiles o requisitos sigan vigentes. Antes de ejecutar una operación, consulta la normativa aplicable y los procedimientos aprobados por tu entidad. Esta academia no está afiliada al MINFIN.</p></div>
+<div class="tools" role="group" aria-label="Filtrar recursos por etapa">
+<button type="button" data-filter="Todos" aria-pressed="true">Todos (9)</button>
+<button type="button" data-filter="Inicio" aria-pressed="false">Primeros pasos</button>
+<button type="button" data-filter="Planificación" aria-pressed="false">Planificación</button>
+<button type="button" data-filter="Publicaciones" aria-pressed="false">Publicaciones</button>
+<button type="button" data-filter="Control" aria-pressed="false">Control</button>
+</div>
+<div class="count" id="result-count" role="status" aria-live="polite">9 recursos disponibles</div>
+<section class="grid" aria-label="Materiales educativos oficiales">
+<article class="card" data-topic="undefined"><div class="top"><span class="number">01</span><span class="tag">Fundamentos</span></div><h3>Módulos de GUATECOMPRAS</h3><p>Conoce la interfaz, las consultas públicas y los módulos antes de practicar operaciones.</p><a href="https://formacion.minfin.gob.gt/modulos-guatecompras/" target="_blank" rel="noopener noreferrer" aria-label="Abrir recurso oficial: Módulos de GUATECOMPRAS">Abrir recurso oficial ↗</a></article>
+<article class="card" data-topic="undefined"><div class="top"><span class="number">02</span><span class="tag">Fundamentos</span></div><h3>Búsqueda y reportería</h3><p>Aprende a localizar información y reportes desde el perfil público.</p><a href="https://formacion.minfin.gob.gt/busqueda-y-reporteria-en-el-sistema-guatecompras/" target="_blank" rel="noopener noreferrer" aria-label="Abrir recurso oficial: Búsqueda y reportería">Abrir recurso oficial ↗</a></article>
+<article class="card" data-topic="undefined"><div class="top"><span class="number">03</span><span class="tag">Planificación</span></div><h3>Plan Anual de Compras (PAC)</h3><p>Introducción a la elaboración y registro del PAC. Confirma el calendario y las reglas de tu entidad.</p><a href="https://formacion.minfin.gob.gt/pac/" target="_blank" rel="noopener noreferrer" aria-label="Abrir recurso oficial: Plan Anual de Compras (PAC)">Abrir recurso oficial ↗</a></article>
+<article class="card" data-topic="undefined"><div class="top"><span class="number">04</span><span class="tag">Publicaciones</span></div><h3>NPG para baja cuantía</h3><p>Material demostrativo sobre la publicación de adquisiciones de baja cuantía en el entorno de capacitación.</p><a href="https://formacion.minfin.gob.gt/creacion-de-un-npg-para-baja-cuantia-en-el-sistema-guatecompras/" target="_blank" rel="noopener noreferrer" aria-label="Abrir recurso oficial: NPG para baja cuantía">Abrir recurso oficial ↗</a></article>
+<article class="card" data-topic="undefined"><div class="top"><span class="number">05</span><span class="tag">Publicaciones</span></div><h3>NPG para servicios técnicos y profesionales</h3><p>Ejemplo educativo de publicación para servicios técnicos y profesionales; comprueba el supuesto legal aplicable.</p><a href="https://formacion.minfin.gob.gt/npg-servicios-tecnicos-y-profesionales/" target="_blank" rel="noopener noreferrer" aria-label="Abrir recurso oficial: NPG para servicios técnicos y profesionales">Abrir recurso oficial ↗</a></article>
+<article class="card" data-topic="undefined"><div class="top"><span class="number">06</span><span class="tag">Publicaciones</span></div><h3>Compra directa con oferta electrónica</h3><p>Recorrido de capacitación sobre la modalidad de compra directa con oferta electrónica.</p><a href="https://formacion.minfin.gob.gt/compra-directa-con-oferta-electronica/" target="_blank" rel="noopener noreferrer" aria-label="Abrir recurso oficial: Compra directa con oferta electrónica">Abrir recurso oficial ↗</a></article>
+<article class="card" data-topic="undefined"><div class="top"><span class="number">07</span><span class="tag">Publicaciones</span></div><h3>Compra directa con oferta electrónica (NOG)</h3><p>Recurso adicional centrado en la publicación mediante NOG; puede complementar el anterior.</p><a href="https://formacion.minfin.gob.gt/compra-directa-con-oferta-electronica-nog/" target="_blank" rel="noopener noreferrer" aria-label="Abrir recurso oficial: Compra directa con oferta electrónica (NOG)">Abrir recurso oficial ↗</a></article>
+<article class="card" data-topic="undefined"><div class="top"><span class="number">08</span><span class="tag">Publicaciones</span></div><h3>Proyecto de bases de cotización pública</h3><p>Demostración de creación y publicación de un proyecto de bases, con intervención de distintos perfiles.</p><a href="https://formacion.minfin.gob.gt/creacion-y-publicacion-de-una-cotizacion-publica/" target="_blank" rel="noopener noreferrer" aria-label="Abrir recurso oficial: Proyecto de bases de cotización pública">Abrir recurso oficial ↗</a></article>
+<article class="card" data-topic="undefined"><div class="top"><span class="number">09</span><span class="tag">Control</span></div><h3>Creación de inhabilitaciones</h3><p>Tema especializado con implicaciones jurídicas: estudiar únicamente; nunca aplicar sanciones sin competencia y fundamento.</p><a href="https://formacion.minfin.gob.gt/inhabilitaciones/" target="_blank" rel="noopener noreferrer" aria-label="Abrir recurso oficial: Creación de inhabilitaciones">Abrir recurso oficial ↗</a></article>
+</section>
+<section class="extra"><h2>Cómo utilizar esta ruta</h2><p>Empieza por los módulos y la búsqueda pública; continúa con el PAC y las publicaciones relacionadas con tu puesto. Deja las inhabilitaciones para una etapa avanzada y consulta a tu área jurídica cuando corresponda.</p><p>El sitio oficial de DIFODA agrupa los materiales en su <a href="https://formacion.minfin.gob.gt/coleccion-videotutoriales/" target="_blank" rel="noopener noreferrer">colección de operaciones de GUATECOMPRAS ↗</a>. Si una ficha deja de funcionar, comprueba allí si fue reemplazada.</p><p><strong>Glosario:</strong> NPG = Número de Publicación de GUATECOMPRAS; NOG = Número de Operación de GUATECOMPRAS; PAC = Plan Anual de Compras. Las modalidades y obligaciones deben contrastarse con la normativa aplicable.</p></section>
+</main>
+<footer>Recurso educativo independiente y gratuito · Fuentes: DIFODA / Ministerio de Finanzas Públicas · Revisión editorial: 31/10/2026</footer>
+<script>
+"use strict";
+const buttons=[...document.querySelectorAll("[data-filter]")];
+const cards=[...document.querySelectorAll("[data-topic]")];
+const count=document.getElementById("result-count");
+buttons.forEach(button=>button.addEventListener("click",()=>{
+const filter=button.dataset.filter;
+buttons.forEach(b=>b.setAttribute("aria-pressed",String(b===button)));
+let visible=0;
+cards.forEach(card=>{card.hidden=filter!=="Todos"&&card.dataset.topic!==filter;if(!card.hidden)visible++;});
+count.textContent=visible+" recurso"+(visible===1?"":"s")+" disponible"+(visible===1?"":"s");
+}));
+</script>
+</body></html>
