@@ -2,6 +2,26 @@
 
 Este archivo documenta cambios comprobables y trabajos pendientes del Centro de Conocimiento Presupuestario. No reemplaza el historial de commits ni certifica la vigencia de las normas. Cada entrada debe indicar **fecha, cambio, fuente, prueba y limitación**.
 
+## 2026-10-31 — Ruta GUATECOMPRAS, seguimiento 2027 y mejora PWA
+
+**Cambios guardados en GitHub:**
+- `ruta-guatecompras.html`: nueva ruta de aprendizaje con **nueve fichas oficiales DIFODA/MINFIN** agrupadas en primeros pasos, planificación, publicaciones y control; incorpora filtros accesibles, descripciones y enlaces individuales a las fichas de formación.
+- `index.html`: acceso a la ruta desde el menú Aprendizaje y desde una página interna dedicada.
+- `observatorio-normativo.html`: incorporado seguimiento de la **iniciativa 6841, proyecto de Presupuesto 2027**, claramente identificada como **propuesta, no norma vigente**; añadido acceso a la ruta GUATECOMPRAS.
+- `sw.js`: caché `v17` con precarga de la nueva ruta. Corregido el comportamiento sin conexión para evitar que una solicitud de JavaScript, CSS o JSON no disponible reciba erróneamente el HTML de inicio. La página de inicio queda como recurso alternativo únicamente para navegación.
+
+**Fuentes oficiales consultadas (31/10/2026):**
+- DIFODA/MINFIN, índice de nueve operaciones de GUATECOMPRAS: https://formacion.minfin.gob.gt/coleccion-videotutoriales/
+- Se abrieron y contrastaron las nueve fichas individuales enlazadas desde ese índice: módulos, búsqueda y reportería, PAC, NPG baja cuantía, NPG servicios técnicos y profesionales, compra directa con oferta electrónica, compra directa con oferta electrónica (NOG), proyecto de bases de cotización e inhabilitaciones. Las URL están en `ruta-guatecompras.html`.
+- Congreso, resumen del 30/10/2026 sobre cierre de audiencias del Presupuesto 2027: https://www.congreso.gob.gt/noticias_congreso/17379/2026/4
+- Congreso, iniciativa 6841 y audiencias: https://www.congreso.gob.gt/noticias_congreso/17151/2026/3
+
+**Pruebas efectuadas:** se comprobó por lectura directa del repositorio la existencia de los cuatro archivos actualizados, la sintaxis del JavaScript incrustado en las páginas, la sintaxis de `sw.js`, los nueve enlaces oficiales distintos y la existencia de las rutas locales referenciadas (excepto una cadena de enlace construida dinámicamente en `index.html`, que no representa un archivo faltante). El observatorio tiene 13 tarjetas. GitHub Actions inició el despliegue de la revisión; **no se certifica aún su finalización ni se completó una prueba visual o funcional en navegador**.
+
+**Limitaciones editoriales:** la verificación alcanza las páginas oficiales de presentación, **no el contenido íntegro de los videos**. Los montos, pantallas y permisos de ejemplos históricos pueden haber cambiado; por eso la nueva ruta no reproduce umbrales monetarios ni autoriza operaciones. La iniciativa 6841 no se presenta como ley. No se verificó una derogación adicional que justifique cambiar instrucciones normativas.
+
+**Siguiente prioridad:** comprobar el despliegue y accesibilidad visual de la ruta; evaluar si los nueve videos siguen correspondiendo a pantallas y normas vigentes; convertir los recursos en lecciones con evaluación solo tras esa validación. Revisar los enlaces genéricos de las fichas y documentar por artículo las reformas presupuestarias relevantes.
+
 ## 2026-10-30 — Fuentes primarias para planificación y control interno
 
 **Cambios guardados en GitHub:**
