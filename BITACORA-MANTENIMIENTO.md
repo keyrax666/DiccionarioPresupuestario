@@ -2,6 +2,26 @@
 
 Este archivo documenta cambios comprobables y trabajos pendientes del Centro de Conocimiento Presupuestario. No reemplaza el historial de commits ni certifica la vigencia de las normas. Cada entrada debe indicar **fecha, cambio, fuente, prueba y limitación**.
 
+## 2026-11-01 — Corrección funcional de filtros GUATECOMPRAS y prueba de regresión
+
+**Hallazgo crítico de auditoría:** las nueve tarjetas de `ruta-guatecompras.html` estaban publicadas con el atributo `data-topic="undefined"`. El filtro `Todos` mostraba los recursos, pero los botones `Primeros pasos`, `Planificación`, `Publicaciones` y `Control` ocultaban **todas** las tarjetas, aunque sí existían materiales de cada categoría. No era un problema normativo sino de experiencia y funcionalidad.
+
+**Cambios guardados en GitHub:**
+- `ruta-guatecompras.html`: asignadas categorías reales a las nueve tarjetas: Inicio (2), Planificación (1), Publicaciones (5), Control (1). Se conservan los nueve enlaces oficiales y el orden de aprendizaje.
+- `tests/ruta-guatecompras.test.cjs`: nueva prueba de regresión sin dependencias (`node tests/ruta-guatecompras.test.cjs`) que valida nueve recursos, cuatro categorías, botones correspondientes y nueve URL únicas de formación MINFIN.
+- `sw.js`: caché `centro-presupuestario-v18` para actualizar la versión precargada y sin conexión.
+
+**Comprobaciones:** se leyeron de nuevo los tres archivos desde la rama `main` de GitHub. Se ejecutó una verificación estructural equivalente sobre el HTML real recuperado: **aprobada** (9 tarjetas, distribución 2/1/5/1, cuatro botones y nueve URL únicas). La prueba de Node quedó versionada, pero **no se ejecutó el comando Node dentro de un entorno de integración continua**. El despliegue de GitHub Pages se encontraba pendiente/en curso al consultarlo; no se certificó una prueba visual en navegador.
+
+**Vigilancia de fuentes oficiales revisadas (01/11/2026):**
+- Congreso, noticia del 30/10/2026: cierre de audiencias públicas de la iniciativa 6841 del Presupuesto 2027; **sigue siendo proyecto**, sin base para marcarlo como ley vigente: https://www.congreso.gob.gt/noticias_congreso/17379/2026/4
+- MINFIN/DIFODA, ficha oficial de compra directa con oferta electrónica: https://formacion.minfin.gob.gt/compra-directa-con-oferta-electronica/ (el material muestra un ejemplo con montos, que **no se trasladan a instrucciones vigentes** sin corroboración normativa).
+- MSPAS, alertas de retiro/desvíos: el listado accesible seguía señalando actualización al 27/10/2026; no se analizaron los productos del documento descargable: https://medicamentos.mspas.gob.gt/index.php/alertas/alerta-de-retiro-o-desvios-de-productos-del-mercado
+- MSPAS, formularios de farmacovigilancia: ficha F-FV-f-05 versión 01-2026, vigencia indicada 17/10/2026: https://medicamentos.mspas.gob.gt/index.php/formularios/farmacovigilancia
+- CGC, índice de normas generales de control interno: https://www.contraloria.gob.gt/index.php/normas-generales-de-control-interno/
+
+**Criterio editorial y siguiente prioridad:** no se encontró evidencia suficiente de una derogación adicional que justifique modificar fichas jurídicas. Confirmar despliegue y probar los filtros en navegador; después automatizar esta prueba en CI y revisar si los tutoriales de DIFODA describen interfaces y umbrales actuales.
+
 ## 2026-10-31 — Ruta GUATECOMPRAS, seguimiento 2027 y mejora PWA
 
 **Cambios guardados en GitHub:**
