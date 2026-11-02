@@ -29,6 +29,14 @@ h1{font-size:clamp(31px,4.7vw,51px);line-height:1.13;letter-spacing:-.045em;marg
 footer{text-align:center;padding:24px;color:var(--muted);font-size:13px;border-top:1px solid var(--line)}
 @media(max-width:900px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:600px){main{padding:27px 15px 48px}.grid{grid-template-columns:1fr}.card{min-height:0}.tools button{padding:8px 12px;font-size:14px}}
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+
+/* Autoevaluación sin dependencias: las respuestas se revelan únicamente a petición. */
+.practice{background:#fff;border:1px solid var(--line);border-radius:15px;padding:25px;margin-top:28px}
+.practice h2{font-size:24px;line-height:1.3;margin:0 0 8px}.practice .intro{color:var(--muted);margin:0 0 18px}
+.practice details{border:1px solid var(--line);border-radius:10px;padding:13px 16px;margin-top:11px;background:#fbfdfd}
+.practice summary{cursor:pointer;font-weight:750;line-height:1.5}.practice summary:focus-visible{outline:3px solid #14a993;outline-offset:4px}
+.practice details[open]{background:#edf8f4}.practice details p{margin:12px 0 0;color:var(--ink)}
+.practice .source{font-size:13px;color:var(--muted);margin-top:18px}
 </style>
 </head>
 <body>
@@ -58,8 +66,18 @@ footer{text-align:center;padding:24px;color:var(--muted);font-size:13px;border-t
 <article class="card" data-topic="Control"><div class="top"><span class="number">09</span><span class="tag">Control</span></div><h3>Creación de inhabilitaciones</h3><p>Tema especializado con implicaciones jurídicas: estudiar únicamente; nunca aplicar sanciones sin competencia y fundamento.</p><a href="https://formacion.minfin.gob.gt/inhabilitaciones/" target="_blank" rel="noopener noreferrer" aria-label="Abrir recurso oficial: Creación de inhabilitaciones">Abrir recurso oficial ↗</a></article>
 </section>
 <section class="extra"><h2>Cómo utilizar esta ruta</h2><p>Empieza por los módulos y la búsqueda pública; continúa con el PAC y las publicaciones relacionadas con tu puesto. Deja las inhabilitaciones para una etapa avanzada y consulta a tu área jurídica cuando corresponda.</p><p>El sitio oficial de DIFODA agrupa los materiales en su <a href="https://formacion.minfin.gob.gt/coleccion-videotutoriales/" target="_blank" rel="noopener noreferrer">colección de operaciones de GUATECOMPRAS ↗</a>. Si una ficha deja de funcionar, comprueba allí si fue reemplazada.</p><p><strong>Glosario:</strong> NPG = Número de Publicación de GUATECOMPRAS; NOG = Número de Operación de GUATECOMPRAS; PAC = Plan Anual de Compras. Las modalidades y obligaciones deben contrastarse con la normativa aplicable.</p></section>
+
+<section class="practice" id="autoevaluacion" aria-labelledby="autoevaluacion-title">
+<h2 id="autoevaluacion-title">Autoevaluación · Antes de operar</h2>
+<p class="intro">Comprueba si sabes localizar el material adecuado. Lee cada situación, piensa tu respuesta y despliega la explicación. Esta actividad es orientativa: no otorga certificación ni sustituye los procedimientos de tu institución.</p>
+<details><summary>1. No tienes un número de operación y quieres explorar compras similares. ¿Empiezas por consulta o búsqueda específica?</summary><p><strong>Consulta.</strong> DIFODA distingue la consulta, cuando no se dispone de un dato certero, de la búsqueda con un identificador conocido, como un NOG. Revisa el recurso «Búsqueda y reportería».</p></details>
+<details><summary>2. Ya conoces el NOG de un evento. ¿Qué material te ayuda a localizarlo desde el perfil público?</summary><p><strong>Búsqueda y reportería.</strong> El material oficial explica cómo buscar información usando un dato conocido. No necesitas empezar creando una publicación.</p></details>
+<details><summary>3. Te asignan estudiar la planificación de adquisiciones antes de publicar eventos. ¿Qué recurso corresponde?</summary><p><strong>Plan Anual de Compras (PAC).</strong> Consulta primero el material de planificación y confirma después los lineamientos y competencias aplicables a tu entidad.</p></details>
+<details><summary>4. Un compañero te pide aplicar una inhabilitación solo porque vio el videotutorial. ¿Es suficiente?</summary><p><strong>No.</strong> El videotutorial es material educativo. Una actuación con consecuencias jurídicas requiere competencia, fundamento y el procedimiento institucional correspondiente; estudia el recurso, pero no ejecutes sanciones basándote únicamente en él.</p></details>
+<p class="source">Base educativa: <a href="https://formacion.minfin.gob.gt/busqueda-y-reporteria-en-el-sistema-guatecompras/" target="_blank" rel="noopener noreferrer">DIFODA · Búsqueda y reportería ↗</a> y <a href="https://formacion.minfin.gob.gt/coleccion-videotutoriales/" target="_blank" rel="noopener noreferrer">colección oficial de operaciones GUATECOMPRAS ↗</a>. Preguntas redactadas por esta academia, no por MINFIN.</p>
+</section>
 </main>
-<footer>Recurso educativo independiente y gratuito · Fuentes: DIFODA / Ministerio de Finanzas Públicas · Revisión editorial: 31/10/2026</footer>
+<footer>Recurso educativo independiente y gratuito · Fuentes: DIFODA / Ministerio de Finanzas Públicas · Revisión editorial: 02/11/2026</footer>
 <script>
 "use strict";
 const buttons=[...document.querySelectorAll("[data-filter]")];
