@@ -1,0 +1,30 @@
+name: Validar academia
+
+on:
+  push:
+    paths:
+      - "ruta-guatecompras.html"
+      - "tests/ruta-guatecompras-autoevaluacion.test.cjs"
+      - ".github/workflows/validar-academia.yml"
+  pull_request:
+    paths:
+      - "ruta-guatecompras.html"
+      - "tests/ruta-guatecompras-autoevaluacion.test.cjs"
+      - ".github/workflows/validar-academia.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  pruebas:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Obtener código
+        uses: actions/checkout@v4
+      - name: Preparar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Probar ruta educativa GUATECOMPRAS
+        run: node --test tests/ruta-guatecompras-autoevaluacion.test.cjs
