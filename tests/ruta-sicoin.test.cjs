@@ -43,7 +43,7 @@ test("la ruta SICOIN conserva sus tres etapas y autoevaluación", () => {
 test("la ruta SICOIN está incluida en la caché sin conexión", () => {
   const sw = read("sw.js");
   assert.match(sw, /'\.\/ruta-consultas-sicoin\.html'/);
-  assert.match(sw, /const CACHE='centro-presupuestario-v19'/);
+  assert.match(sw, /const CACHE='centro-presupuestario-v20'/);
 });
 
 test("los recursos de formación enlazan a dominios institucionales esperados", () => {
