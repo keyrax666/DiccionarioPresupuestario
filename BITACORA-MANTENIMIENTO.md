@@ -19,7 +19,7 @@ Este archivo documenta cambios comprobables y trabajos pendientes del Centro de 
 - Congreso, iniciativa 6841 y cierre de audiencias del Presupuesto 2027 (29/10/2026): https://www.congreso.gob.gt/noticias_congreso/17378/2026/3. No se encontró en la búsqueda de esta ejecución una aprobación del Presupuesto General 2027; la noticia del Acuerdo Legislativo 24-2026 corresponde al presupuesto del Organismo Legislativo, no al presupuesto general.
 
 **Comprobaciones y límites:**
-- Antes de estos cambios, GitHub Actions registró como satisfactorios el flujo «Validar academia» del commit de integración SICOIN (`8c2ff1c`) y el despliegue de Pages del commit editorial `5322604`. Las pruebas de esta nueva revisión quedan pendientes de consultar después de los commits.
+- GitHub Actions ejecutó el flujo «Validar academia» para el commit `cc8dfe1` (run `42491546966`) con resultado **success**. El job confirmó sintaxis válida de `actualidad.js` y `sw.js`, prueba GUATECOMPRAS aprobada y pruebas SICOIN aprobadas, incluidas las dos nuevas verificaciones. El despliegue de Pages del commit final `a811ce6` seguía en curso al actualizar esta bitácora; no se declara todavía la publicación final ni una prueba visual.
 - El catálogo CGC abrió y permitió confirmar los títulos listados; el PDF directo A-050-2026 devolvió 403 desde el navegador de consulta. El manual MINFIN enlazado desde la ruta también devolvió 403; la cápsula DIFODA sí abrió. No se interpretó el contenido de los PDF inaccesibles.
 - GitHub Pages no fue accesible desde el navegador de consulta; la disponibilidad pública se comprobará mediante el resultado del flujo de despliegue, sin afirmar prueba visual.
 - No se modificaron fichas jurídicas ni se declaró reforma o derogación alguna.
