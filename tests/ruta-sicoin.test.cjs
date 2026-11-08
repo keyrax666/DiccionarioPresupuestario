@@ -52,3 +52,25 @@ test("los recursos de formación enlazan a dominios institucionales esperados", 
   assert.match(html, /https:\/\/www\.minfin\.gob\.gt\//);
   assert.match(html, /ACUERDO%20MINISTERIAL%20681-2023/);
 });
+
+
+test("la ruta ofrece enlace directo a la cápsula específica de reportería SICOIN", () => {
+  const html = read("ruta-consultas-sicoin.html");
+  const expected = "https://formacion.minfin.gob.gt/creacion-de-un-reporte-en-el-sistema-de-contabilidad-integrada-sicoin/";
+  const anchor = [...html.matchAll(/<a\\b[^>]*href="([^"]+)"[^>]*>/g)]
+    .find((match) => match[1] === expected);
+  assert.ok(anchor, "Falta el enlace directo a la cápsula oficial de reportes SICOIN");
+  assert.match(anchor[0], /target="_blank"/);
+  assert.match(anchor[0], /rel="noopener noreferrer"/);
+});
+
+test("los enlaces externos de la ruta SICOIN usan HTTPS y apertura segura", () => {
+  const html = read("ruta-consultas-sicoin.html");
+  const anchors = [...html.matchAll(/<a\\b[^>]*href="https:\\/\\/[^"]+"[^>]*>/g)]
+    .map((match) => match[0]);
+  assert.ok(anchors.length >= 3, "Se esperaban los enlaces oficiales de formación y manuales");
+  for (const anchor of anchors) {
+    assert.match(anchor, /target="_blank"/, "Todo enlace externo debe abrir en una pestaña nueva");
+    assert.match(anchor, /rel="noopener noreferrer"/, "Todo enlace externo debe incluir protección rel");
+  }
+});
