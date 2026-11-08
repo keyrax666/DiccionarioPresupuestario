@@ -2,6 +2,30 @@
 
 Este archivo documenta cambios comprobables y trabajos pendientes del Centro de Conocimiento Presupuestario. No reemplaza el historial de commits ni certifica la vigencia de las normas. Cada entrada debe indicar **fecha, cambio, fuente, prueba y limitación**.
 
+## 2026-11-08 — Enlace directo de reportería SICOIN, precisión editorial CGC y pruebas CI
+
+**Cambios guardados en GitHub:**
+- `ruta-consultas-sicoin.html`: el segundo módulo ahora enlaza directamente a la cápsula DIFODA «Creación de un reporte en el Sistema de Contabilidad Integrada (SICOIN)», además de conservar el acceso a la colección completa. La página oficial describe que la cápsula enseña a elaborar un reporte dinámico paso a paso. Se actualizó la fecha de revisión editorial al 8 de noviembre de 2026.
+- `actualidad.js`: se corrigió la tarjeta del manual A-050-2026 de la CGC. El catálogo institucional sí lo lista, pero el PDF no pudo abrirse durante esta revisión; por eso se eliminó la fecha exacta no corroborada, se enlazó al catálogo y se dejó pendiente la comprobación del texto, fecha y vigencia. Se mantiene explícito que es un manual interno de una dirección de la CGC, no un procedimiento general para hospitales o municipalidades.
+- `sw.js`: caché PWA actualizada de v19 a v20 para renovar la ruta y la tarjeta editorial.
+- `tests/ruta-sicoin.test.cjs`: añadidas comprobaciones para el enlace directo a la cápsula y para que los enlaces externos de la ruta usen HTTPS, `target="_blank"` y `rel="noopener noreferrer"`; sincronizada la expectativa de caché v20.
+- `.github/workflows/validar-academia.yml`: añadida comprobación de sintaxis de `actualidad.js` y `sw.js`, y activación del flujo para cambios de `actualidad.js` también en pull requests.
+
+**Fuentes oficiales consultadas (08/11/2026):**
+- DIFODA/MINFIN, colección de cápsulas de autoformación: https://formacion.minfin.gob.gt/coleccion-capsulas-multimedia-de-autoformacion/ (la página describe contenidos de adquisiciones y consultas SICOIN; incluye el recurso específico de creación de reportes).
+- DIFODA/MINFIN, cápsula «Creación de un reporte en el Sistema de Contabilidad Integrada (SICOIN)»: https://formacion.minfin.gob.gt/creacion-de-un-reporte-en-el-sistema-de-contabilidad-integrada-sicoin/ (la ficha dice que enseña paso a paso a elaborar un reporte dinámico; no se auditó el video ni se certificó la vigencia de sus pantallas).
+- CGC, catálogo de manuales de procedimientos: https://www.contraloria.gob.gt/index.php/06-manuales-de-procedimientos/ (lista el A-050-2026 y otros manuales 2026, incluidos A-078-2026 de Dirección Financiera, A-060-2026 de Recursos Humanos y A-062-2026 de auditoría municipal; son documentos internos de la CGC y no se extrapolan a otras entidades).
+- MSPAS, formularios de farmacovigilancia: https://medicamentos.mspas.gob.gt/index.php/formularios/farmacovigilancia (la página consultada mantiene el F-FV-f-05 V.01-2026 con vigencia indicada 17/10/2026).
+- Congreso, iniciativa 6841 y cierre de audiencias del Presupuesto 2027 (29/10/2026): https://www.congreso.gob.gt/noticias_congreso/17378/2026/3. No se encontró en la búsqueda de esta ejecución una aprobación del Presupuesto General 2027; la noticia del Acuerdo Legislativo 24-2026 corresponde al presupuesto del Organismo Legislativo, no al presupuesto general.
+
+**Comprobaciones y límites:**
+- Antes de estos cambios, GitHub Actions registró como satisfactorios el flujo «Validar academia» del commit de integración SICOIN (`8c2ff1c`) y el despliegue de Pages del commit editorial `5322604`. Las pruebas de esta nueva revisión quedan pendientes de consultar después de los commits.
+- El catálogo CGC abrió y permitió confirmar los títulos listados; el PDF directo A-050-2026 devolvió 403 desde el navegador de consulta. El manual MINFIN enlazado desde la ruta también devolvió 403; la cápsula DIFODA sí abrió. No se interpretó el contenido de los PDF inaccesibles.
+- GitHub Pages no fue accesible desde el navegador de consulta; la disponibilidad pública se comprobará mediante el resultado del flujo de despliegue, sin afirmar prueba visual.
+- No se modificaron fichas jurídicas ni se declaró reforma o derogación alguna.
+
+**Próximo trabajo:** revisar el resultado CI y el despliegue de esta revisión; cuando se pueda acceder al PDF A-050-2026, comprobar fecha, aprobación, alcance y contenido antes de ampliar la tarjeta; auditar el video SICOIN antes de convertirlo en instrucciones de pantalla; seguir consolidando reportes SICOIN y procedimientos SIGES con manuales específicos.
+
 ## 2026-11-01 — Corrección funcional de filtros GUATECOMPRAS y prueba de regresión
 
 **Hallazgo crítico de auditoría:** las nueve tarjetas de `ruta-guatecompras.html` estaban publicadas con el atributo `data-topic="undefined"`. El filtro `Todos` mostraba los recursos, pero los botones `Primeros pasos`, `Planificación`, `Publicaciones` y `Control` ocultaban **todas** las tarjetas, aunque sí existían materiales de cada categoría. No era un problema normativo sino de experiencia y funcionalidad.
