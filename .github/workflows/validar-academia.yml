@@ -17,6 +17,7 @@ on:
       - "ruta-consultas-sicoin.html"
       - "ruta-guatecompras.html"
       - "sw.js"
+      - "actualidad.js"
       - "tests/ruta-sicoin.test.cjs"
       - "tests/ruta-guatecompras-autoevaluacion.test.cjs"
       - ".github/workflows/validar-academia.yml"
