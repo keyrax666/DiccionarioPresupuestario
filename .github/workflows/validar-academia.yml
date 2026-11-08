@@ -7,6 +7,7 @@ on:
       - "ruta-consultas-sicoin.html"
       - "ruta-guatecompras.html"
       - "sw.js"
+      - "actualidad.js"
       - "tests/ruta-sicoin.test.cjs"
       - "tests/ruta-guatecompras-autoevaluacion.test.cjs"
       - ".github/workflows/validar-academia.yml"
@@ -34,6 +35,8 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "22"
+      - name: Comprobar sintaxis de scripts
+        run: node --check actualidad.js && node --check sw.js
       - name: Probar ruta educativa GUATECOMPRAS
         run: node --test tests/ruta-guatecompras-autoevaluacion.test.cjs
       - name: Probar navegación, ruta y caché offline SICOIN
