@@ -2,6 +2,28 @@
 
 Este archivo documenta cambios comprobables y trabajos pendientes del Centro de Conocimiento Presupuestario. No reemplaza el historial de commits ni certifica la vigencia de las normas. Cada entrada debe indicar **fecha, cambio, fuente, prueba y limitación**.
 
+## 2026-11-09 — Guías GUATECOMPRAS, catálogo CGC y controles del observatorio
+
+**Cambios guardados en GitHub:**
+- `observatorio-normativo.html`: fecha editorial actualizada al 9 de noviembre; añadidas referencias a las guías GUATECOMPRAS 004–007-2026 y Circular DIGAE 001-2026; añadido el registro A-086-2026 y los dos tomos A-078-2026 del catálogo CGC.
+- `actualidad.js`: dos tarjetas nuevas con enlaces a los índices institucionales y límites de verificación.
+- `sw.js`: caché PWA de v20 a v21.
+- `tests/ruta-sicoin.test.cjs`: expectativa de caché sincronizada.
+- `tests/observatorio-recursos.test.cjs`: prueba de fecha, títulos, enlaces y advertencias editoriales.
+- `.github/workflows/validar-academia.yml`: activa CI al cambiar el observatorio y ejecuta la nueva prueba.
+
+**Fuentes oficiales consultadas (09/11/2026):**
+- GUATECOMPRAS, base legal y documentos relacionados: https://www.guatecompras.gt/info/legislacion.aspx. El índice institucional recuperado lista GUIA-004-2026 (adjudicación por producto; 05/01/2026), GUIA-005-2026 (usuario comprador padre; 02/03/2026), GUIA-006-2026 (usuario comprador hijo; 02/03/2026), GUIA-007-2026 (factor de autenticación múltiple; 04/06/2026) y Circular DIGAE 001-2026 (nueva forma de acceso; 25/02/2026). La página devolvió 403 al abrirla directamente y no se leyeron los PDF; solo se registran títulos y fechas de listado.
+- CGC, catálogo de manuales: https://www.contraloria.gob.gt/index.php/06-manuales-de-procedimientos/. Lista el Manual de Organización y Funciones A-086-2026 y los dos tomos A-078-2026 de Dirección Financiera. El PDF A-086 excedió el límite de tamaño y A-078 devolvió 403; no se afirma contenido, fecha de aprobación ni vigencia.
+- Congreso, cierre de audiencias iniciativa 6841 (29/10/2026): https://www.congreso.gob.gt/noticias_congreso/17378/2026/3. Continúa tratado como proyecto, no como presupuesto aprobado.
+- Congreso, Acuerdo Legislativo 24-2026 (03/11/2026): https://www.congreso.gob.gt/noticias_congreso/17391/2026/4. Presupuesto del Organismo Legislativo, distinto del Presupuesto General.
+- MSPAS, formularios de farmacovigilancia: https://medicamentos.mspas.gob.gt/index.php/formularios/farmacovigilancia. F-FV-f-05 V.01-2026 aparece con vigencia indicada desde 17/10/2026; no se alteraron instrucciones de bodega.
+- MINFIN, Oficio Circular DCE-001-2026: https://sicoindes.minfin.gob.gt/sicoinweb/downloads/230426120421_Oficio%20Circular%20DCE-001-2026.pdf. Se mantiene la advertencia de que el plazo del 27/02/2026 venció.
+
+**Pruebas y límites:** la nueva prueba Node y el flujo CI quedaron configurados, pero la ejecución disparada por estos commits y el despliegue de Pages quedan pendientes de confirmación. No hubo inspección visual. No se leyeron íntegramente los PDF bloqueados o demasiado grandes. Revisión institucional selectiva, no exhaustiva. No se declaró reforma ni derogación.
+
+**Próximo trabajo:** confirmar CI y Pages; obtener versiones legibles de las guías de usuarios/autenticación antes de convertirlas en instrucciones; revisar A-086-2026 antes de extraer procedimientos; continuar consolidando SICOIN/SIGES.
+
 ## 2026-11-08 — Enlace directo de reportería SICOIN, precisión editorial CGC y pruebas CI
 
 **Cambios guardados en GitHub:**
