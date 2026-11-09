@@ -20,7 +20,7 @@ Este archivo documenta cambios comprobables y trabajos pendientes del Centro de 
 - MSPAS, formularios de farmacovigilancia: https://medicamentos.mspas.gob.gt/index.php/formularios/farmacovigilancia. F-FV-f-05 V.01-2026 aparece con vigencia indicada desde 17/10/2026; no se alteraron instrucciones de bodega.
 - MINFIN, Oficio Circular DCE-001-2026: https://sicoindes.minfin.gob.gt/sicoinweb/downloads/230426120421_Oficio%20Circular%20DCE-001-2026.pdf. Se mantiene la advertencia de que el plazo del 27/02/2026 venció.
 
-**Pruebas y límites:** la nueva prueba Node y el flujo CI quedaron configurados, pero la ejecución disparada por estos commits y el despliegue de Pages quedan pendientes de confirmación. No hubo inspección visual. No se leyeron íntegramente los PDF bloqueados o demasiado grandes. Revisión institucional selectiva, no exhaustiva. No se declaró reforma ni derogación.
+**Pruebas y límites:** el flujo «Validar academia» run `42641802762` para el commit `a653213` terminó **success**; pasaron sintaxis, GUATECOMPRAS, SICOIN y la nueva prueba del observatorio. El primer intento `42641688771` falló porque la descripción de actualidad omitía el prefijo `GUIA-` exigido por la prueba; se corrigió y el siguiente run pasó. GitHub Pages run `42641801139` estaba en cola al cerrar esta actualización; falta confirmar su finalización. No hubo inspección visual. No se leyeron íntegramente los PDF bloqueados o demasiado grandes. Revisión institucional selectiva, no exhaustiva. No se declaró reforma ni derogación.
 
 **Próximo trabajo:** confirmar CI y Pages; obtener versiones legibles de las guías de usuarios/autenticación antes de convertirlas en instrucciones; revisar A-086-2026 antes de extraer procedimientos; continuar consolidando SICOIN/SIGES.
 
