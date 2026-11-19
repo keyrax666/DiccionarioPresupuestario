@@ -3528,34 +3528,85 @@
     "id": "pendiente-distribucion-analitica",
     "termino": "Distribución analítica",
     "categoria": "Gestión presupuestaria",
-    "definicion": "Concepto relacionado con gestión presupuestaria. Ficha en preparación editorial: su definición técnica y aplicación deben verificarse en fuentes oficiales antes de utilizarse como referencia.",
-    "ejemplo": "Pendiente de incorporar un caso práctico validado para unidades ejecutoras del sector salud.",
-    "fuente": "Pendiente de validación documental",
-    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
-    "revision": "Entrada de índice en desarrollo; no constituye una definición normativa validada.",
-    "estado": "en_preparacion"
+    "definicion": "Desagregación del presupuesto aprobado en asignaciones operativas que permiten identificar cómo se distribuyen los créditos para ejecutar productos, subproductos y actividades institucionales.",
+    "ejemplo": "Una unidad hospitalaria revisa la asignación de insumos de laboratorio frente a sus metas de atención, sin asumir que el monto distribuido es una cuota de compromiso aprobada.",
+    "fuente": "MINFIN, Manual de Programación de la Ejecución Presupuestaria, anexo del Acuerdo Ministerial 450-2023 (fuente primaria institucional).",
+    "url": "https://www.minfin.gob.gt/images/downloads/minfin2023/manuales%20mfp/ACUERDO%20MINISTERIAL%20450-2023%20ANEXO.pdf",
+    "revision": "2026-11-19 · Revisión editorial con fuente primaria; aplicación operativa sujeta a normativa vigente.",
+    "estado": "desarrollada",
+    "explicacion": "El Manual de Programación de la Ejecución Presupuestaria de MINFIN vincula la distribución analítica con la determinación de créditos para la programación de bienes, servicios y metas físicas. No equivale a una compra autorizada ni sustituye la clasificación presupuestaria y los registros de ejecución.",
+    "finalidad": "Servir de base para organizar las asignaciones que sustentan la programación y el seguimiento institucional.",
+    "cuando": "Al organizar el presupuesto para su ejecución y al contrastar necesidades de centros de costo con créditos disponibles.",
+    "procedimiento": "Uso didáctico: identifica el ejercicio, la entidad y la unidad ejecutora; consulta la distribución aprobada en los registros institucionales; verifica estructura programática, fuente y objeto del gasto; contrasta las necesidades del centro de costo y documenta diferencias para el responsable presupuestario. Los pasos de registro dependen de la normativa y perfil autorizados.",
+    "documentos": "Presupuesto aprobado y vigente, distribución analítica institucional, programación de metas, reportes de créditos y modificaciones autorizadas.",
+    "caso": "Ejemplo ficticio: un hospital recibe asignaciones para suministros de distintos servicios. Presupuesto comprueba cómo se distribuyeron los créditos antes de preparar la programación de compras; la distribución no demuestra por sí sola disponibilidad para contratar.",
+    "diferencias": "Distribución analítica: desagrega créditos. Programación de gasto: ordena requerimientos por períodos. Ejecución: registra operaciones efectivamente tramitadas.",
+    "advertencia": "Error frecuente: interpretar una asignación analítica como autorización automática para comprometer o pagar. Verifica modificaciones, fuente, renglón, cuotas y competencias aplicables.",
+    "nivel": "tecnica",
+    "fuentes_detalladas": [
+      {
+        "titulo": "Manual oficial MINFIN — Programación de la Ejecución Presupuestaria",
+        "url": "https://www.minfin.gob.gt/images/downloads/minfin2023/manuales%20mfp/ACUERDO%20MINISTERIAL%20450-2023%20ANEXO.pdf",
+        "detalle": "Referencia primaria consultada; se evita atribuir artículos o páginas no comprobados."
+      }
+    ],
+    "confianza": "Alta para la explicación conceptual; verificar aplicabilidad y actualizaciones operativas."
   },
   {
     "id": "pendiente-programacion-de-gasto",
     "termino": "Programación de gasto",
     "categoria": "Gestión presupuestaria",
-    "definicion": "Concepto relacionado con gestión presupuestaria. Ficha en preparación editorial: su definición técnica y aplicación deben verificarse en fuentes oficiales antes de utilizarse como referencia.",
-    "ejemplo": "Pendiente de incorporar un caso práctico validado para unidades ejecutoras del sector salud.",
-    "fuente": "Pendiente de validación documental",
-    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
-    "revision": "Entrada de índice en desarrollo; no constituye una definición normativa validada.",
-    "estado": "en_preparacion"
+    "definicion": "Planificación temporal de los requerimientos de gasto de una institución para ejecutar su presupuesto y atender sus metas y servicios.",
+    "ejemplo": "La bodega informa consumo proyectado y Presupuesto contrasta la necesidad con créditos y programación antes de tramitar operaciones.",
+    "fuente": "MINFIN, Manual de Programación de la Ejecución Presupuestaria, anexo del Acuerdo Ministerial 450-2023 (fuente primaria institucional).",
+    "url": "https://www.minfin.gob.gt/images/downloads/minfin2023/manuales%20mfp/ACUERDO%20MINISTERIAL%20450-2023%20ANEXO.pdf",
+    "revision": "2026-11-19 · Revisión editorial con fuente primaria; aplicación operativa sujeta a normativa vigente.",
+    "estado": "desarrollada",
+    "explicacion": "Según el Manual de Programación de la Ejecución Presupuestaria de MINFIN, los centros de costo preparan requerimientos de bienes, servicios e insumos por cuatrimestre y los remiten a la unidad ejecutora. El comprobante CO3 recoge requerimientos de gasto cuatrimestral; programar no significa que el gasto ya esté comprometido o devengado.",
+    "finalidad": "Anticipar necesidades y facilitar la consolidación institucional y la administración de cuotas y recursos.",
+    "cuando": "Al inicio del ejercicio y en los períodos de actualización de la programación, según el procedimiento institucional.",
+    "procedimiento": "Uso didáctico: recopila requerimientos justificados de centros de costo; relaciona bienes y servicios con metas y créditos; distribuye las necesidades por cuatrimestre; remite a la unidad ejecutora para consolidación; revisa los comprobantes y autorizaciones correspondientes antes de ejecutar. No supone acceso a una pantalla específica.",
+    "documentos": "Requerimientos de centros de costo, planificación institucional, presupuesto vigente, programación cuatrimestral, comprobante CO3 y respaldos de aprobación.",
+    "caso": "Ejemplo ficticio: un hospital estima Q120,000 anuales para materiales de curación y distribuye necesidades Q35,000, Q40,000 y Q45,000 por cuatrimestre. Es una previsión educativa, no una cuota aprobada.",
+    "diferencias": "Programación: previsión de requerimientos. Compromiso: etapa de ejecución que afecta créditos según operaciones autorizadas. Devengado: reconocimiento de obligación conforme respaldo aplicable.",
+    "advertencia": "No confundir requerimientos enviados con cuotas aprobadas ni usar proyecciones como evidencia de recepción, obligación o pago. Verificar clasificación y período.",
+    "nivel": "tecnica",
+    "fuentes_detalladas": [
+      {
+        "titulo": "Manual oficial MINFIN — Programación de la Ejecución Presupuestaria",
+        "url": "https://www.minfin.gob.gt/images/downloads/minfin2023/manuales%20mfp/ACUERDO%20MINISTERIAL%20450-2023%20ANEXO.pdf",
+        "detalle": "Referencia primaria consultada; se evita atribuir artículos o páginas no comprobados."
+      }
+    ],
+    "confianza": "Alta para la explicación conceptual; verificar aplicabilidad y actualizaciones operativas."
   },
   {
     "id": "pendiente-programacion-cuatrimestral",
     "termino": "Programación cuatrimestral",
     "categoria": "Gestión presupuestaria",
-    "definicion": "Concepto relacionado con gestión presupuestaria. Ficha en preparación editorial: su definición técnica y aplicación deben verificarse en fuentes oficiales antes de utilizarse como referencia.",
-    "ejemplo": "Pendiente de incorporar un caso práctico validado para unidades ejecutoras del sector salud.",
-    "fuente": "Pendiente de validación documental",
-    "url": "https://www.minfin.gob.gt/legislacion-y-normas/manuales",
-    "revision": "Entrada de índice en desarrollo; no constituye una definición normativa validada.",
-    "estado": "en_preparacion"
+    "definicion": "Organización de requerimientos de ejecución presupuestaria y, cuando corresponde, metas físicas en períodos de cuatro meses del ejercicio fiscal.",
+    "ejemplo": "La unidad ejecutora coordina necesidades de farmacia y laboratorio para mayo-agosto, verificando que los montos no se confundan con gasto ejecutado.",
+    "fuente": "MINFIN, Manual de Programación de la Ejecución Presupuestaria, anexo del Acuerdo Ministerial 450-2023 (fuente primaria institucional).",
+    "url": "https://www.minfin.gob.gt/images/downloads/minfin2023/manuales%20mfp/ACUERDO%20MINISTERIAL%20450-2023%20ANEXO.pdf",
+    "revision": "2026-11-19 · Revisión editorial con fuente primaria; aplicación operativa sujeta a normativa vigente.",
+    "estado": "desarrollada",
+    "explicacion": "El Manual de Programación de la Ejecución Presupuestaria del MINFIN distingue el CO3 para requerimientos de gasto cuatrimestral y el CO3F para programación cuatrimestral de seguimiento físico. La programación orienta la gestión de cuotas; su registro o presentación no equivale automáticamente a una aprobación de compromiso.",
+    "finalidad": "Coordinar el calendario de recursos con la prestación de servicios y el seguimiento de metas institucionales.",
+    "cuando": "En la preparación y revisión de cada período cuatrimestral, conforme a calendarios y reglas vigentes aplicables.",
+    "procedimiento": "Uso didáctico: identifica metas y necesidades por centro de costo; agrupa por cuatrimestre; verifica créditos y fuentes; consolida requerimientos en la unidad ejecutora; comprueba el comprobante que corresponda (CO3 o CO3F) y su estado autorizado. Consulta plazos oficiales vigentes antes de presentar información.",
+    "documentos": "Programación anual, solicitudes de centros de costo, CO3, CO3F, presupuesto vigente y resoluciones o registros de cuotas aplicables.",
+    "caso": "Ejemplo ficticio: laboratorio prevé 1,200 pruebas adicionales para el segundo cuatrimestre y estima los reactivos requeridos. La meta física y la programación financiera se contrastan, pero no son el mismo registro.",
+    "diferencias": "CO3 documenta requerimientos financieros cuatrimestrales; CO3F corresponde al seguimiento físico. Una cuota autorizada y un devengado son conceptos distintos.",
+    "advertencia": "Evita confundir cuatrimestre con trimestre, CO3 con CO3F, o fecha de programación con fecha de aprobación. Los calendarios pueden modificarse; comprueba la versión vigente.",
+    "nivel": "tecnica",
+    "fuentes_detalladas": [
+      {
+        "titulo": "Manual oficial MINFIN — Programación de la Ejecución Presupuestaria",
+        "url": "https://www.minfin.gob.gt/images/downloads/minfin2023/manuales%20mfp/ACUERDO%20MINISTERIAL%20450-2023%20ANEXO.pdf",
+        "detalle": "Referencia primaria consultada; se evita atribuir artículos o páginas no comprobados."
+      }
+    ],
+    "confianza": "Alta para la explicación conceptual; verificar aplicabilidad y actualizaciones operativas."
   },
   {
     "id": "pendiente-reprogramacion-presupuestaria",
